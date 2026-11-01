@@ -1,3 +1,37 @@
+Package: com.hunter.mhmobilenew
+Version: 1.0.11
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 760
+Depends: mobilesubstrate
+Filename: ./debs/com.hunter.mhmobilenew_1.0.11_iphoneos-arm64.deb
+Size: 268104
+MD5sum: b7a87bc7f678ab4d73e3151cd763c177
+SHA1: 68304c15971555b049386a9694a7a508f6b273ee
+SHA256: c7ee8af1d08a8d000fbb35a7da81f5f35d478dd34fb62e18662ed94b5db5ac75
+Section: Tweaks
+Homepage: https://iosgods.com
+Description: Monster Hunter Outlanders (MHMobile v1.0.11) New Mod Menu (Hunter ATK, Hunter HP/DEF, Part Break, Weakpoint, Multi-Collect, Wide Auto-Collect Vacuum, 2D/3D Treasure & Resource ESP) by m0hammed!
+Author: m0hammed
+Name: Monster Hunter Outlanders Mod Menu (New)
+
+Package: com.hunter.mhmobilenew
+Version: 1.0.11
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 760
+Depends: mobilesubstrate
+Filename: ./debs/com.hunter.mhmobilenew_1.0.11_iphoneos-arm64e.deb
+Size: 150024
+MD5sum: 5a6f5c0d58b0edc5f87efc7ab54ce29f
+SHA1: 01207ed2f94bdc9216bc277fb35a1e29d295c8d3
+SHA256: e07eb44342df34aec7bfee00b8b7950f61ac04308822be40f5faa9e4de34b797
+Section: Tweaks
+Homepage: https://iosgods.com
+Description: Monster Hunter Outlanders (MHMobile v1.0.11) New Mod Menu (Hunter ATK, Hunter HP/DEF, Part Break, Weakpoint, Multi-Collect, Wide Auto-Collect Vacuum, 2D/3D Treasure & Resource ESP) by m0hammed!
+Author: m0hammed
+Name: Monster Hunter Outlanders Mod Menu (New)
+
 Package: com.hunter.pascalswagermenu
 Version: 1.11.7
 Architecture: iphoneos-arm64
@@ -13,4 +47,54 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Pascal's Wager (com.tipsworks.ios.pascalswager)
 Author: hunter
 Name: Pascal's Wager Mod Menu
+
+Package: com.hunter.pascalswagermenu
+Version: 1.11.7
+Architecture: iphoneos-arm64e
+Maintainer: hunter
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.pascalswagermenu_1.11.7_iphoneos-arm64e.deb
+Size: 84644
+MD5sum: 45105a1f043ffac610379e93c988ad8c
+SHA1: 05873d994b4f0de5730f1e96d583a55e563243b9
+SHA256: 68db2448b24325f517449b5b00405aa04b91d707aea82cd2c9eff35aaaaff8f2
+Section: Tweaks
+Description: Glass UI Mod Menu for Pascal's Wager (com.tipsworks.ios.pascalswager)
+Author: hunter
+Name: Pascal's Wager Mod Menu
+
+Package: com.hunter.sniperfury
+Version: 8.1.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 680
+Depends: mobilesubstrate
+Filename: ./debs/com.hunter.sniperfury_8.1.0_iphoneos-arm64.deb
+Size: 243614
+MD5sum: 447f9d668128aa757acb9629f52887f8
+SHA1: e43b8c64e2707a2f6c29fc569048f2d9d6729ae8
+SHA256: 603cc1d970c7f7c864178fd7eb4c1305cc9f5e6a4652ee8d850b410429ae2d6a
+Section: Tweaks
+Homepage: https://iosgods.com
+Description: Sniper Fury (com.gameloft.mcfw) v8.1.0 Mod Menu (Damage, Attack, Ammo, Grenades, HP God Mode) by m0hammed!
+Author: m0hammed
+Name: Sniper Fury (mcfw) Mod Menu
+
+Package: com.hunter.sniperfury
+Version: 8.1.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 680
+Depends: mobilesubstrate
+Filename: ./debs/com.hunter.sniperfury_8.1.0_iphoneos-arm64e.deb
+Size: 138336
+MD5sum: 23885f3e567fec3f9e3fb41eeb9f4c06
+SHA1: 368f62fffc452c77009406c01a3fbe8e8cc7aee9
+SHA256: 6c513276fb39b807401da7cc01dfe927004b5faf5d9458f68577fad0d17ec3df
+Section: Tweaks
+Homepage: https://iosgods.com
+Description: Sniper Fury (com.gameloft.mcfw) v8.1.0 Mod Menu (Damage, Attack, Ammo, Grenades, HP God Mode) by m0hammed!
+Author: m0hammed
+Name: Sniper Fury (mcfw) Mod Menu
 
