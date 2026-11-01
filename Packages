@@ -1,0 +1,16 @@
+Package: com.hunter.pascalswagermenu
+Version: 1.11.7
+Architecture: iphoneos-arm64
+Maintainer: hunter
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.pascalswagermenu_1.11.7_iphoneos-arm64.deb
+Size: 66156
+MD5sum: 9b77220193fd87c06cd89a3384fa7de2
+SHA1: b5f2e63a1baebcbd595fda9109621e51f29ae977
+SHA256: b1e4136abc5574a688ba2a555df4365f9c1bf9e4f5d23131c1355efd784f0376
+Section: Tweaks
+Description: Glass UI Mod Menu for Pascal's Wager (com.tipsworks.ios.pascalswager)
+Author: hunter
+Name: Pascal's Wager Mod Menu
+

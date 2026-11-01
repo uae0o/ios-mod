@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 14,
+  "banners": [
+    {
+      "url": "https://i.postimg.cc/pLtrv3fr/fun.jpg",
+      "title": "Pascal's Wager Mod Menu",
+      "package": "com.hunter.pascalswagermenu",
+      "hideShadow": false
+    }
+  ]
+}

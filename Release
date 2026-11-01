@@ -1,0 +1,8 @@
+Origin: Mohammed Mod Menu Repo
+Label: Mohammed Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm
+Components: main
+Description: Official Sileo & Zebra Repository for Mohammed iOS Mod Menus (Rootless & Rootful)

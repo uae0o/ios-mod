@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mohammed Sileo Repository</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif; }
+    body {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at top, #1f1638 0%, #090910 70%);
+      color: #fff;
+      padding: 20px;
+    }
+    .card {
+      max-width: 400px;
+      width: 100%;
+      background: rgba(255, 255, 255, 0.06);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: 26px;
+      padding: 32px 24px;
+      text-align: center;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+    }
+    .avatar {
+      width: 88px;
+      height: 88px;
+      border-radius: 24px;
+      object-fit: cover;
+      border: 2.5px solid #7C5CFF;
+      box-shadow: 0 0 24px rgba(124, 92, 255, 0.5);
+      margin-bottom: 16px;
+    }
+    h1 { font-size: 22px; font-weight: 800; margin-bottom: 6px; }
+    p { font-size: 13.5px; color: rgba(255, 255, 255, 0.65); margin-bottom: 24px; }
+    .btn {
+      display: block;
+      width: 100%;
+      padding: 14px;
+      border-radius: 14px;
+      font-size: 15px;
+      font-weight: 700;
+      text-decoration: none;
+      color: #fff;
+      background: linear-gradient(135deg, #7C5CFF, #00D2FF);
+      margin-bottom: 12px;
+      transition: transform 0.15s ease;
+    }
+    .btn:active { transform: scale(0.97); }
+    .btn.secondary {
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <img class="avatar" src="https://i.postimg.cc/pLtrv3fr/fun.jpg" alt="Repo Icon" />
+    <h1>Mohammed Mod Repo</h1>
+    <p>Official iOS Rootless &amp; Rootful Sileo Repository</p>
+    <a class="btn" id="sileoBtn" href="#">Add to Sileo</a>
+    <a class="btn secondary" id="zebraBtn" href="#">Add to Zebra</a>
+  </div>
+  <script>
+    const repoUrl = window.location.href.replace(/\/index\.html$/, '').replace(/\/$/, '') + '/';
+    document.getElementById('sileoBtn').href = 'sileo://source/' + repoUrl;
+    document.getElementById('zebraBtn').href = 'zbra://sources/add/' + repoUrl;
+  </script>
+</body>
+</html>
