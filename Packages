@@ -1,3 +1,35 @@
+Package: com.hunter.earth
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.earth_2.0.2_iphoneos-arm64.deb
+Size: 59412
+MD5sum: 2d7d516a08c383e5155ec30979a3bcab
+SHA1: a8caf15682bc36739148c82e5274e066d4f59c0b
+SHA256: 24098c0bad03f3ec22222f6e5485357b6b0923c12e0ac311870c46b8319e7ea3
+Section: Tweaks
+Description: Glass UI Mod Menu for Etheria: Restart (com.xd.etheria.apple.glb)
+Author: m0hammed
+Name: Etheria: Restart Mod Menu
+
+Package: com.hunter.earth
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.earth_2.0.2_iphoneos-arm64e.deb
+Size: 58970
+MD5sum: 4178030b1616b100ee094a5814f77802
+SHA1: ffd5315bc4f08f0825fa1a7b94cd467fab524eed
+SHA256: 969e600b5ad375befe3dcf15b21d1b720f66ee255e9e551f298b0a520b835133
+Section: Tweaks
+Description: Glass UI Mod Menu for Etheria: Restart (com.xd.etheria.apple.glb)
+Author: m0hammed
+Name: Etheria: Restart Mod Menu
+
 Package: com.hunter.mhmobilenew
 Version: 1.0.11
 Architecture: iphoneos-arm64
@@ -97,4 +129,36 @@ Homepage: https://iosgods.com
 Description: Sniper Fury (com.gameloft.mcfw) v8.1.0 Mod Menu (Damage, Attack, Ammo, Grenades, HP God Mode) by m0hammed!
 Author: m0hammed
 Name: Sniper Fury (mcfw) Mod Menu
+
+Package: com.m0hammed.punishinggrayraven
+Version: 4.8.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m0hammed.punishinggrayraven_4.8.0_iphoneos-arm64.deb
+Size: 83388
+MD5sum: 1ed93750aafc73ef9d01ca29274e2e09
+SHA1: d381574b3b100629144985b05f5583064b920d2c
+SHA256: b045f76a9ede01a66b0688dd1edcf397096e21328e5bcc44267e38cdb9406d6a
+Section: Tweaks
+Description: Punishing: Gray Raven v4.8.0 • m0hammed Mod Menu (com.kurogame.punishing.grayraven.en)
+Author: m0hammed
+Name: Punishing: Gray Raven
+
+Package: com.m0hammed.punishinggrayraven
+Version: 4.8.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m0hammed.punishinggrayraven_4.8.0_iphoneos-arm64e.deb
+Size: 102552
+MD5sum: 569fb4307193297d9a08df29f90d08ab
+SHA1: ae82c6b5dac4f254b30487db6250d6d5f95478a7
+SHA256: 00688fccf7e9e2a1e07102fcfa5af19411a9bd8054c6f7b31873ec9f73069ee9
+Section: Tweaks
+Description: Punishing: Gray Raven v4.8.0 • m0hammed Mod Menu (com.kurogame.punishing.grayraven.en)
+Author: m0hammed
+Name: Punishing: Gray Raven
 
