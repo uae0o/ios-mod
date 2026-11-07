@@ -336,6 +336,40 @@ Author: m0hammed
 Name: Sniper Elite 4 Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.se4modmenu.png
 
+Package: com.hunter.sor4
+Version: 1.4.5
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.sor4_1.4.5_iphoneos-arm64.deb
+Size: 125578
+MD5sum: a2f58b288345357c88872444327516e0
+SHA1: 80c1668c81bc0d24ebd39c2d82d8cca607dfe254
+SHA256: 0833c09ee8ee499731a9156216961e7728800f98d6afa414f3fc4eb59fd7db25
+Section: Tweaks
+Description: Glass UI Mod Menu for Streets of Rage 4 (com.playdigious.streetsofrage4)
+Author: m0hammed
+Name: Streets of Rage 4 Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.sor4.png
+
+Package: com.hunter.sor4
+Version: 1.4.5
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.sor4_1.4.5_iphoneos-arm64e.deb
+Size: 233676
+MD5sum: 88b69794d5ae7a4fc6360175ee838a04
+SHA1: ef1bcada91097f87626352d4380159412d6452f7
+SHA256: 45e23a4ac8b9238069c06162319d0683e7fe27837f6afe2eaa88fabc62ffaa14
+Section: Tweaks
+Description: Glass UI Mod Menu for Streets of Rage 4 (com.playdigious.streetsofrage4)
+Author: m0hammed
+Name: Streets of Rage 4 Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.sor4.png
+
 Package: com.m0hammed.instapro
 Version: 5.0.0
 Architecture: iphoneos-arm64
@@ -443,6 +477,40 @@ Description: stardive Mod Menu by m0hammed (Boss/Mob Damage, God Mode, No Skill 
 Author: m0hammed
 Name: stardive
 Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.stardive.png
+
+Package: com.madfingergames.legends.modmenu
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.madfingergames.legends.modmenu_1.0.0_iphoneos-arm64.deb
+Size: 129340
+MD5sum: fd56ae1de1201f58be5f6e1bfae56b7c
+SHA1: b4f1d76e9e0641239879e7d29830d04391c5c891
+SHA256: d3760cdb0eaf9a5426a88591f0a0cfc47aba99131921910c9feed7ef4bdba39f
+Section: Tweaks
+Description: Mod Menu for Shadowgun Legends (Damage, Ammo, Enemy HP, God Mode) by m0hammed
+Author: m0hammed
+Name: Shadowgun Legends Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.madfingergames.legends.modmenu.png
+
+Package: com.madfingergames.legends.modmenu
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.madfingergames.legends.modmenu_1.0.0_iphoneos-arm64e.deb
+Size: 242294
+MD5sum: f41483c3ab8731ee8c978f0ac2652782
+SHA1: 9d1e664fb2ffb1fefb3fa5ff97ead685472bbc57
+SHA256: ccf7e2958aa8422e0c814194b9265b0961edd00c33e78a1105b9a0ac1194a18c
+Section: Tweaks
+Description: Mod Menu for Shadowgun Legends (Damage, Ammo, Enemy HP, God Mode) by m0hammed
+Author: m0hammed
+Name: Shadowgun Legends Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.madfingergames.legends.modmenu.png
 
 Package: crimsonheart2
 Version: 1.3.5
