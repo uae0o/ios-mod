@@ -2,13 +2,13 @@ Package: com.hunter.aethergazer
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: m0hammed (@m0hmm3d)
-Installed-Size: 432
+Installed-Size: 496
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.aethergazer_1.0.0_iphoneos-arm64.deb
-Size: 97718
-MD5sum: 848ba7d626044c729244a113ad30d730
-SHA1: e69b84bc9f5fb3f5fda99fb036fc4dd97c62e583
-SHA256: ff0d428b935f89beb38d5caa662bf95c7b27e8454f58146867281c32b9636ec4
+Size: 108722
+MD5sum: 16b7222cd08ac41bfc61cdd93728873c
+SHA1: 2510cd751b17c6369dfb47ca4a2089af0a0051ed
+SHA256: 4803a0fc58e29d00601810fd7f3622cb7e9bc1b2c71f389515f6c87fa54ff81f
 Section: Tweaks
 Description: Glass UI Mod Menu for Aether Gazer (com.YoStarGlobal.AetherGazer)
 Author: m0hammed (@m0hmm3d)
@@ -19,13 +19,13 @@ Package: com.hunter.aethergazer
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed (@m0hmm3d)
-Installed-Size: 432
+Installed-Size: 496
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.aethergazer_1.0.0_iphoneos-arm64e.deb
-Size: 185074
-MD5sum: 3fc56cc4f41b6cccf03a0e02f0e2777a
-SHA1: 6f96dcf5baeca638fdc4578e7048b29ad7b52ecd
-SHA256: f94f0c96f1371394b2cfbdbbe49c246fd06f2aeaf00fe27115fca59ce9c81c22
+Size: 204808
+MD5sum: 9663ce56de44532a3c0f4b669e69c198
+SHA1: 5bfa36f1816c3fcedcd05c11d505c62a17454ff3
+SHA256: 5727036ff2d8b659c9589d95c131262b77e03405aaa51f6cd30f73fe9f7a6c0a
 Section: Tweaks
 Description: Glass UI Mod Menu for Aether Gazer (com.YoStarGlobal.AetherGazer)
 Author: m0hammed (@m0hmm3d)
@@ -36,13 +36,13 @@ Package: com.hunter.basebss
 Version: 35.4.5
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 464
+Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.basebss_35.4.5_iphoneos-arm64.deb
-Size: 107974
-MD5sum: 350b1d207fa07b2473f79c4f4a37d512
-SHA1: fc2a1adc876ff4e6aa2843c65e9a6894ce1764dc
-SHA256: 02a27c251ae77161694097baa32a5d9fcdbd1402c14f22a76342946adbebc1d6
+Size: 121222
+MD5sum: 8b51bcfaee1dac95b6d80045e701253f
+SHA1: 74de8bb676689dc42a97e75bc63297d95da5f66f
+SHA256: 64b3f8f888214ed96b5a04a88b2667f10f015fa502b62e2063edf8910cc73559
 Section: Tweaks
 Description: Glass UI Mod Menu for Baseball Superstars (com.gamevil.basebss.ios.apple.global.normal)
 Author: m0hammed
@@ -53,13 +53,13 @@ Package: com.hunter.basebss
 Version: 35.4.5
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 464
+Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.basebss_35.4.5_iphoneos-arm64e.deb
-Size: 204106
-MD5sum: c264ac42dd61a3c0fb7e5912649afdde
-SHA1: 70ce552aab6a6f25ca39f2edbb6252fd20f3dcfb
-SHA256: e2dcc8639d587cc613788d29307284f1c52ea18e69a7b84a5301974373ed3aff
+Size: 228648
+MD5sum: 90128a660cd82fa7e1dbae29e81054f1
+SHA1: 7ce59b9f41432a40c12fe0db77b71ad189b59f01
+SHA256: 7107560e0328c27dbc2cd3fd6c277c2ba89fc9c027d709ea9ba1bb73ef7aac89
 Section: Tweaks
 Description: Glass UI Mod Menu for Baseball Superstars (com.gamevil.basebss.ios.apple.global.normal)
 Author: m0hammed
@@ -70,13 +70,13 @@ Package: com.hunter.earth
 Version: 2.0.2
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 224
+Installed-Size: 260
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.earth_2.0.2_iphoneos-arm64.deb
-Size: 59412
-MD5sum: 2d7d516a08c383e5155ec30979a3bcab
-SHA1: a8caf15682bc36739148c82e5274e066d4f59c0b
-SHA256: 24098c0bad03f3ec22222f6e5485357b6b0923c12e0ac311870c46b8319e7ea3
+Size: 92738
+MD5sum: b247f626c5c7d681263d835115576799
+SHA1: 8f0ece2858febb8708432d12a11dd93dcb70edbc
+SHA256: 62a72e4f2d8e1d395c78ea7a25d384d61c9cbbdeec1e83b4841f43f234dbe0ac
 Section: Tweaks
 Description: Glass UI Mod Menu for Etheria: Restart (com.xd.etheria.apple.glb)
 Author: m0hammed
@@ -87,13 +87,13 @@ Package: com.hunter.earth
 Version: 2.0.2
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 224
+Installed-Size: 260
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.earth_2.0.2_iphoneos-arm64e.deb
-Size: 58970
-MD5sum: 4178030b1616b100ee094a5814f77802
-SHA1: ffd5315bc4f08f0825fa1a7b94cd467fab524eed
-SHA256: 969e600b5ad375befe3dcf15b21d1b720f66ee255e9e551f298b0a520b835133
+Size: 111624
+MD5sum: 06295dcf4cafffdd15e93914368ebb84
+SHA1: d5535be565bb7576cfaafdc77e48969eb78951b5
+SHA256: 6827024b4c663350238fd341a00edd16296b6d6b165179af457b80e6d59aaa29
 Section: Tweaks
 Description: Glass UI Mod Menu for Etheria: Restart (com.xd.etheria.apple.glb)
 Author: m0hammed
@@ -104,13 +104,13 @@ Package: com.hunter.fishdom
 Version: 10.1.6
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 432
+Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.fishdom_10.1.6_iphoneos-arm64.deb
-Size: 88334
-MD5sum: 8c33118c677ef0b1dec55dad7322936b
-SHA1: d30953bd801f489d3bca441c53b8d0f65831da9e
-SHA256: 90a0a64e1ebb07389a1c62c24199c56a874dff4e1a504bbd34be91bcee8ae2e9
+Size: 101250
+MD5sum: 09e50b55341012299253badb89300e72
+SHA1: a5da4b7746c0706692370f3c9d85d3bb8b69c4f7
+SHA256: 16296a5b5e8b1339d6bcdf4990e81fa16bc840e189f1b210cb4ab6f75f4897ad
 Section: Tweaks
 Description: Glass UI Mod Menu for Fishdom (com.playrix.fishdom-freeplay) - Moves, Cost, Coins & Lives
 Author: m0hammed
@@ -121,13 +121,13 @@ Package: com.hunter.fishdom
 Version: 10.1.6
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 432
+Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.fishdom_10.1.6_iphoneos-arm64e.deb
-Size: 165564
-MD5sum: a8a68bf1543d5ea501fcb1c26b84904a
-SHA1: b019de1956149283e7212497cc45bc7e6c356d35
-SHA256: 7efcc83a557e3ee840cbbf2c5bdd7a6acadc40de999dcf678ac9c6d0cbade17b
+Size: 188484
+MD5sum: 9b4989fbd663c2bdb71cf541a47b0ec3
+SHA1: 1b391a806aefccbce84a50adcb86b251f6bc5d91
+SHA256: a80b05e1d50165617b0207b488e7ae5bdd4b9520f7e4f5d2ab89c34a2dff736a
 Section: Tweaks
 Description: Glass UI Mod Menu for Fishdom (com.playrix.fishdom-freeplay) - Moves, Cost, Coins & Lives
 Author: m0hammed
@@ -138,13 +138,13 @@ Package: com.hunter.gameofthrones
 Version: 1.4.20
 Architecture: iphoneos-arm64
 Maintainer: hunter
-Installed-Size: 464
+Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.gameofthrones_1.4.20_iphoneos-arm64.deb
-Size: 100572
-MD5sum: 8a333efd5cb0997197b31d3e211c4217
-SHA1: 17444c2f7b755c79f22fc4a302abd0ad2b82ae47
-SHA256: cd2f2039fa546001654720e489ef4b5a2853100f039b54ddb93ccea6c7a6b7a4
+Size: 221074
+MD5sum: 1a8be1f50dcc205389b9e60fb28a6db1
+SHA1: 43183e035705a6b9ec0f059617b1707dc9abe013
+SHA256: 09949615fbd3c24ff356d73edacdf42b6282ccbeb1acbe0c1dcfa69df9ad73f6
 Section: Tweaks
 Description: Glass UI Mod Menu for Game of Thrones Kingsroad (Speed, Damage, Enemy)
 Author: hunter
@@ -155,13 +155,13 @@ Package: com.hunter.gameofthrones
 Version: 1.4.20
 Architecture: iphoneos-arm64e
 Maintainer: hunter
-Installed-Size: 464
+Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.gameofthrones_1.4.20_iphoneos-arm64e.deb
-Size: 190664
-MD5sum: cd15f160e042cadb250f0ed3b7a599f8
-SHA1: fa5a323a055f539e01b07a2134052b6ee1117ded
-SHA256: aff6386afd535783357124bb75498364d0e8bc04d85c0e07bbff81340dfadc49
+Size: 117084
+MD5sum: cbb6ebd27a89dd85d2fcd88fc10b404c
+SHA1: d84cbc5d320b332c2585abff400292b749a55c92
+SHA256: 550651535617ee5645d75f8001467f68c4b7e46a0eb2a038b25f62906566a16f
 Section: Tweaks
 Description: Glass UI Mod Menu for Game of Thrones Kingsroad (Speed, Damage, Enemy)
 Author: hunter
@@ -172,13 +172,13 @@ Package: com.hunter.mhmenu
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: hunter
-Installed-Size: 368
+Installed-Size: 496
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.mhmenu_1.0.0_iphoneos-arm64.deb
-Size: 70938
-MD5sum: 7f60356c5f0c580d1d67c8f27257d9e2
-SHA1: 68d03292ee8b500caf64847c291d48ae0d50cbbe
-SHA256: 6da8739ebc0db6fe6834ca3651bdb51c604fd989edc6f13e37cf55b157f37642
+Size: 114316
+MD5sum: 24daa79c3f4295f0586bc209c3ed189a
+SHA1: e2f0a12fb9985e754c9d1bb7f41dd40a11e843f4
+SHA256: 1e225934e97006e60290a124436efcf4401080f754857555905b75a343479e8e
 Section: Tweaks
 Description: Glass UI Mod Menu for Monster Hunter Outlanders (MHMobile-IOS-Shipping)
 Author: hunter
@@ -189,54 +189,18 @@ Package: com.hunter.mhmenu
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: hunter
-Installed-Size: 368
+Installed-Size: 496
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.mhmenu_1.0.0_iphoneos-arm64e.deb
-Size: 132640
-MD5sum: 0a2f6e0ddc25858f4de47637ab11dc88
-SHA1: c351b172dae693d2d6f61478ab97d03bc0c3305e
-SHA256: 66a9c3ea820dcc468c3fa1b92aa3bd1c9d9b8ac56c6f3381739bfb9a3c036e2c
+Size: 214490
+MD5sum: 281298ecac0f2d1739cbdeb5fea9b5a3
+SHA1: e4f3f4ab8dd3cef7b415518f566aa1bdb807e141
+SHA256: a9c23cb756412336dbb4ef0a13962288c0f574ecb9abc347543f63f7ee4a6fa9
 Section: Tweaks
 Description: Glass UI Mod Menu for Monster Hunter Outlanders (MHMobile-IOS-Shipping)
 Author: hunter
 Name: MH Outlanders Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmenu.png
-
-Package: com.hunter.mhmobilenew
-Version: 1.0.11
-Architecture: iphoneos-arm64
-Maintainer: m0hammed
-Installed-Size: 760
-Depends: mobilesubstrate
-Filename: ./debs/com.hunter.mhmobilenew_1.0.11_iphoneos-arm64.deb
-Size: 268104
-MD5sum: b7a87bc7f678ab4d73e3151cd763c177
-SHA1: 68304c15971555b049386a9694a7a508f6b273ee
-SHA256: c7ee8af1d08a8d000fbb35a7da81f5f35d478dd34fb62e18662ed94b5db5ac75
-Section: Tweaks
-Homepage: https://iosgods.com
-Description: Monster Hunter Outlanders (MHMobile v1.0.11) New Mod Menu (Hunter ATK, Hunter HP/DEF, Part Break, Weakpoint, Multi-Collect, Wide Auto-Collect Vacuum, 2D/3D Treasure & Resource ESP) by m0hammed!
-Author: m0hammed
-Name: Monster Hunter Outlanders Mod Menu (New)
-Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmobilenew.png
-
-Package: com.hunter.mhmobilenew
-Version: 1.0.11
-Architecture: iphoneos-arm64e
-Maintainer: m0hammed
-Installed-Size: 760
-Depends: mobilesubstrate
-Filename: ./debs/com.hunter.mhmobilenew_1.0.11_iphoneos-arm64e.deb
-Size: 150024
-MD5sum: 5a6f5c0d58b0edc5f87efc7ab54ce29f
-SHA1: 01207ed2f94bdc9216bc277fb35a1e29d295c8d3
-SHA256: e07eb44342df34aec7bfee00b8b7950f61ac04308822be40f5faa9e4de34b797
-Section: Tweaks
-Homepage: https://iosgods.com
-Description: Monster Hunter Outlanders (MHMobile v1.0.11) New Mod Menu (Hunter ATK, Hunter HP/DEF, Part Break, Weakpoint, Multi-Collect, Wide Auto-Collect Vacuum, 2D/3D Treasure & Resource ESP) by m0hammed!
-Author: m0hammed
-Name: Monster Hunter Outlanders Mod Menu (New)
-Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmobilenew.png
 
 Package: com.hunter.mirrorsofalbion
 Version: 9.8
@@ -245,10 +209,10 @@ Maintainer: m0hammed
 Installed-Size: 224
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.mirrorsofalbion_9.8_iphoneos-arm64.deb
-Size: 77062
-MD5sum: 384b99d11229e8e4d0d166135c5d7378
-SHA1: aeda0e82915a4330a3a5a1287e6e0943f23f2406
-SHA256: 4e5321334da7cf698b848439bc8b4b93756231c7c28f3fc2de270f4832f770ef
+Size: 79104
+MD5sum: 034b48c590318fa41d12a9203c6e5a4d
+SHA1: 649488014f3dc5c8960931d54863e41b0280a339
+SHA256: 7dcd5922a7ca6783fe148ecd1bf980560e3375caa9343a0f191f37310d08640d
 Section: Tweaks
 Description: Glass UI Mod Menu for Mirrors of Albion (com.gameinsight.mirrorsofalbionhd)
 Author: m0hammed
@@ -262,10 +226,10 @@ Maintainer: m0hammed
 Installed-Size: 224
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.mirrorsofalbion_9.8_iphoneos-arm64e.deb
-Size: 94250
-MD5sum: 042438c62871f98ec755b4dd089f1452
-SHA1: d67e3089a591d2c53d57a05d136bc399337ddb32
-SHA256: 98f52e8c4ea7268c0b785d2abe357aa386e59e0a94793121c3777b05d8ca7e73
+Size: 97332
+MD5sum: 7526d4f6d50a32c75dcc4968d0641404
+SHA1: 376a5f7070511bcc4b7a78c3aa5bf062da4b1c3c
+SHA256: 4863f7b66520e9a6e4f4e893fc98ec153682c13ef04cf6403f1ced68f23be07b
 Section: Tweaks
 Description: Glass UI Mod Menu for Mirrors of Albion (com.gameinsight.mirrorsofalbionhd)
 Author: m0hammed
@@ -276,12 +240,12 @@ Package: com.hunter.mw2
 Version: 2026.3.0
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 240
+Installed-Size: 260
 Filename: ./debs/com.hunter.mw2_2026.3.0_iphoneos-arm64.deb
-Size: 88086
-MD5sum: 9e53f7c146f73906a36ea9a7364a00e9
-SHA1: d922944a84b7f5ad62f3bbacebc43938c9abfd1e
-SHA256: 53c6c35d1bb179b15275f786dc8de226c5ec7f5e3b7ab88d8a7a1dd319ddef9e
+Size: 94286
+MD5sum: a94bb0b042c2c62101e945c207be0c79
+SHA1: 7492439fe7110ec11747d246e7bb50e84b50ac26
+SHA256: 5e553b8bafd587c8e85b4218ad4d52e553c61c9ea1e71a7ec9ef9012cc56345e
 Section: Tweaks
 Description: Glass UI Mod Menu for Mushroom Wars 2 (com.zillionwhales.mushroomwars2) - Supports Non-JB & JB
 Author: m0hammed
@@ -292,12 +256,12 @@ Package: com.hunter.mw2
 Version: 2026.3.0
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 240
+Installed-Size: 260
 Filename: ./debs/com.hunter.mw2_2026.3.0_iphoneos-arm64e.deb
-Size: 103026
-MD5sum: b3c1d899ba654c22e07cfab125086d6a
-SHA1: 67d087820ec95e826fc06a60743ce9ccbdefce0a
-SHA256: 62d28f71e4d95f57916064ec727df70dfd4b3508a139076ad4f10e285bf85b55
+Size: 114560
+MD5sum: 6521e377db2e16b92231d9edd212ba95
+SHA1: d019abb25fea875a8a39b1593ad2e5db8ec07b02
+SHA256: 30993c9454df5288668cfbb03b013a2b7949ac1f455a70fe9ea1a7462d38639d
 Section: Tweaks
 Description: Glass UI Mod Menu for Mushroom Wars 2 (com.zillionwhales.mushroomwars2) - Supports Non-JB & JB
 Author: m0hammed
@@ -308,13 +272,13 @@ Package: com.hunter.pascalswagermenu
 Version: 1.11.7
 Architecture: iphoneos-arm64
 Maintainer: hunter
-Installed-Size: 192
+Installed-Size: 256
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.pascalswagermenu_1.11.7_iphoneos-arm64.deb
-Size: 56882
-MD5sum: 977bdd676bf79956639b828b7c69cf2d
-SHA1: 1b31deaa7009bb9f5af1012407d6a5f05cafde3d
-SHA256: d810b99276e6cc0527ae1ce45cc83a72100be371a8fd2d1cec3d7be8e515527b
+Size: 90938
+MD5sum: fa69a3b57e7c353e485712bc9cfef305
+SHA1: 583b7f8ab7bdb33c179613613cdc724bbbbabf79
+SHA256: b518d8792f955adec5adfc417d10b6a8098bc5305eea125eacbdd8bdcc01b29e
 Section: Tweaks
 Description: Glass UI Mod Menu for Pascal's Wager (com.tipsworks.ios.pascalswager)
 Author: hunter
@@ -325,13 +289,13 @@ Package: com.hunter.pascalswagermenu
 Version: 1.11.7
 Architecture: iphoneos-arm64e
 Maintainer: hunter
-Installed-Size: 192
+Installed-Size: 256
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.pascalswagermenu_1.11.7_iphoneos-arm64e.deb
-Size: 71062
-MD5sum: 3e851793fd7ad4d0f9519a73cc6d1f4f
-SHA1: dd966624777871b1f69a46342f49f0629973a447
-SHA256: afe405ad843c3c96fbe37e119aa569f409215764385eba06aca4581c4ab9bf04
+Size: 109422
+MD5sum: b7743b625fca5a9df08231c69c255180
+SHA1: 2f2561ba45c6c821db70de62ad171c9a21cf76ec
+SHA256: 37f838195ff2f4062902fd0ad94c4311f2fb3e2a51065f270e3f67cf2e40e244
 Section: Tweaks
 Description: Glass UI Mod Menu for Pascal's Wager (com.tipsworks.ios.pascalswager)
 Author: hunter
@@ -342,13 +306,13 @@ Package: com.hunter.se4modmenu
 Version: 1.2.2
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 400
+Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.se4modmenu_1.2.2_iphoneos-arm64.deb
-Size: 75848
-MD5sum: 7354b084d287e63515793e1c66dded3e
-SHA1: cfd36afd3ddb80f44c6a1d4ce34b041dd6c68327
-SHA256: 1cf5317c74337890d71b50a5325858ccfd6af789e13a87c158cde4f041042036
+Size: 125706
+MD5sum: c02ee472807540ebb49150df26935c76
+SHA1: a28d0bccc493c0fd83fb6d4c321eea1556335a3d
+SHA256: 62fee325525bb3beba6362cb6ebeee482722fad2ddffe3eb4134220103d22fd7
 Section: Tweaks
 Description: Glass UI Mod Menu for Sniper Elite 4 (com.rebellioninteractive.sniperelite4)
 Author: m0hammed
@@ -359,66 +323,66 @@ Package: com.hunter.se4modmenu
 Version: 1.2.2
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 400
+Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.se4modmenu_1.2.2_iphoneos-arm64e.deb
-Size: 141978
-MD5sum: ec81b3881d85b4a0d9fa3a1f9ebddff9
-SHA1: ccb717f20d37927f3eaf3c259df6f9ef37c39b50
-SHA256: 5f4074a6a4e6683db328ef446298efb5f551266c9c3bb9638fec973c0cfc00ca
+Size: 237088
+MD5sum: 649eaf310ed7c1c6a7f96170ce03c612
+SHA1: f51070dff2e6e6b949c7ee7f8c51dea232da4508
+SHA256: 95ea47d95f23468d90718c709b11eea307e67dea3f9735d876d83cff3485d0ed
 Section: Tweaks
 Description: Glass UI Mod Menu for Sniper Elite 4 (com.rebellioninteractive.sniperelite4)
 Author: m0hammed
 Name: Sniper Elite 4 Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.se4modmenu.png
 
-Package: com.hunter.sniperfury
-Version: 8.1.0
+Package: com.m0hammed.instapro
+Version: 5.0.0
 Architecture: iphoneos-arm64
-Maintainer: m0hammed
-Installed-Size: 680
-Depends: mobilesubstrate
-Filename: ./debs/com.hunter.sniperfury_8.1.0_iphoneos-arm64.deb
-Size: 243614
-MD5sum: 447f9d668128aa757acb9629f52887f8
-SHA1: e43b8c64e2707a2f6c29fc569048f2d9d6729ae8
-SHA256: 603cc1d970c7f7c864178fd7eb4c1305cc9f5e6a4652ee8d850b410429ae2d6a
+Maintainer: m0hammed <m0hammed@instapro.dev>
+Installed-Size: 216
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.m0hammed.instapro_5.0.0_iphoneos-arm64.deb
+Size: 54570
+MD5sum: 202fa465173da870e8dfe72d6246f79c
+SHA1: 286589490f3b614abfe373e2f4d6e39b91e50e4d
+SHA256: 1b7f588d8c1d35cc62e969a5b8c8a4c437b8bf58551844621f23e883c05cbfab
 Section: Tweaks
-Homepage: https://iosgods.com
-Description: Sniper Fury (com.gameloft.mcfw) v8.1.0 Mod Menu (Damage, Attack, Ammo, Grenades, HP God Mode) by m0hammed!
+Priority: optional
+Description: InstaPro for Instagram: Download & Share Reels/Posts/Stories, Translate Reels Captions, Ad Blocking, Privacy & Stealth. By m0hammed.
 Author: m0hammed
-Name: Sniper Fury (mcfw) Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Name: InstaPro for Instagram
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.instapro.png
 
-Package: com.hunter.sniperfury
-Version: 8.1.0
+Package: com.m0hammed.instapro
+Version: 5.0.0
 Architecture: iphoneos-arm64e
-Maintainer: m0hammed
-Installed-Size: 680
-Depends: mobilesubstrate
-Filename: ./debs/com.hunter.sniperfury_8.1.0_iphoneos-arm64e.deb
-Size: 138336
-MD5sum: 23885f3e567fec3f9e3fb41eeb9f4c06
-SHA1: 368f62fffc452c77009406c01a3fbe8e8cc7aee9
-SHA256: 6c513276fb39b807401da7cc01dfe927004b5faf5d9458f68577fad0d17ec3df
+Maintainer: m0hammed <m0hammed@instapro.dev>
+Installed-Size: 216
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.m0hammed.instapro_5.0.0_iphoneos-arm64e.deb
+Size: 71162
+MD5sum: 2b4042253d2c878cbae75def566c0a8a
+SHA1: a38db522c0c2388817e7ead10aea50f00fbdc2cf
+SHA256: c694bd9a5643c5ec0b55b92bb49cdfed716f7bd6f6f58cb5d24aaa49723ba576
 Section: Tweaks
-Homepage: https://iosgods.com
-Description: Sniper Fury (com.gameloft.mcfw) v8.1.0 Mod Menu (Damage, Attack, Ammo, Grenades, HP God Mode) by m0hammed!
+Priority: optional
+Description: InstaPro for Instagram: Download & Share Reels/Posts/Stories, Translate Reels Captions, Ad Blocking, Privacy & Stealth. By m0hammed.
 Author: m0hammed
-Name: Sniper Fury (mcfw) Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Name: InstaPro for Instagram
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.instapro.png
 
 Package: com.m0hammed.punishinggrayraven
 Version: 4.8.0
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 224
+Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.m0hammed.punishinggrayraven_4.8.0_iphoneos-arm64.deb
-Size: 83548
-MD5sum: 382001ba59eae034aece40801a3ec17c
-SHA1: 38d73361c6434250212e50222c55b1378326e8a2
-SHA256: 22a0379070ac4c805211bbb1881539a9cd535da77b59da53c1ad1e7c06339e35
+Size: 227276
+MD5sum: b8367af3df898115ba1c740025909d6c
+SHA1: 969ba5c66dc36c2da127f3d3aad81f8887629739
+SHA256: ebf8a4678d3d718615af2f916ee1dd99757aa2f501862c37bc8238bc453f0943
 Section: Tweaks
 Description: Punishing: Gray Raven v4.8.0 • m0hammed Mod Menu (com.kurogame.punishing.grayraven.en)
 Author: m0hammed
@@ -429,13 +393,13 @@ Package: com.m0hammed.punishinggrayraven
 Version: 4.8.0
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 464
+Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.m0hammed.punishinggrayraven_4.8.0_iphoneos-arm64e.deb
-Size: 102552
-MD5sum: 569fb4307193297d9a08df29f90d08ab
-SHA1: ae82c6b5dac4f254b30487db6250d6d5f95478a7
-SHA256: 00688fccf7e9e2a1e07102fcfa5af19411a9bd8054c6f7b31873ec9f73069ee9
+Size: 119732
+MD5sum: 6ef046db64986e02246cbc3d14e6a01c
+SHA1: 3380dc529de09b326a3d96fe8e61c2d007068b1b
+SHA256: 65898777358679cb5b0fc8f89c4fc7174deb00147f43ada0ff52a0609fbf6acb
 Section: Tweaks
 Description: Punishing: Gray Raven v4.8.0 • m0hammed Mod Menu (com.kurogame.punishing.grayraven.en)
 Author: m0hammed
@@ -446,15 +410,15 @@ Package: com.m0hammed.stardive
 Version: 1.04.10
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 464
+Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.hunter.stardivemenu
 Replaces: com.hunter.stardivemenu, com.hunter.mhmenu, com.m0hammed.mhmenu
 Filename: ./debs/com.m0hammed.stardive_1.04.10_iphoneos-arm64.deb
-Size: 107476
-MD5sum: 3d600cfcc3e4799136d7006c785273e2
-SHA1: 13709b80d36aed4091f5d15dadc6da9000c4c9a5
-SHA256: 17f6e5b601a39a057622f3f95282bfb19d75e9340d544665ef19eeadaf26c387
+Size: 124082
+MD5sum: 02be2f4131cbc3f54344c52712758701
+SHA1: f32559f05f3de15ff6b4dff240fab735e2b4066a
+SHA256: 0217b912cebdd00d217fb4adf61c588a99b4fd639cfbde82de0b1d52623fe0d1
 Section: Tweaks
 Description: stardive Mod Menu by m0hammed (Boss/Mob Damage, God Mode, No Skill CD, Always Crit, Inf Stamina/MP, Auto-Collect Iron/Ores/Drops, 120 FPS)
 Author: m0hammed
@@ -465,15 +429,15 @@ Package: com.m0hammed.stardive
 Version: 1.04.10
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 464
+Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.hunter.stardivemenu
 Replaces: com.hunter.stardivemenu, com.hunter.mhmenu, com.m0hammed.mhmenu
 Filename: ./debs/com.m0hammed.stardive_1.04.10_iphoneos-arm64e.deb
-Size: 198778
-MD5sum: c4bc9f8b406bf6c81d6b0e85e958d0ea
-SHA1: 51952cb992952869e647138cd1a86c1e79280440
-SHA256: 2d70c5ccb1c4272ababebef59d4f8c89b59e6d6eea4c20bb514ffcc0ac303544
+Size: 228334
+MD5sum: f92f56a338e257a8d6e2c877e8f41def
+SHA1: 2313173f212e7cf9175972d30d53e91d00f79754
+SHA256: 21a6b2afe189e752462b29b3ca4574d6d30f6cb8ca028b521983eb7fa8c2ca2e
 Section: Tweaks
 Description: stardive Mod Menu by m0hammed (Boss/Mob Damage, God Mode, No Skill CD, Always Crit, Inf Stamina/MP, Auto-Collect Iron/Ores/Drops, 120 FPS)
 Author: m0hammed
@@ -484,13 +448,13 @@ Package: crimsonheart2
 Version: 1.3.3
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 400
+Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/crimsonheart2_1.3.3_iphoneos-arm64.deb
-Size: 76274
-MD5sum: d45298e6951fd7aabfd603eb437722c9
-SHA1: c7e812520422c97f535743d42832cda404d2eab3
-SHA256: 465d48894468bf95da748ed081c9becc277533eba476e51a4891c7e9c7ea4cd5
+Size: 174276
+MD5sum: 2dc110a210ebd5f936987502a16bf374
+SHA1: 3a682725ba0b66544a96f73178a3c3499cd1f520
+SHA256: 2138f444bff21a2c8cbc0a8abb50d65535b74ae3273f51594338d61d2d881e0e
 Section: Tweaks
 Description: Glass UI Mod Menu for CrimsonHeart2 (com.anbgames.ch2w)
 Author: m0hammed
@@ -501,13 +465,13 @@ Package: crimsonheart2
 Version: 1.3.3
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 400
+Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/crimsonheart2_1.3.3_iphoneos-arm64e.deb
-Size: 142364
-MD5sum: 787302710128d486c2c479a307486920
-SHA1: 5b681016b2228605d68964520b0c12f414c9087d
-SHA256: c88a209020c6facd6d119c484d6cb3ee97e7891fd6755fd33d27cc401eb1fa11
+Size: 92852
+MD5sum: 95806612bf0e649150e508c00e097d60
+SHA1: e231ae083b112c2179dfed912283af330e44e201
+SHA256: a92133f62cf67cad42d1823973f0f215f9850f9c809d4b74b1391511ae05bf7c
 Section: Tweaks
 Description: Glass UI Mod Menu for CrimsonHeart2 (com.anbgames.ch2w)
 Author: m0hammed
@@ -518,13 +482,13 @@ Package: onmyoji
 Version: 1.8.17
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 496
+Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/onmyoji_1.8.17_iphoneos-arm64.deb
-Size: 110096
-MD5sum: 605252a7d0ee20fa255d678bbcaa5efc
-SHA1: 002034c67e5815496db3357261e8ba8e7bba3c43
-SHA256: 57561033d026d7581981d73fdf703c1f040434a2369543248bdc76dbaa6c488d
+Size: 161576
+MD5sum: f25e8f32251c5894f82ccb87713c00c8
+SHA1: ae94437b6dc2c97d716a31f5da56b87d4e0599bf
+SHA256: 47a99e9e13f4c8f8ad213c28561344871bec5fe99c22ce3d6768c8062ca620f1
 Section: Tweaks
 Description: Onmyoji Mod Menu by m0hammed (com.netease.onmyoji.gb)
 Author: m0hammed
@@ -535,13 +499,13 @@ Package: onmyoji
 Version: 1.8.17
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 496
+Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/onmyoji_1.8.17_iphoneos-arm64e.deb
-Size: 211032
-MD5sum: 38fbfe0f29ea62c135e2959220cec857
-SHA1: e95a72fd992f9879134aaabe517e63413e481c07
-SHA256: b09a810607d58d5e3fd84a8e2afeab21b32ad469e8c754fbb2a46ed5ffdbde51
+Size: 86932
+MD5sum: 344f00516b09055fce6115a785abe71b
+SHA1: 43e1f7402a8e4adafe71999605560610d5c2e1a6
+SHA256: 7ff3da56fa702d63a6701eef17a209385f03a0908ab3e99d05d2afc4f52838fc
 Section: Tweaks
 Description: Onmyoji Mod Menu by m0hammed (com.netease.onmyoji.gb)
 Author: m0hammed
