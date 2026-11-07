@@ -4,9 +4,27 @@
   "itemCornerRadius": 14,
   "banners": [
     {
-      "url": "https://i.postimg.cc/pLtrv3fr/fun.jpg",
+      "url": "https://uae0o.github.io/ios-mod/icon.png",
       "title": "Pascal's Wager Mod Menu",
       "package": "com.hunter.pascalswagermenu",
+      "hideShadow": false
+    },
+    {
+      "url": "https://uae0o.github.io/ios-mod/icon.png",
+      "title": "Aether Gazer Mod Menu",
+      "package": "com.hunter.aethergazer",
+      "hideShadow": false
+    },
+    {
+      "url": "https://uae0o.github.io/ios-mod/icon.png",
+      "title": "Punishing: Gray Raven Mod Menu",
+      "package": "com.m0hammed.punishinggrayraven",
+      "hideShadow": false
+    },
+    {
+      "url": "https://uae0o.github.io/ios-mod/icon.png",
+      "title": "Sniper Elite 4 Mod Menu",
+      "package": "com.hunter.se4modmenu",
       "hideShadow": false
     }
   ]

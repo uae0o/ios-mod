@@ -7,6 +7,7 @@ TOOLCHAIN="/home/hunter/theos/toolchain/linux/iphone/bin"
 INSTALL_NAME_TOOL="$TOOLCHAIN/install_name_tool"
 OTOOL="$TOOLCHAIN/otool"
 LDID="$TOOLCHAIN/ldid"
+ICON_URL="https://uae0o.github.io/ios-mod/icon.png"
 
 cd "$DEBS_DIR"
 
@@ -100,10 +101,25 @@ for deb in *_iphoneos-arm64e.deb; do
     fi
 done
 
-# 4. Rebuild APT Packages indexes
+# 4. Rebuild APT Packages indexes & inject Icon: for every package in Sileo
 cd "$REPO_DIR"
-dpkg-scanpackages -m ./debs > Packages
+dpkg-scanpackages -m ./debs > Packages.raw
+awk -v icon="$ICON_URL" '
+/^Package:/ { has_icon = 0 }
+/^Icon:/ { has_icon = 1 }
+/^$/ {
+    if (!has_icon) print "Icon: " icon;
+    print "";
+    next;
+}
+{ print }
+END {
+    if (!has_icon && NR > 0) print "Icon: " icon;
+}
+' Packages.raw > Packages
+rm -f Packages.raw
+
 gzip -c9 Packages > Packages.gz
 bzip2 -c9 Packages > Packages.bz2
 xz -c9 Packages > Packages.xz
-echo "Done! Sileo Repo Packages index updated for iphoneos-arm, iphoneos-arm64, and iphoneos-arm64e."
+echo "Done! Sileo Repo Packages index updated with Icons for iphoneos-arm, iphoneos-arm64, and iphoneos-arm64e."
