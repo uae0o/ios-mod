@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "13 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Aether Gazer Mod Menu (v1.0.2)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (Invincible)** — Completely negates all incoming damage for player & allies\n- **Heal on Hit** — Converts incoming damage into instant HP recovery\n- **Super Armor (Unflinching)** — Prevents stagger, knockback, and hit interruptions (mIsStoic)\n- **One-Hit Kill (OHK)** — Instantly defeats enemies with -999,999,999 damage\n- **Enable Damage Multiplier** — Scales outgoing damage against enemies by selected factor\n- **Damage Multiplier** — Multiplier factor applied to enemy hits\n- **Infinite Dodge / Zero Avoid CD** — Removes ultimate avoid cooldown for continuous dodging\n- **Infinite Skill Energy / Power** — Keeps skill energy / rage / divine power at maximum\n- **No Skill Cooldown** — Instantly resets ability cooldowns to 0\n- **Game Speed Multiplier** — Accelerates Unity Time.timeScale (1.0x to 5.0x)\n- **Unlock 120 FPS** — Forces target framerate to 120 FPS\n- **Reset All Settings** — Reverts all modifications and restores default values\n- **Telegram: @m0hmm3d** — Tap to contact or join on Telegram\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.2"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

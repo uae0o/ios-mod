@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "27 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Game of Thrones (v1.4.22)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Player Speed Boost** — Enables custom movement speed multiplier\n- **Move Speed Multiplier** — Scales CharacterMovement MaxWalkSpeed & MoveSpeed\n- **Infinite Sprint / Stamina** — Prevents stamina depletion during dash & sprint\n- **Attack Speed Boost** — Speeds up normal attacks, heavy attacks & combos\n- **Attack Speed Multiplier** — Scales EStat::AttackSpeedMultiplier\n- **Fast / Instant Skill Cast** — Reduces skill cooldowns & cast animation delays\n- **Global Game Speed (Time Dilation)** — Scales entire game world execution speed\n- **God Mode (Invincible)** — Nullifies incoming fatal damage\n- **Infinite Guard & Barrier** — Prevents guard break, groggy state & barrier loss\n- **Outgoing Damage Multiplier** — Multiplies outgoing damage dealt by player\n- **One Hit Kill** — Instantly eliminates struck enemies\n- **Always Critical Strike** — Forces 100% Critical Hit chance on all attacks\n- **Freeze Enemies (Zero Movement)** — Forces all enemy/NPC movement speeds to 0\n- **Slow Motion Enemies (0.2x Speed)** — Reduces enemy mobility and reaction speed\n- **Harmless / Dumb Enemies** — Disables enemy AI attacks & forces 0 enemy damage\n- **Zero Enemy Defense** — Removes enemy defense rating, shields & barriers\n- **Kill Nearby Enemies** — Eliminates active monsters in immediate vicinity\n- **Auto Collect Nearby (In Range)** — Automatically opens chests & gathers nodes within 3.2m\n- **Auto Teleport & Collect Far Away** — Warps you to nearest chest/resource & collects it\n- **Instant Open / Zero Cast Gauge** — Skips interaction progress bar (0s open/gather)\n- **Treasure & Gathering Radar** — Reveals chests, ? marks & resources across map\n- **Infinite Eagle Vision / Scan** — 0s Search cooldown & 50,000m scan radius\n- **Teleport & Collect Nearest Now** — Warps to closest active chest/herb & collects it\n- **Bypass Damage Hack Check** — Suppresses USE_CHECK_DAMAGE_HACK detection\n- **Bypass NPC Move Hack Check** — Suppresses USE_CHECK_NPC_MOVE_HACK detection\n- **Bypass Skill Speed Hack Check** — Suppresses SKILL_SPEED_HACK_CHECKER detection\n- **Prevent Hack Disconnects** — Disables GAME_HACK_DISCONNECT_ENABLED\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.4.22"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

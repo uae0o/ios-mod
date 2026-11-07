@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "20 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Fishdom Mod Menu (v10.1.8)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Freeze Moves (Never Decrease)**\n- **Moves Increase When Used (+1 Per Move)**\n- **Override Level Starting Moves**\n- **Custom Starting Moves**\n- **Add +10 Moves Now**\n- **Set Moves to 99 Now**\n- **Free Store & Boosters (0 Cost)**\n- **Bypass CanBuy Checks (Always Afford)**\n- **Store Price Scale**\n- **Never Spend Coins (Free Purchases)**\n- **Spending Coins Adds Coins**\n- **Coin Gain Multiplier**\n- **Lock Coins Display at 999,999+**\n- **Never Spend Cash / Vouchers**\n- **Add +10,000 Coins Now**\n- **Add +100,000 Coins Now**\n- **Add +1,000 Cash / Vouchers Now**\n- **Infinite Lives (Never Lose a Life)**\n- **Always Full Lives (5/5)**\n- **Refill Lives to Max (5) Now**\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "10.1.8"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "9 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Streets of Rage 4 Mod Menu (v1.4.5)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Infinite Life (Player & Allies)** — Zeroes all combat, grab, weapon & poison damage taken by players\n- **No Special Move Life Cost** — Defensive, Offensive & Air Specials cost 0 green health\n- **Player Super Armor (No Hitstun)** — Players cannot be interrupted or knocked down by enemy attacks\n- **Enable Damage Multiplier** — Multiplies all Player & Ally attack damage by the slider below\n- **Damage Multiplier** — Scales PlayerAndAlliesDamageGivenMultiplier (Default 5x)\n- **One-Hit Kill (1000x Damage)** — Instantly KOs any enemy or boss in a single hit\n- **Unbreakable Weapons & Infinite Ammo** — Melee weapons never break & firearms never run out of ammo\n- **Infinite Stars (99 Stars & 0 Cost)** — Locks player Star count at 99 and removes Star Move cost\n- **No Cooldowns & Infinite Air Specials** — Removes stamina/fury move cooldowns and 1-per-jump Air Special limit\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.4.5"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "14 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Punishing: Gray Raven (v4.8.2)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Enable Pro God Preset** — God Mode + 20x Damage + 100% Crit + Inf Dodge & Orbs\n- **God Mode (Invincible)** — Player & Allies take 0 damage and cannot die\n- **Defense Multiplier** — Reduces incoming damage & boosts player defense\n- **1-Hit Kill Enemies** — Instantly defeats enemies on any hit\n- **Damage Multiplier** — Multiplies all outgoing Physical, Elemental & True damage\n- **Attack Stat Multiplier** — Multiplies base Physical & Elemental Attack stats\n- **100% Critical Hit** — Guarantees critical hits on every attack\n- **Infinite Dodge Energy** — Dodge gauge never depletes & instantly refills\n- **Infinite Signature Energy** — 5x faster Signature Move energy & zero cost\n- **Fast Signal Orbs (Instant Ping)** — Rapidly generates Signal Orbs on basic attacks\n- **Max Partner / CUB Attack** — Boosts Partner / CUB attack & critical rate\n- **Freeze Enemy HP (Training)** — Enemies take 0 HP loss for infinite combo practice\n- **Weak Enemies (1 HP / 0 ATK)** — Newly spawned enemies initialize with 1 HP and 0 Attack\n- **Reset Speed to 1.0x** — Restore normal game speed\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "4.8.2"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

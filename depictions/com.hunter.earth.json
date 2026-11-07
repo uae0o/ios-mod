@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "15 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Etheria: Restart Mod Menu (v2.0.4)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Activate Pro God Preset** — Enables God Mode, 1-Hit Kill, No Cooldowns & Infinite SP in 1 tap\n- **God Mode (Invincible)** — Player units (side=1) take 0 HP damage & cannot die\n- **Defense Multiplier** — Multiplies player defence stat & divides incoming damage\n- **1-Hit Kill Enemies** — Multiplies damage dealt to enemy units (side=2) by 99999x\n- **Damage Multiplier** — Scales all outgoing skill & attack damage against enemies\n- **Attack Stat Multiplier** — Multiplies player base Attack stat (get_property_value)\n- **No Skill Cooldowns** — Player character & animus skills have 0 turn cooldown\n- **Infinite SP / Energy** — Player SP never decreases and stays topped up in battle\n- **Instant Full Heal Party** — Restores all player units' HP to 100% max immediately\n- **Instant Kill All Enemies** — Drops all active enemy units' HP to 0 immediately\n- **Dump Lua Scripts** — Dumps loaded Lua 5.3 bytecode to Documents/earth/dump/\n- **Log Lua Scripts** — Prints loaded Lua chunk names & sizes to system console\n- **Scan Lua Battle Functions** — Exports loaded modules & hooked methods to Documents/earth/scan.txt\n- **Reload Custom inject.lua** — Hot-reloads Documents/earth/inject.lua without restarting\n- **Check UnLua Hook Status** — Displays active lua_State pointer & UnLua call counter\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "2.0.4"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

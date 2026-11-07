@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "21 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ stardive (v1.04.12)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (Invincible)** — Locks encrypted HP at 100% and blocks all damage\n- **Immortal (Death Bypass)** — Clamps player HP >= 1 so you can never die\n- **Restore Full Health (Max HP)** — Instantly refills active party HP to 100%\n- **One-Hit Kill (Monsters & Bosses)** — Any attack instantly slays monsters, elites & bosses\n- **Damage Multiplier (Boss & Mob)** — Scales outgoing hit & skill damage to bosses & enemies\n- **Always Critical Hit (100% Crit)** — Forces 100% critical hit rate & crit damage on all hits\n- **No Skill & Tag Cooldown** — Instant skill recharge, full stacks & instant character switch\n- **Infinite Stamina / Dodge / Dash** — Unlimited dodge rolls & sprint stamina with 0s recharge\n- **Infinite MP / Ultimate Burst** — Keeps special & ultimate burst energy gauges at 100%\n- **Player Action & Move Speed** — Scales character movement and attack animation speed\n- **Kill All Active Enemies & Bosses** — Executes AM2PawnBase::Kill on all spawned enemies\n- **Auto-Kill Enemies Loop** — Automatically kills enemy waves as they spawn\n- **Freeze Enemy AI & Actions** — Freezes enemy AI controller, aggro & action speed\n- **Weak Enemies & Bosses (1 HP)** — Reduces all active monsters & bosses to 1 HP\n- **Auto Break / Groggy Bosses** — Disables boss & enemy super armor / break gauge\n- **Auto-Collect All (Iron, Ores, Drops)** — Auto-mines Iron/Silver/Gems/Herbs & vacuums all drops\n- **Instant Mine & Fast Homing** — 0s mining/gathering hold time & 25x drop magnet speed\n- **Collect All Ores & Drops Now** — Gathers all Iron, Ores, Herbs & ground items in zone\n- **120 FPS ProMotion Unlocker** — Forces CADisplayLink render loop to 120 Hz\n- **Camera Distance / FOV Zoom** — Expands field & combat camera zoom distance\n- **Root & JB Detection Shield** — Blocks Cydia, Sileo, Substrate, ElleKit, /var/jb\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.04.12"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

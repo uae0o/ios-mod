@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "23 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Baseball Superstars Mod Menu (v35.4.7)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Boost Ally Primary Stats** — Multiplies Strength, Intellect, Agility & Spirit for MyTeam players\n- **Primary Stat Multiplier** — Scales PrimaryStatsManager.GetStatsValue & GetStatsOutValue\n- **Boost Ally Secondary Stats** — Multiplies all 13 pitching, batting & fielding stats for MyTeam\n- **Secondary Stat Multiplier** — Scales SecondaryStatsManager.GetStatsValue (20001-20013)\n- **Max Ally Condition (Best Condition)** — Locks PlayerBaseInfo & Classic Condition at 5 (Max)\n- **Infinite MyLeague Skill Points (9,999 SP)** — Locks MyLeaguePlayerInfo.get_SkillPoint at >= 9,999\n- **100% Training Success (Never Fail)** — Forces IsFailable = false, SuccessProb = 100% & TrainingShield active\n- **0 Stamina Cost Training** — Forces TrainingFormula.CostStamina & DefaultCostStamina = 0\n- **Training Stat Gain Multiplier** — Multiplies STR, INT, AGI, SPI, SP, Credit & Mana gained from training\n- **Max Training Feeling Gain** — Boosts TrainingFormula.GainableFeeling to maximum (+5)\n- **Weaken Enemy Stats** — Reduces all Enemy Primary & Secondary stats in match & simulation\n- **Enemy Stat Scale** — Percentage of original stats kept by Enemy (0% = 1 stat)\n- **Drain Enemy Pitcher Stamina (0 Stamina)** — Forces Enemy Pitcher StaminaInfo.Current to 0 immediately\n- **Infinite Ally Pitcher Stamina** — Locks MyTeam Pitcher StaminaInfo.Current at 100% Total\n- **Enemy Always Out / StrikeOut** — Forces Enemy batters to GroundOut (live) or StrikeOut (simulation)\n- **Freeze Enemy Score at 0** — Blocks Enemy team from scoring & returns 0 for AITeamScore\n- **Always Home Run (MyTeam Live & Sim)** — Forces MyTeam hits to Home Run in live batting & simulation\n- **Perfect Swing Timing (MyTeam)** — Forces Batter.IsPerfectSwingTiming = true when MyTeam is batting\n- **Add +5 Runs to Current Attack Team** — Calls MatchManager.Instance.AddScore(5, true)\n- **2 Strikes / 0 Balls (Instant Strikeout Setup)** — Sets count to 0 Balls, 2 Strikes via MatchManager\n- **Force 3 Outs (End Half-Inning)** — Calls MatchManager.Instance.SetOutCount(3, false)\n- **Game Speed (Time.timeScale)** — Scales UnityEngine.Time.set_timeScale (1.0x - 5.0x)\n- **Target Frame Rate (FPS)** — Sets UnityEngine.Application.targetFrameRate\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "35.4.7"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

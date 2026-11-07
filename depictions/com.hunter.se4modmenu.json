@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "18 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Sniper Elite 4 Mod Menu (v1.2.4)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (Player Immunity)** — Player-only immunity in IsImmuneToRegularDamage & 0 bullet damage\n- **Incoming Bullet Damage Scale** — Scales enemy bullet damage dealt to Karl (0% = No Damage, 100% = Normal)\n- **Lock Resting Heart Rate (~55 BPM)** — Locks GetHeartRate/SetHeartRate to minimum & enables unlimited sprint\n- **Unlimited Empty Lung & Focus** — Allows Empty Lung focus zoom at any heart rate\n- **Infinite Magazine Ammo (No Reload)** — Hooks SE_ActiveItem_Firearm::UseUpAmmo so clip ammo never decreases\n- **Infinite Reserve Ammo & Items** — Reloads, grenades, mines & medkits never decrease in SE_Inventory\n- **No Bullet Spread (Laser Accuracy)** — Locks CurrentSpread to 0.0 and disables shot spread bloom\n- **No Weapon Recoil** — Disables ProcessRecoilShot & UpdateRecoil camera kick\n- **No Scope Wobble / Sway** — Eliminates sniper scope sway in SE_ActiveItem_Firearm::UpdateWobble\n- **One-Hit Kill (Enemies & Vehicles)** — Forces player shots on non-players to fatal 1023.0f max damage\n- **Custom Player Bullet Damage Multiplier** — Multiplies player bullet damage in ComputeDamage & AdjustDamageToNonPlayer\n- **Bullet Damage Multiplier** — Multiplier applied to player shots against enemies & weak spots\n- **Invisible to Enemies (Stealth Mode)** — Blocks AI line-of-sight & player sighting in SE_Knowledge_Vision\n- **Silent Gunfire & Footsteps** — Prevents AI from registering player sound events in SE_Knowledge_Hearing\n- **Bypass Apple ID Popup & Unlock Full Campaign + DLCs** — Blocks StoreKit SKReceiptRefreshRequest login alert & unlocks Complete Edition\n- **Boost XP Gain** — Multiplies all XP earned in SE_StatTracker::ModifyAndAddXP\n- **XP Gain Multiplier** — Multiplier for combat, stealth & mission XP rewards\n- **Unlock All Weapons, Items & Skins** — Forces IsItemUnlocked, IsItemAvailable & IsSkinUnlocked = true\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.2.4"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

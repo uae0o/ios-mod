@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "22 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Pascal's Wager Mod Menu (v1.11.9)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (Invincible)** — Zero HP damage taken & cannot die\n- **Auto-Max All Bars** — Locks HP, MP, Stamina, Rage & Sanity at 100%\n- **Defense Multiplier** — Divides incoming HP damage by this factor\n- **1-Hit Kill Enemies** — All attacks deal 9,999,999 damage to enemies\n- **Damage Multiplier** — Multiplies all HP & Toughness damage dealt to enemies\n- **Attack Stat Multiplier** — Multiplies hero base Attack stat (GetAttackBase)\n- **100% Critical Hit** — Every hit lands as a critical strike\n- **Infinite Stamina & No Cooldown** — Dodges, sprints, attacks & skills cost 0 stamina with 0 recovery delay\n- **Infinite Rage / Power / MP** — Special skills cost 0 Rage/Power/MP and bars never decay\n- **Infinite Sanity (Never Insane)** — Prevents Sanity drain against bosses & eerie areas\n- **Instant Full Heal & Refill Bars** — Restores HP, MP, Stamina, Rage, Sanity & Potions to max\n- **Infinite Items, Gold & Potions** — Bag items, Bone/Sendril currencies, stones & potions never decrease\n- **Unlock All Talents & Free Upgrades** — Unlocks all talent nodes & bypasses stone requirements\n- **Max All Owned Bag Items** — Sets every item & currency currently in your bag to max stack\n- **Add +9999 Currencies & Materials** — Adds +9999 Bone, Sendril, Stones, Potions & Upgrade Materials\n- **+999 Talent & Attribute Points** — Grants 999 Talent/Attribute points & 99 HP/MP Potions\n- **Instant Stagger / Break Toughness** — Breaks enemy & boss toughness/weakness gauge in 1 hit\n- **Freeze Enemy AI (Dummy Mode)** — Disables enemy AI brains so enemies stand still\n- **Freeze Enemy HP** — Enemies take 0 HP damage (combo practice mode)\n- **Fly / NoClip Mode** — Enables built-in engine flight mode (DebugFly)\n- **Game Speed Multiplier** — Scales Unity engine Time.timeScale (1.0x = normal speed)\n- **Check LuaJIT Hook Status** — Displays active lua_State pointer & frame counter\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.11.9"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

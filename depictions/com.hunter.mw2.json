@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "22 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ MW2 (v2026.3.2)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Unlock All Campaign Maps & Episodes** — Unlocks all campaign episodes, maps & multiplayer locks\n- **Unlock All Heroes & Unlimited Charges** — Unlocks all DLC/Challenge Heroes & unlimited charges\n- **Unlock Premium, Forge & All Features** — Enables ProfilePremium, FeaturesManager & unlocks Forge/MP\n- **Zero Skill Cooldown (Instant Reuse)** — Resets skill cooldowns & special skill timers every tick\n- **Zero Skill Energy Cost** — Forces SkillItem energy cost = 0 & keeps mana full\n- **Infinite Skill Energy (Max Energy)** — Locks Ally Player.skillEnergy at maxSkillEnergy\n- **Max Morale (5 Stars) & 0 Morale Timer** — Forces Ally moralePoints to max & moraleTimer to 0\n- **Instant Capture / 0 Enemy HP on Attack** — Drains Enemy/Neutral building units to 0 when attacked by Ally\n- **Freeze Enemy Unit Production** — Stops Enemy villages from producing new units\n- **Enemy HP / Unit Scale** — Scales Enemy building unit count & production rate\n- **Ally Invincibility (God Mode)** — Ally buildings take 0 damage from Enemy attacks\n- **Ally Village Production Multiplier** — Multiplies unit production speed for Ally villages\n- **1-Hit Kill Bosses & Destructible Walls** — Sets FlyBomb/Mouro Boss health & DestructibleObject HP to 1\n- **Boost Ally Attack Damage** — Multiplies Ally Player, UnitGroup & Unit attack coefficients\n- **Ally Damage Multiplier** — Scales Ally GetDamageCoefficient & unit attack power\n- **Boost Ally Building & Unit Shield** — Multiplies Ally GetShieldCoefficient & BaseModule defense\n- **Ally Defense Multiplier** — Scales Ally shield & building defense coefficients\n- **Weaken Enemy Damage & Strip Enemy Shield** — Reduces Enemy attack power by 95% and strips Enemy defense\n- **Ally Tower Fire Rate Multiplier** — Multiplies TowerModule fire rate for Ally towers\n- **Instant Victory (Win Current Battle)** — Calls Player.Victory(true, false) on Local Player\n- **Game Speed (Time.timeScale)** — Scales UnityEngine.Time.set_timeScale (1.0x - 5.0x)\n- **Target Frame Rate (FPS)** — Sets UnityEngine.Application.targetFrameRate\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "2026.3.2"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

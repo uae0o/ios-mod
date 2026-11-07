@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "17 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Shadowgun Legends Mod Menu (v1.0.0)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **One-Hit Kill** — Instantly eliminates any hit enemy\n- **Damage Multiplier** — Multiplies all outgoing player damage\n- **Always Critical Hit** — Every shot is registered as a critical hit\n- **Always Weak Spot** — Force all shots to register on weak spots\n- **Freeze Enemy HP** — Deals 0 damage to enemies (test weapons)\n- **God Mode (Invincible)** — Ignore all incoming damage & fatal blows\n- **Auto Max Health** — Continually locks player health to 100%\n- **Unlimited Ammo** — Infinite reserve and clip ammunition\n- **No Reload** — Never spend ammo from the active clip\n- **No Weapon Spread** — Zero dispersion for laser accuracy\n- **No Weapon Overheat** — Continuous firing without gun overheating\n- **Max Inventory & Backpack Slots** — Expands inventory to 500 & backpack to 200 slots\n- **Unlock All UI Slots & Items** — Removes locks on inventory slots and gear\n- **Unlock All Features & Vendors** — Unlocks Armorsmith, Weaponsmith, Casino, Planets & Hubs\n- **Max Skill Points & Power Bypass** — Grants 99 skill points and removes power rank limits\n- **Game Speed Multiplier** — Accelerates or slows gameplay time scale\n- **Target Frame Rate** — Configure maximum rendering FPS\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}
