@@ -240,15 +240,15 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmobilenew.png
 
 Package: com.hunter.mirrorsofalbion
 Version: 9.8
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: Hunter
 Installed-Size: 328
 Depends: mobilesubstrate
-Filename: ./debs/com.hunter.mirrorsofalbion_9.8_iphoneos-arm64.deb
-Size: 91812
-MD5sum: aa7aa09fea50d2b052579167d1a008db
-SHA1: ad39c599cb7fe8e951a256ee4ae178440f7ae0e7
-SHA256: d73ff2ded0d4bdb984032f03921631f0d2d21bc94f8970cb907a1d84aade92ed
+Filename: ./debs/com.hunter.mirrorsofalbion_9.8_iphoneos-arm.deb
+Size: 91306
+MD5sum: fa9aa620d4ab87643b99e5370697be62
+SHA1: afa03952bb301c991575ed6246412884a277eb0b
+SHA256: 697049cdbe87d66e3488dbe06c14e694f5390eab95cbb752436a5cc741f0c9ba
 Section: Tweaks
 Homepage: https://iosgods.com
 Description: Mirrors of Albion Mod Menu by Hunter!
@@ -258,19 +258,35 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mirrorsofalbion.png
 
 Package: com.hunter.mirrorsofalbion
 Version: 9.8
-Architecture: iphoneos-arm64e
-Maintainer: Hunter
-Installed-Size: 328
-Depends: mobilesubstrate
-Filename: ./debs/com.hunter.mirrorsofalbion_9.8_iphoneos-arm64e.deb
-Size: 119242
-MD5sum: 00737b660186410aeed34e93e07b6e51
-SHA1: d990f93e59b75ea87a3c1933c8d1dfdda1f8772f
-SHA256: f4ff0bc190189d7652bf5fc41f5a348123640898b76e22d38fafabde335381c4
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.mirrorsofalbion_9.8_iphoneos-arm64.deb
+Size: 77062
+MD5sum: 384b99d11229e8e4d0d166135c5d7378
+SHA1: aeda0e82915a4330a3a5a1287e6e0943f23f2406
+SHA256: 4e5321334da7cf698b848439bc8b4b93756231c7c28f3fc2de270f4832f770ef
 Section: Tweaks
-Homepage: https://iosgods.com
-Description: Mirrors of Albion Mod Menu by Hunter!
-Author: Hunter
+Description: Glass UI Mod Menu for Mirrors of Albion (com.gameinsight.mirrorsofalbionhd)
+Author: m0hammed
+Name: Mirrors of Albion Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mirrorsofalbion.png
+
+Package: com.hunter.mirrorsofalbion
+Version: 9.8
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.mirrorsofalbion_9.8_iphoneos-arm64e.deb
+Size: 94250
+MD5sum: 042438c62871f98ec755b4dd089f1452
+SHA1: d67e3089a591d2c53d57a05d136bc399337ddb32
+SHA256: 98f52e8c4ea7268c0b785d2abe357aa386e59e0a94793121c3777b05d8ca7e73
+Section: Tweaks
+Description: Glass UI Mod Menu for Mirrors of Albion (com.gameinsight.mirrorsofalbionhd)
+Author: m0hammed
 Name: Mirrors of Albion Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mirrorsofalbion.png
 
