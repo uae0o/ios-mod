@@ -101,20 +101,38 @@ for deb in *_iphoneos-arm64e.deb; do
     fi
 done
 
-# 4. Rebuild APT Packages indexes & inject Icon: for every package in Sileo
+# 4. Rebuild APT Packages indexes & inject per-package Icon: for every package in Sileo
 cd "$REPO_DIR"
 dpkg-scanpackages -m ./debs > Packages.raw
-awk -v icon="$ICON_URL" '
-/^Package:/ { has_icon = 0 }
+awk -v default_icon="$ICON_URL" -v repo_dir="$REPO_DIR" '
+/^Package:/ {
+    pkg = $2;
+    has_icon = 0;
+}
 /^Icon:/ { has_icon = 1 }
 /^$/ {
-    if (!has_icon) print "Icon: " icon;
+    if (!has_icon && pkg != "") {
+        cmd = "test -f \"" repo_dir "/icons/" pkg ".png\"";
+        if (system(cmd) == 0) {
+            print "Icon: https://uae0o.github.io/ios-mod/icons/" pkg ".png";
+        } else {
+            print "Icon: " default_icon;
+        }
+    }
+    pkg = "";
     print "";
     next;
 }
 { print }
 END {
-    if (!has_icon && NR > 0) print "Icon: " icon;
+    if (!has_icon && pkg != "") {
+        cmd = "test -f \"" repo_dir "/icons/" pkg ".png\"";
+        if (system(cmd) == 0) {
+            print "Icon: https://uae0o.github.io/ios-mod/icons/" pkg ".png";
+        } else {
+            print "Icon: " default_icon;
+        }
+    }
 }
 ' Packages.raw > Packages
 rm -f Packages.raw

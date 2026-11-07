@@ -13,7 +13,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Aether Gazer (com.YoStarGlobal.AetherGazer)
 Author: m0hammed (@m0hmm3d)
 Name: Aether Gazer Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aethergazer.png
 
 Package: com.hunter.aethergazer
 Version: 1.0.0
@@ -30,7 +30,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Aether Gazer (com.YoStarGlobal.AetherGazer)
 Author: m0hammed (@m0hmm3d)
 Name: Aether Gazer Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aethergazer.png
 
 Package: com.hunter.basebss
 Version: 35.4.5
@@ -47,7 +47,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Baseball Superstars (com.gamevil.basebss.ios.apple.global.normal)
 Author: m0hammed
 Name: Baseball Superstars Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.basebss.png
 
 Package: com.hunter.basebss
 Version: 35.4.5
@@ -64,7 +64,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Baseball Superstars (com.gamevil.basebss.ios.apple.global.normal)
 Author: m0hammed
 Name: Baseball Superstars Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.basebss.png
 
 Package: com.hunter.earth
 Version: 2.0.2
@@ -81,7 +81,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Etheria: Restart (com.xd.etheria.apple.glb)
 Author: m0hammed
 Name: Etheria: Restart Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.earth.png
 
 Package: com.hunter.earth
 Version: 2.0.2
@@ -98,7 +98,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Etheria: Restart (com.xd.etheria.apple.glb)
 Author: m0hammed
 Name: Etheria: Restart Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.earth.png
 
 Package: com.hunter.fishdom
 Version: 10.1.6
@@ -115,7 +115,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Fishdom (com.playrix.fishdom-freeplay) - Moves, Cost, Coins & Lives
 Author: m0hammed
 Name: Fishdom Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.fishdom.png
 
 Package: com.hunter.fishdom
 Version: 10.1.6
@@ -132,7 +132,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Fishdom (com.playrix.fishdom-freeplay) - Moves, Cost, Coins & Lives
 Author: m0hammed
 Name: Fishdom Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.fishdom.png
 
 Package: com.hunter.gameofthrones
 Version: 1.4.20
@@ -149,7 +149,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Game of Thrones Kingsroad (Speed, Damage, Enemy)
 Author: hunter
 Name: Game of Thrones
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 
 Package: com.hunter.gameofthrones
 Version: 1.4.20
@@ -166,7 +166,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Game of Thrones Kingsroad (Speed, Damage, Enemy)
 Author: hunter
 Name: Game of Thrones
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 
 Package: com.hunter.mhmenu
 Version: 1.0.0
@@ -183,7 +183,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Monster Hunter Outlanders (MHMobile-IOS-Shipping)
 Author: hunter
 Name: MH Outlanders Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmenu.png
 
 Package: com.hunter.mhmenu
 Version: 1.0.0
@@ -200,7 +200,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Monster Hunter Outlanders (MHMobile-IOS-Shipping)
 Author: hunter
 Name: MH Outlanders Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmenu.png
 
 Package: com.hunter.mhmobilenew
 Version: 1.0.11
@@ -218,7 +218,7 @@ Homepage: https://iosgods.com
 Description: Monster Hunter Outlanders (MHMobile v1.0.11) New Mod Menu (Hunter ATK, Hunter HP/DEF, Part Break, Weakpoint, Multi-Collect, Wide Auto-Collect Vacuum, 2D/3D Treasure & Resource ESP) by m0hammed!
 Author: m0hammed
 Name: Monster Hunter Outlanders Mod Menu (New)
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmobilenew.png
 
 Package: com.hunter.mhmobilenew
 Version: 1.0.11
@@ -236,7 +236,7 @@ Homepage: https://iosgods.com
 Description: Monster Hunter Outlanders (MHMobile v1.0.11) New Mod Menu (Hunter ATK, Hunter HP/DEF, Part Break, Weakpoint, Multi-Collect, Wide Auto-Collect Vacuum, 2D/3D Treasure & Resource ESP) by m0hammed!
 Author: m0hammed
 Name: Monster Hunter Outlanders Mod Menu (New)
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmobilenew.png
 
 Package: com.hunter.mirrorsofalbion
 Version: 9.8
@@ -254,7 +254,7 @@ Homepage: https://iosgods.com
 Description: Mirrors of Albion Mod Menu by Hunter!
 Author: Hunter
 Name: Mirrors of Albion Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mirrorsofalbion.png
 
 Package: com.hunter.mirrorsofalbion
 Version: 9.8
@@ -272,7 +272,7 @@ Homepage: https://iosgods.com
 Description: Mirrors of Albion Mod Menu by Hunter!
 Author: Hunter
 Name: Mirrors of Albion Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mirrorsofalbion.png
 
 Package: com.hunter.mw2
 Version: 2026.3.0
@@ -288,7 +288,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Mushroom Wars 2 (com.zillionwhales.mushroomwars2) - Supports Non-JB & JB
 Author: m0hammed
 Name: MW2
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mw2.png
 
 Package: com.hunter.mw2
 Version: 2026.3.0
@@ -304,7 +304,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Mushroom Wars 2 (com.zillionwhales.mushroomwars2) - Supports Non-JB & JB
 Author: m0hammed
 Name: MW2
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mw2.png
 
 Package: com.hunter.pascalswagermenu
 Version: 1.11.7
@@ -321,7 +321,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Pascal's Wager (com.tipsworks.ios.pascalswager)
 Author: hunter
 Name: Pascal's Wager Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.pascalswagermenu.png
 
 Package: com.hunter.pascalswagermenu
 Version: 1.11.7
@@ -338,7 +338,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Pascal's Wager (com.tipsworks.ios.pascalswager)
 Author: hunter
 Name: Pascal's Wager Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.pascalswagermenu.png
 
 Package: com.hunter.se4modmenu
 Version: 1.2.2
@@ -355,7 +355,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Sniper Elite 4 (com.rebellioninteractive.sniperelite4)
 Author: m0hammed
 Name: Sniper Elite 4 Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.se4modmenu.png
 
 Package: com.hunter.se4modmenu
 Version: 1.2.2
@@ -372,7 +372,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for Sniper Elite 4 (com.rebellioninteractive.sniperelite4)
 Author: m0hammed
 Name: Sniper Elite 4 Mod Menu
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.se4modmenu.png
 
 Package: com.hunter.sniperfury
 Version: 8.1.0
@@ -425,7 +425,7 @@ Section: Tweaks
 Description: Punishing: Gray Raven v4.8.0 • m0hammed Mod Menu (com.kurogame.punishing.grayraven.en)
 Author: m0hammed
 Name: Punishing: Gray Raven
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.punishinggrayraven.png
 
 Package: com.m0hammed.punishinggrayraven
 Version: 4.8.0
@@ -442,7 +442,7 @@ Section: Tweaks
 Description: Punishing: Gray Raven v4.8.0 • m0hammed Mod Menu (com.kurogame.punishing.grayraven.en)
 Author: m0hammed
 Name: Punishing: Gray Raven
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.punishinggrayraven.png
 
 Package: com.m0hammed.stardive
 Version: 1.04.10
@@ -461,7 +461,7 @@ Section: Tweaks
 Description: stardive Mod Menu by m0hammed (Boss/Mob Damage, God Mode, No Skill CD, Always Crit, Inf Stamina/MP, Auto-Collect Iron/Ores/Drops, 120 FPS)
 Author: m0hammed
 Name: stardive
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.stardive.png
 
 Package: com.m0hammed.stardive
 Version: 1.04.10
@@ -480,7 +480,7 @@ Section: Tweaks
 Description: stardive Mod Menu by m0hammed (Boss/Mob Damage, God Mode, No Skill CD, Always Crit, Inf Stamina/MP, Auto-Collect Iron/Ores/Drops, 120 FPS)
 Author: m0hammed
 Name: stardive
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.stardive.png
 
 Package: crimsonheart2
 Version: 1.3.3
@@ -497,7 +497,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for CrimsonHeart2 (com.anbgames.ch2w)
 Author: m0hammed
 Name: CrimsonHeart2
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/crimsonheart2.png
 
 Package: crimsonheart2
 Version: 1.3.3
@@ -514,7 +514,7 @@ Section: Tweaks
 Description: Glass UI Mod Menu for CrimsonHeart2 (com.anbgames.ch2w)
 Author: m0hammed
 Name: CrimsonHeart2
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/crimsonheart2.png
 
 Package: onmyoji
 Version: 1.8.17
@@ -531,7 +531,7 @@ Section: Tweaks
 Description: Onmyoji Mod Menu by m0hammed (com.netease.onmyoji.gb)
 Author: m0hammed
 Name: Onmyoji Mod Menu (m0hammed)
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/onmyoji.png
 
 Package: onmyoji
 Version: 1.8.17
@@ -548,6 +548,5 @@ Section: Tweaks
 Description: Onmyoji Mod Menu by m0hammed (com.netease.onmyoji.gb)
 Author: m0hammed
 Name: Onmyoji Mod Menu (m0hammed)
-Icon: https://uae0o.github.io/ios-mod/icon.png
+Icon: https://uae0o.github.io/ios-mod/icons/onmyoji.png
 
-Icon: https://uae0o.github.io/ios-mod/icon.png
