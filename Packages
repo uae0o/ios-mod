@@ -215,16 +215,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.gameofthrones.json
 
 Package: com.hunter.mhmenu
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: hunter
-Installed-Size: 532
+Installed-Size: 548
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.mhmenu_1.0.3_iphoneos-arm64.deb
-Size: 127282
-MD5sum: 74a3b9e2358922122f9fc831ed938e2c
-SHA1: 3b6d65c6f249b55fb029721ee1c8844631a64ebd
-SHA256: fffe9e367dd3a524015c070473a6abdd182b6d9eca41cde68a8af7f0a6ece57a
+Filename: ./debs/com.hunter.mhmenu_1.0.4_iphoneos-arm64.deb
+Size: 129416
+MD5sum: a925de0a03b51c4d4c341cd17bc257b1
+SHA1: a995b904b7854897caea4a9aa0541d791b458cb6
+SHA256: 68b86893e346f0e16481da54e438b647d714cf6e66aa5ac1545bba6d3c0c9096
 Section: Tweaks
 Description: Features: God Mode (No Damage), 1-Hit Kill Monsters, Damage Multiplier, Effective ATK Boost, Instant Part Break, Freeze Monster HP, Check Hook & Slide Status | Telegram: @m0hmm3d
 Author: hunter
@@ -233,16 +233,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmenu.json
 
 Package: com.hunter.mhmenu
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm64e
 Maintainer: hunter
-Installed-Size: 532
+Installed-Size: 548
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.mhmenu_1.0.3_iphoneos-arm64e.deb
-Size: 237764
-MD5sum: 0c1594e2f00ad2f2ff3cddcb4b1deb86
-SHA1: 0de6654a46865d6f4c3c72f5576e9163180f0ec7
-SHA256: 82c3c615bfbd16ee42c75415a454f1d70b3b569bac9bac385bf116dd36025228
+Filename: ./debs/com.hunter.mhmenu_1.0.4_iphoneos-arm64e.deb
+Size: 239750
+MD5sum: 6f0eccb1209c1d29120c288174fdefac
+SHA1: 136b906483d07314cdaa66dbd64a43c8e9d89348
+SHA256: 8f46a19f03ebdc0853e5c4a53d5cde2bb941801cbb022bfdca273071b3f9ec8c
 Section: Tweaks
 Description: Features: God Mode (No Damage), 1-Hit Kill Monsters, Damage Multiplier, Effective ATK Boost, Instant Part Break, Freeze Monster HP, Check Hook & Slide Status | Telegram: @m0hmm3d
 Author: hunter
@@ -321,16 +321,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mw2.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mw2.json
 
 Package: com.hunter.pascalswagermenu
-Version: 1.11.10
+Version: 1.11.11
 Architecture: iphoneos-arm64
 Maintainer: hunter
 Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.pascalswagermenu_1.11.10_iphoneos-arm64.deb
-Size: 99806
-MD5sum: 8493daad0a98687466c9867ad6892e20
-SHA1: cfc54a0c300ac651cfc897c393eb910f32a64a3c
-SHA256: e4b28047e862bdb6f4da3376396d30f7e8fd75c698a02f175767781fc3343233
+Filename: ./debs/com.hunter.pascalswagermenu_1.11.11_iphoneos-arm64.deb
+Size: 100532
+MD5sum: b026dec389750172f050c13b8452af91
+SHA1: a32bc23d68d201c4521a5c871ee38a573e658509
+SHA256: 29e0f449f17d9a785cd09bc97870dbe8b1248bef38cb5b5d44d9b3273600985e
 Section: Tweaks
 Description: Features: God Mode (Invincible), Auto-Max All Bars, Defense Multiplier, 1-Hit Kill Enemies, Damage Multiplier, Attack Stat Multiplier, 100% Critical Hit, Infinite Stamina & No Cooldown (+14 more) | Telegram: @m0hmm3d
 Author: hunter
@@ -339,16 +339,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.pascalswagermenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.pascalswagermenu.json
 
 Package: com.hunter.pascalswagermenu
-Version: 1.11.10
+Version: 1.11.11
 Architecture: iphoneos-arm64e
 Maintainer: hunter
 Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.pascalswagermenu_1.11.10_iphoneos-arm64e.deb
-Size: 121184
-MD5sum: a889146bf8a3b88fd860b309fca5022a
-SHA1: 17bdf2cedaedb6cbda83e43934ad762b1af887b2
-SHA256: 0e9fe396f7e2aaec83a022f69cb3af3990663334345b241bd4bcce5f78286e8b
+Filename: ./debs/com.hunter.pascalswagermenu_1.11.11_iphoneos-arm64e.deb
+Size: 121956
+MD5sum: 5dd7a1786ed1967cad53c08c7821d458
+SHA1: a1cff5922fb36de331b839054c412bd307fd7af8
+SHA256: b073e642b2eb7ef3be9f4174d0edee44abb0986ab45c742b157bcb94d8549ee0
 Section: Tweaks
 Description: Features: God Mode (Invincible), Auto-Max All Bars, Defense Multiplier, 1-Hit Kill Enemies, Damage Multiplier, Attack Stat Multiplier, 100% Critical Hit, Infinite Stamina & No Cooldown (+14 more) | Telegram: @m0hmm3d
 Author: hunter
