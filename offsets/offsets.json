@@ -1,0 +1,33 @@
+{
+  "_comment": "Cloud Auto-Offset & Function Resolver Table for m0hammed Tweaks (@m0hmm3d). Supports hex ('0x...'), Unity IL2CPP ('il2cpp:Assembly::Namespace::Class::Method::Args'), and ARM64 Byte Signature ('sig:FD 7B BF A9 ?? ?? ?? 94').",
+  "*": {
+    "0x6079a94": "il2cpp:UnityEngine.CoreModule::UnityEngine::Time::set_timeScale::1",
+    "0x60191c0": "il2cpp:UnityEngine.CoreModule::UnityEngine::Application::set_targetFrameRate::1"
+  },
+  "com.madfingergames.legends": {
+    "0x3f08068": "il2cpp:Assembly-CSharp::Madfinger.Game.Gameplay::DamageCalculator::Calculate::3",
+    "0x3fd8174": "il2cpp:Assembly-CSharp::Madfinger.Game.Weapons::WeaponFirearmUtility::HasUnlimitedAmmo::1",
+    "0x3fd7e2c": "il2cpp:Assembly-CSharp::Madfinger.Game.Weapons::WeaponFirearm::get_UnlimitedAmmo::0",
+    "0x3fdd080": "il2cpp:Assembly-CSharp::Madfinger.Game.Weapons::WeaponFirearmUtility::DecreaseAmmo::2",
+    "0x3fd74b4": "il2cpp:Assembly-CSharp::Madfinger.Game.Weapons::WeaponFirearm::get_FinalDispersion::0",
+    "0x3fd8720": "il2cpp:Assembly-CSharp::Madfinger.Game.Weapons::WeaponFirearm::get_IsOverheated::0",
+    "0x3fd8784": "il2cpp:Assembly-CSharp::Madfinger.Game.Weapons::WeaponFirearm::get_OverheatPerBullet::0",
+    "0x3ac54fc": "il2cpp:Assembly-CSharp::Madfinger.Game.Characters::AgentHuman::TakeDamage::1",
+    "0x3abf7c8": "il2cpp:Assembly-CSharp::Madfinger.Game.Characters::AgentHuman::get_IsInvulnerable::0",
+    "0x3ac63c4": "il2cpp:Assembly-CSharp::Madfinger.Game.Characters::AgentHuman::Kill::1",
+    "0x3ac0364": "il2cpp:Assembly-CSharp::Madfinger.Game.Characters::AgentHuman::get_CurrentHealth::0",
+    "0x3ac0348": "il2cpp:Assembly-CSharp::Madfinger.Game.Characters::AgentHuman::get_MaxHealth::0",
+    "0x3ac5320": "il2cpp:Assembly-CSharp::Madfinger.Game.Characters::AgentHuman::UpdateHealth::2",
+    "0x39f7338": "il2cpp:Assembly-CSharp::Madfinger.Game.Storage::UserStorage::get_InventoryCapacity::0",
+    "0x39f794c": "il2cpp:Assembly-CSharp::Madfinger.Game.Storage::UserStorage::get_BackpackCapacity::0",
+    "0x39f78e4": "il2cpp:Assembly-CSharp::Madfinger.Game.Storage::UserStorage::get_InventoryFull::0",
+    "0x39f7674": "il2cpp:Assembly-CSharp::Madfinger.Game.Storage::UserStorage::get_InventoryAlmostOrFull::0",
+    "0x39f78b0": "il2cpp:Assembly-CSharp::Madfinger.Game.Storage::UserStorage::get_BackpackAlmostOrFull::0",
+    "0x39f7918": "il2cpp:Assembly-CSharp::Madfinger.Game.Storage::UserStorage::get_InventoryExceeded::0",
+    "0x3cc9038": "il2cpp:Assembly-CSharp::Madfinger.Game.GUI::GUIItemSlot::get_IsLocked::0",
+    "0x3cc9050": "il2cpp:Assembly-CSharp::Madfinger.Game.GUI::GUIItemSlot::get_ItemIsLocked::0",
+    "0x39d6c08": "il2cpp:Assembly-CSharp::Madfinger.Game.User::UserData::IsFeatureUnlocked::1",
+    "0x39f12d0": "il2cpp:Assembly-CSharp::Madfinger.Game.User::UserSkills::get_AvailablePoints::0",
+    "0x39f4374": "il2cpp:Assembly-CSharp::Madfinger.Game.User::UserSkills::IsMinUserPowerReached::1"
+  }
+}

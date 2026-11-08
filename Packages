@@ -1,14 +1,14 @@
 Package: com.hunter.aethergazer
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: m0hammed (@m0hmm3d)
-Installed-Size: 496
+Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.aethergazer_1.0.2_iphoneos-arm64.deb
-Size: 113290
-MD5sum: 0b5ec12067293a951e93ac6212793d14
-SHA1: 44665ea4dc1f74251b39f5948984bf7626ccba90
-SHA256: 82298fe6393981d56761ec049a29f8f98aaea3f3743033d502ff52a0340f494f
+Filename: ./debs/com.hunter.aethergazer_1.0.3_iphoneos-arm64.deb
+Size: 121352
+MD5sum: 9e3bb6661e9e040bbe0410fd2bfaa292
+SHA1: 8f130c27c82b331444feaf71f8de986ee13c0df2
+SHA256: fce4fd231854111edfd2a302f9cc56fa1448a5262ec6859addd681296903e18b
 Section: Tweaks
 Description: Features: God Mode (Invincible), Heal on Hit, Super Armor (Unflinching), One-Hit Kill (OHK), Enable Damage Multiplier, Damage Multiplier, Infinite Dodge / Zero Avoid CD, Infinite Skill Energy / Power (+5 more) | Telegram: @m0hmm3d
 Author: m0hammed (@m0hmm3d)
@@ -17,16 +17,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aethergazer.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aethergazer.json
 
 Package: com.hunter.aethergazer
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed (@m0hmm3d)
-Installed-Size: 496
+Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.aethergazer_1.0.2_iphoneos-arm64e.deb
-Size: 211840
-MD5sum: 696d4d1f9e4b8f77d2a65e1f8adbf6d2
-SHA1: 624fa2adc0b2a7b10b3a108a6210fefa4822ea02
-SHA256: 581183a9084485bf13795e5b4c538d84a240a574a031922a80fdada684849731
+Filename: ./debs/com.hunter.aethergazer_1.0.3_iphoneos-arm64e.deb
+Size: 226490
+MD5sum: 5606a186eb278e249a49a771762d2802
+SHA1: 8cea41e8dfb2c79c12d93d5be2f797d01269a15e
+SHA256: ba2b50d0a0764795497e0c38808e5b07419353d6ae0cd84d9429a3b0bce4cfe7
 Section: Tweaks
 Description: Features: God Mode (Invincible), Heal on Hit, Super Armor (Unflinching), One-Hit Kill (OHK), Enable Damage Multiplier, Damage Multiplier, Infinite Dodge / Zero Avoid CD, Infinite Skill Energy / Power (+5 more) | Telegram: @m0hmm3d
 Author: m0hammed (@m0hmm3d)
@@ -35,16 +35,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aethergazer.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aethergazer.json
 
 Package: com.hunter.basebss
-Version: 35.4.7
+Version: 35.4.8
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 528
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.basebss_35.4.7_iphoneos-arm64.deb
-Size: 125616
-MD5sum: cf14843664496e6689cb1f0c6a162451
-SHA1: 136d123d80db3a36adff2b59e77871f3c0018052
-SHA256: d343f6930cefe19d19f65e60f1bc83cf1b509e218b056d76b4db921cd0722e82
+Filename: ./debs/com.hunter.basebss_35.4.8_iphoneos-arm64.deb
+Size: 133420
+MD5sum: 08099d43187e0ba6c7a6603006292a28
+SHA1: 19668e94a4d9539667600c61fe79a368576b2041
+SHA256: 410d780c398b49b7d8325829b98ba135c7f8520a87f1b7a91c34f80d3a83360e
 Section: Tweaks
 Description: Features: Boost Ally Primary Stats, Primary Stat Multiplier, Boost Ally Secondary Stats, Secondary Stat Multiplier, Max Ally Condition (Best Condition), Infinite MyLeague Skill Points (9,999 SP), 100% Training Success (Never Fail), 0 Stamina Cost Training (+15 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -53,16 +53,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.basebss.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.basebss.json
 
 Package: com.hunter.basebss
-Version: 35.4.7
+Version: 35.4.8
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 528
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.basebss_35.4.7_iphoneos-arm64e.deb
-Size: 235436
-MD5sum: afe92adbb78b41456694abf40ad30e9d
-SHA1: b7a2c22e1f6768c6aff8ed139fdfd85da6681a1d
-SHA256: b01ad1ad4f68d03ba334dc4016f13388bff8c2a4b18643c8b83e8abf10576676
+Filename: ./debs/com.hunter.basebss_35.4.8_iphoneos-arm64e.deb
+Size: 250582
+MD5sum: da1df0d7678dddc0b57b4f6814140710
+SHA1: 6638750705810ecdca11c10098259f10e5a1548a
+SHA256: cb259ce0d2eb07eb42be2c77ca21669fc441ace7e5f9f371908195064b74825f
 Section: Tweaks
 Description: Features: Boost Ally Primary Stats, Primary Stat Multiplier, Boost Ally Secondary Stats, Secondary Stat Multiplier, Max Ally Condition (Best Condition), Infinite MyLeague Skill Points (9,999 SP), 100% Training Success (Never Fail), 0 Stamina Cost Training (+15 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -71,16 +71,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.basebss.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.basebss.json
 
 Package: com.hunter.earth
-Version: 2.0.4
+Version: 2.0.5
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
 Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.earth_2.0.4_iphoneos-arm64.deb
-Size: 95910
-MD5sum: 8e5188e35e9d55349eeda892f80a1b4a
-SHA1: 07f4c7f08f6101d4e3a56e90feebe09f0c1530bb
-SHA256: e4dbc5e3adb1c59c1038922c748c5df520e321e318c15d4661eb6e2bd99a0938
+Filename: ./debs/com.hunter.earth_2.0.5_iphoneos-arm64.deb
+Size: 101552
+MD5sum: 5ba132e1be1d26529a71130f9c13c2f1
+SHA1: 8e2e46c313870b3e2e1c844c0f248371d7498bc4
+SHA256: d9a3b00d83653455fb789bf3b0aded0c5453ae0174b15e92b894e1f2662f4dd7
 Section: Tweaks
 Description: Features: Activate Pro God Preset, God Mode (Invincible), Defense Multiplier, 1-Hit Kill Enemies, Damage Multiplier, Attack Stat Multiplier, No Skill Cooldowns, Infinite SP / Energy (+7 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -89,16 +89,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.earth.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.earth.json
 
 Package: com.hunter.earth
-Version: 2.0.4
+Version: 2.0.5
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
 Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.earth_2.0.4_iphoneos-arm64e.deb
-Size: 116092
-MD5sum: 041919c0ed5f71f0b06889610abd98f2
-SHA1: 6693bddaf04c8701dabdb9c3bf684fe9828f36f1
-SHA256: c293cfacc790a378ebd8bc93f93d3305a598b5d78233c9894ca90844dfa774e2
+Filename: ./debs/com.hunter.earth_2.0.5_iphoneos-arm64e.deb
+Size: 122998
+MD5sum: 96a72e04d749bcb1bda4e68d4568587c
+SHA1: 700ec3f27df5a73f1199971c212bd1221297cb1d
+SHA256: 2d3ec4bd86baa08b2085281a26f553125406a9bc01d00cfdfacc6934d5bcc5eb
 Section: Tweaks
 Description: Features: Activate Pro God Preset, God Mode (Invincible), Defense Multiplier, 1-Hit Kill Enemies, Damage Multiplier, Attack Stat Multiplier, No Skill Cooldowns, Infinite SP / Energy (+7 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -107,16 +107,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.earth.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.earth.json
 
 Package: com.hunter.fishdom
-Version: 10.1.8
+Version: 10.1.9
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
 Installed-Size: 496
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.fishdom_10.1.8_iphoneos-arm64.deb
-Size: 106088
-MD5sum: f4d2cb973bade6940a3a4656aadf7072
-SHA1: 196687585c1b8758cc27455ff49a39453325cb3f
-SHA256: e12373670ca2515c9e6f3751ec9721ca6bdff91c923d56ca5469aee43ff212ee
+Filename: ./debs/com.hunter.fishdom_10.1.9_iphoneos-arm64.deb
+Size: 113856
+MD5sum: 01b4daf189183d81ca04e5a1a8223439
+SHA1: 1e51373d4e4b16995678d3f3c48e9c4cd49f2705
+SHA256: f94c8e162f17dcf2b34ef92e2596648b741b949910f1649ae3222c4715784271
 Section: Tweaks
 Description: Features: Freeze Moves (Never Decrease), Moves Increase When Used (+1 Per Move), Override Level Starting Moves, Custom Starting Moves, Add +10 Moves Now, Set Moves to 99 Now, Free Store & Boosters (0 Cost), Bypass CanBuy Checks (Always Afford) (+12 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -125,16 +125,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.fishdom.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.fishdom.json
 
 Package: com.hunter.fishdom
-Version: 10.1.8
+Version: 10.1.9
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
 Installed-Size: 496
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.fishdom_10.1.8_iphoneos-arm64e.deb
-Size: 198408
-MD5sum: c2d582a89442938292f44ac4a26b8e0e
-SHA1: 8f266379eaf447b40d43e37213b04a773a31d7f8
-SHA256: c048d66e3967bf2d6070c2834ed660bbe5a007ce38dffdbb3de2d13bd3f37f07
+Filename: ./debs/com.hunter.fishdom_10.1.9_iphoneos-arm64e.deb
+Size: 211532
+MD5sum: f9dcd6c262d636bdc9206c3a7a028a91
+SHA1: ab33b42faaa72764d4acdc2d52bd5c8d4e3359be
+SHA256: babae4c4fd48830ce27ea5d3265c398c66b1c9d18b74258ce9a8e14532cdb0f7
 Section: Tweaks
 Description: Features: Freeze Moves (Never Decrease), Moves Increase When Used (+1 Per Move), Override Level Starting Moves, Custom Starting Moves, Add +10 Moves Now, Set Moves to 99 Now, Free Store & Boosters (0 Cost), Bypass CanBuy Checks (Always Afford) (+12 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -143,16 +143,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.fishdom.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.fishdom.json
 
 Package: com.hunter.gameofthrones
-Version: 1.4.22
+Version: 1.4.23
 Architecture: iphoneos-arm64
 Maintainer: hunter
-Installed-Size: 528
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.gameofthrones_1.4.22_iphoneos-arm64.deb
-Size: 229864
-MD5sum: 495ea02bf8c542db607ca9b03094b501
-SHA1: de8910827f04c36aedb56efd8985da9135f68674
-SHA256: 92d092f856ef32de6b2a74e5697223ed0600e8f5d246bfff8efa9e813e7c5b1f
+Filename: ./debs/com.hunter.gameofthrones_1.4.23_iphoneos-arm64.deb
+Size: 130134
+MD5sum: d5c069fec2f76f5845a56b17a97b0c31
+SHA1: 39c701575d10862d23e51ec639e45e7e349900f1
+SHA256: 0377556af6bc6eaa15c75321a6d9042da9650119476205b296471e0a7368cccd
 Section: Tweaks
 Description: Features: Player Speed Boost, Move Speed Multiplier, Infinite Sprint / Stamina, Attack Speed Boost, Attack Speed Multiplier, Fast / Instant Skill Cast, Global Game Speed (Time Dilation), God Mode (Invincible) (+19 more) | Telegram: @m0hmm3d
 Author: hunter
@@ -161,16 +161,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.gameofthrones.json
 
 Package: com.hunter.gameofthrones
-Version: 1.4.22
+Version: 1.4.23
 Architecture: iphoneos-arm64e
 Maintainer: hunter
-Installed-Size: 528
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.gameofthrones_1.4.22_iphoneos-arm64e.deb
-Size: 229836
-MD5sum: 165001cd659b55af4832eac6c0711195
-SHA1: 73af91f49a92e0873794e5b880a984ec2d315680
-SHA256: daaf821b0dd363b98e1370a27135e4f4c4984787fc1318f2d6f4e933dfbb857d
+Filename: ./debs/com.hunter.gameofthrones_1.4.23_iphoneos-arm64e.deb
+Size: 243582
+MD5sum: e93085f85cff1ae52e9e587d8750fea7
+SHA1: 7e7cd1570c6d6f8f38af9565dcb51292ad08d47c
+SHA256: 9a2bd8769e5549c8783cd88a7ee5ae4e0aa00a48a878eb028576ca707f151c9f
 Section: Tweaks
 Description: Features: Player Speed Boost, Move Speed Multiplier, Infinite Sprint / Stamina, Attack Speed Boost, Attack Speed Multiplier, Fast / Instant Skill Cast, Global Game Speed (Time Dilation), God Mode (Invincible) (+19 more) | Telegram: @m0hmm3d
 Author: hunter
@@ -179,16 +179,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.gameofthrones.json
 
 Package: com.hunter.mhmenu
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: hunter
-Installed-Size: 528
+Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.mhmenu_1.0.2_iphoneos-arm64.deb
-Size: 118814
-MD5sum: fc1c7ad558a14655871e3c5cd21152d2
-SHA1: f102d2dde5e97ea6ec549bab382b05f2387d38a3
-SHA256: af283c70a4c8a22e33395864ef24cf7761fd07a983aaebea690452446c3a5bea
+Filename: ./debs/com.hunter.mhmenu_1.0.3_iphoneos-arm64.deb
+Size: 127282
+MD5sum: 74a3b9e2358922122f9fc831ed938e2c
+SHA1: 3b6d65c6f249b55fb029721ee1c8844631a64ebd
+SHA256: fffe9e367dd3a524015c070473a6abdd182b6d9eca41cde68a8af7f0a6ece57a
 Section: Tweaks
 Description: Features: God Mode (No Damage), 1-Hit Kill Monsters, Damage Multiplier, Effective ATK Boost, Instant Part Break, Freeze Monster HP, Check Hook & Slide Status | Telegram: @m0hmm3d
 Author: hunter
@@ -197,16 +197,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmenu.json
 
 Package: com.hunter.mhmenu
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64e
 Maintainer: hunter
-Installed-Size: 528
+Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.mhmenu_1.0.2_iphoneos-arm64e.deb
-Size: 224668
-MD5sum: ae4a8fd1ccdb6bab892dbfd2af2e66b6
-SHA1: f28c74cd4869ce91d49f738774489dae30fa50f1
-SHA256: 65132d1d60701f070393dce076e4c669062a035a10b4fbafb8fa85d4e317c7ac
+Filename: ./debs/com.hunter.mhmenu_1.0.3_iphoneos-arm64e.deb
+Size: 237764
+MD5sum: 0c1594e2f00ad2f2ff3cddcb4b1deb86
+SHA1: 0de6654a46865d6f4c3c72f5576e9163180f0ec7
+SHA256: 82c3c615bfbd16ee42c75415a454f1d70b3b569bac9bac385bf116dd36025228
 Section: Tweaks
 Description: Features: God Mode (No Damage), 1-Hit Kill Monsters, Damage Multiplier, Effective ATK Boost, Instant Part Break, Freeze Monster HP, Check Hook & Slide Status | Telegram: @m0hmm3d
 Author: hunter
@@ -215,16 +215,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmenu.json
 
 Package: com.hunter.mirrorsofalbion
-Version: 9.10
+Version: 9.11
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 240
+Installed-Size: 260
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.mirrorsofalbion_9.10_iphoneos-arm64.deb
-Size: 82234
-MD5sum: a30c42af2ff9f6068755b8976f0da6b3
-SHA1: 274e52461493017aef352a8ba4cb5e4d7350b614
-SHA256: 79ac9dfee70a0be3e825605163a5b83d31d111ebee44e2af6a1daec9e57916f4
+Filename: ./debs/com.hunter.mirrorsofalbion_9.11_iphoneos-arm64.deb
+Size: 88004
+MD5sum: 8b359d13da89d718c6925b06ef7fd1bd
+SHA1: 65a9960334423fb69c22b596056b53b9a54e8f12
+SHA256: 0c353fbe59b259121e7b8295e553779c83678b680cd0b1962afbc603b1ec36a4
 Section: Tweaks
 Description: Features: Activate Pro Currency & Energy Preset, Freeze Energy (Infinite Energy), Free Purchases, Spend = Gain Currency, Gold & Crystal Multiplier, EXP Multiplier | Telegram: @m0hmm3d
 Author: m0hammed
@@ -233,16 +233,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mirrorsofalbion.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mirrorsofalbion.json
 
 Package: com.hunter.mirrorsofalbion
-Version: 9.10
+Version: 9.11
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 240
+Installed-Size: 260
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.mirrorsofalbion_9.10_iphoneos-arm64e.deb
-Size: 101642
-MD5sum: e2950344d7b6faf906bd1f15b6fdb3f2
-SHA1: e4802ca0eea5d4ccd33912ab64a694565615ba56
-SHA256: 982bd582a807531bcde433ccd328b4e813b829a9cf4fba1fd16ba31c644530f6
+Filename: ./debs/com.hunter.mirrorsofalbion_9.11_iphoneos-arm64e.deb
+Size: 108510
+MD5sum: 5b8f0a3bf53caff48caf0537fbffc0c3
+SHA1: a3b0cddb8e355a3b6aa3667443d2b871360163db
+SHA256: c26ba2bf527feae9be7e79c0655580477c9c6558aa112e6a58a8e1fd134c7679
 Section: Tweaks
 Description: Features: Activate Pro Currency & Energy Preset, Freeze Energy (Infinite Energy), Free Purchases, Spend = Gain Currency, Gold & Crystal Multiplier, EXP Multiplier | Telegram: @m0hmm3d
 Author: m0hammed
@@ -251,15 +251,15 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mirrorsofalbion.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mirrorsofalbion.json
 
 Package: com.hunter.mw2
-Version: 2026.3.2
+Version: 2026.3.3
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
 Installed-Size: 276
-Filename: ./debs/com.hunter.mw2_2026.3.2_iphoneos-arm64.deb
-Size: 97472
-MD5sum: e3d44c71ae36f65c09b54f4d317185c3
-SHA1: 39db4d97fc3afed25ae5fb083b5c6124aff5de4d
-SHA256: ac314ba2859af52a7bbb915ae33072bdba57dd1c41bbcd3d1555ae40da5f2f78
+Filename: ./debs/com.hunter.mw2_2026.3.3_iphoneos-arm64.deb
+Size: 102992
+MD5sum: 391ee6abb79ea9fc23d9aacba64900d9
+SHA1: cf978407d332d1339985cb8b8217e4d711c27b4d
+SHA256: c7bd171fb48a157508f307d0be72ed1f56dabac1ec3ebcd93c20b6abe6346c64
 Section: Tweaks
 Description: Features: Unlock All Campaign Maps & Episodes, Unlock All Heroes & Unlimited Charges, Unlock Premium, Forge & All Features, Zero Skill Cooldown (Instant Reuse), Zero Skill Energy Cost, Infinite Skill Energy (Max Energy), Max Morale (5 Stars) & 0 Morale Timer, Instant Capture / 0 Enemy HP on Attack (+14 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -268,15 +268,15 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mw2.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mw2.json
 
 Package: com.hunter.mw2
-Version: 2026.3.2
+Version: 2026.3.3
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
 Installed-Size: 276
-Filename: ./debs/com.hunter.mw2_2026.3.2_iphoneos-arm64e.deb
-Size: 118492
-MD5sum: cbbeb3a1767a0935cece7baf646d18b6
-SHA1: 27faa644158795d4836ed456a5da118362c3ac77
-SHA256: fbcdc6aca6bbbc0946617b064ea4eece55f35e297d0b9af00b6e8bf68475056d
+Filename: ./debs/com.hunter.mw2_2026.3.3_iphoneos-arm64e.deb
+Size: 124472
+MD5sum: 3c81f4b1d3bb78d68300e966b55f95a0
+SHA1: 3baa9805c880f4b6930c4a498fd0e558e6f09efe
+SHA256: 8a43953d78f4ea26a0d2a6acd09b1487f2059aa3d9b1786b8a2dc2cc0ce99ad2
 Section: Tweaks
 Description: Features: Unlock All Campaign Maps & Episodes, Unlock All Heroes & Unlimited Charges, Unlock Premium, Forge & All Features, Zero Skill Cooldown (Instant Reuse), Zero Skill Energy Cost, Infinite Skill Energy (Max Energy), Max Morale (5 Stars) & 0 Morale Timer, Instant Capture / 0 Enemy HP on Attack (+14 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -285,16 +285,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mw2.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mw2.json
 
 Package: com.hunter.pascalswagermenu
-Version: 1.11.9
+Version: 1.11.10
 Architecture: iphoneos-arm64
 Maintainer: hunter
-Installed-Size: 260
+Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.pascalswagermenu_1.11.9_iphoneos-arm64.deb
-Size: 94122
-MD5sum: 0508a9f5281879985828ab8f2195150b
-SHA1: 0fec57e846853a3655c1c836f2c5b7b5036bdc01
-SHA256: 2211619119b60e0f46d8ee2b2bf586eb8b0020dc19eb2ac5b7ddfe7e7c9b8692
+Filename: ./debs/com.hunter.pascalswagermenu_1.11.10_iphoneos-arm64.deb
+Size: 99806
+MD5sum: 8493daad0a98687466c9867ad6892e20
+SHA1: cfc54a0c300ac651cfc897c393eb910f32a64a3c
+SHA256: e4b28047e862bdb6f4da3376396d30f7e8fd75c698a02f175767781fc3343233
 Section: Tweaks
 Description: Features: God Mode (Invincible), Auto-Max All Bars, Defense Multiplier, 1-Hit Kill Enemies, Damage Multiplier, Attack Stat Multiplier, 100% Critical Hit, Infinite Stamina & No Cooldown (+14 more) | Telegram: @m0hmm3d
 Author: hunter
@@ -303,16 +303,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.pascalswagermenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.pascalswagermenu.json
 
 Package: com.hunter.pascalswagermenu
-Version: 1.11.9
+Version: 1.11.10
 Architecture: iphoneos-arm64e
 Maintainer: hunter
-Installed-Size: 260
+Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.pascalswagermenu_1.11.9_iphoneos-arm64e.deb
-Size: 113900
-MD5sum: a22f7776c7449406ee9c9f0399933ab7
-SHA1: 898baf7bfc9a6d20ce18beddc7af1a5155862262
-SHA256: b467e4c22d7a582742ee0fff0453deba1c98b7e1e781e9101f168d67d2d65299
+Filename: ./debs/com.hunter.pascalswagermenu_1.11.10_iphoneos-arm64e.deb
+Size: 121184
+MD5sum: a889146bf8a3b88fd860b309fca5022a
+SHA1: 17bdf2cedaedb6cbda83e43934ad762b1af887b2
+SHA256: 0e9fe396f7e2aaec83a022f69cb3af3990663334345b241bd4bcce5f78286e8b
 Section: Tweaks
 Description: Features: God Mode (Invincible), Auto-Max All Bars, Defense Multiplier, 1-Hit Kill Enemies, Damage Multiplier, Attack Stat Multiplier, 100% Critical Hit, Infinite Stamina & No Cooldown (+14 more) | Telegram: @m0hmm3d
 Author: hunter
@@ -321,16 +321,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.pascalswagermenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.pascalswagermenu.json
 
 Package: com.hunter.se4modmenu
-Version: 1.2.4
+Version: 1.2.5
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 560
+Installed-Size: 580
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.se4modmenu_1.2.4_iphoneos-arm64.deb
-Size: 130788
-MD5sum: ab32698fc5f69abec1c0ad6278b357b7
-SHA1: 953b0def0d7154abd69f2820cf43c646b14e1580
-SHA256: 6f667ba42140040f4c69f5cf9a7ad04fc2476d71425059094e2b2e2db00247d4
+Filename: ./debs/com.hunter.se4modmenu_1.2.5_iphoneos-arm64.deb
+Size: 140048
+MD5sum: e01a5e669b1a27fdfc6085d222777418
+SHA1: 4a3876023c36f033c714d00ffb8fd0b41b7a9ae2
+SHA256: c82d400a30f2ed5f7fe970f27ef31be7ea18f3a613b04575c466284e04b8d741
 Section: Tweaks
 Description: Features: God Mode (Player Immunity), Incoming Bullet Damage Scale, Lock Resting Heart Rate (~55 BPM), Unlimited Empty Lung & Focus, Infinite Magazine Ammo (No Reload), Infinite Reserve Ammo & Items, No Bullet Spread (Laser Accuracy), No Weapon Recoil (+10 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -339,16 +339,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.se4modmenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.se4modmenu.json
 
 Package: com.hunter.se4modmenu
-Version: 1.2.4
+Version: 1.2.5
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 560
+Installed-Size: 580
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.se4modmenu_1.2.4_iphoneos-arm64e.deb
-Size: 245736
-MD5sum: 187fd48ea5c099f2426becc6d003e9b9
-SHA1: 9feb68defc45fb2da50ad10983517c083d31da9d
-SHA256: 033a152eac6ef65f70229f18853050c3fd1c89d8940db602f0adf7ea0fd9686f
+Filename: ./debs/com.hunter.se4modmenu_1.2.5_iphoneos-arm64e.deb
+Size: 260566
+MD5sum: 389d690a9a4fa51a5ac1609ebe9b04b6
+SHA1: eb2b14a11559eefed4f89a89456adbbaf0ae09b3
+SHA256: 4a111e1db1800acc1414b850608abf77ba74289404c35bfb66df7b16a302ac22
 Section: Tweaks
 Description: Features: God Mode (Player Immunity), Incoming Bullet Damage Scale, Lock Resting Heart Rate (~55 BPM), Unlimited Empty Lung & Focus, Infinite Magazine Ammo (No Reload), Infinite Reserve Ammo & Items, No Bullet Spread (Laser Accuracy), No Weapon Recoil (+10 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -357,16 +357,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.se4modmenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.se4modmenu.json
 
 Package: com.hunter.sor4
-Version: 1.4.5
+Version: 1.4.6
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 528
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.sor4_1.4.5_iphoneos-arm64.deb
-Size: 125578
-MD5sum: a2f58b288345357c88872444327516e0
-SHA1: 80c1668c81bc0d24ebd39c2d82d8cca607dfe254
-SHA256: 0833c09ee8ee499731a9156216961e7728800f98d6afa414f3fc4eb59fd7db25
+Filename: ./debs/com.hunter.sor4_1.4.6_iphoneos-arm64.deb
+Size: 133944
+MD5sum: 6604b61c64c3553238d065f11c383cab
+SHA1: 4bef573bd47683446103088b3629bca0118e65e7
+SHA256: 97b4ca9982250e21f559d19610628fa02c9238ea7cc580500e51c8217f381740
 Section: Tweaks
 Description: Features: Infinite Life (Player & Allies), No Special Move Life Cost, Player Super Armor (No Hitstun), Enable Damage Multiplier, Damage Multiplier, One-Hit Kill (1000x Damage), Unbreakable Weapons & Infinite Ammo, Infinite Stars (99 Stars & 0 Cost) (+1 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -375,16 +375,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.sor4.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.sor4.json
 
 Package: com.hunter.sor4
-Version: 1.4.5
+Version: 1.4.6
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 528
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.sor4_1.4.5_iphoneos-arm64e.deb
-Size: 233684
-MD5sum: 7bee99f35c3470b23e906ee67410380d
-SHA1: 791281c8d3c66cdcda28586fc8e5da652b54af52
-SHA256: dbed4a354e4b474be1d8bb9b299e838078851fadeaa678b622f1692b125a3444
+Filename: ./debs/com.hunter.sor4_1.4.6_iphoneos-arm64e.deb
+Size: 248628
+MD5sum: 9aa87cca2d588210d78419070039753c
+SHA1: 4e700f8b8e3321a567d0dcbca9b6a4ab2c64649c
+SHA256: e54bc34ab69a3dcec1ec93fcd3bb924f2a181c4e9e3e30b988ff826e995a11f8
 Section: Tweaks
 Description: Features: Infinite Life (Player & Allies), No Special Move Life Cost, Player Super Armor (No Hitstun), Enable Damage Multiplier, Damage Multiplier, One-Hit Kill (1000x Damage), Unbreakable Weapons & Infinite Ammo, Infinite Stars (99 Stars & 0 Cost) (+1 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -399,10 +399,10 @@ Maintainer: m0hammed <m0hammed@instapro.dev>
 Installed-Size: 216
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.m0hammed.instapro_5.0.0_iphoneos-arm64.deb
-Size: 54568
-MD5sum: 0392cf45c16cd5a984265695c1ae6ea9
-SHA1: 3ebb094a0fb2568630828234edfbb49a1fc55c76
-SHA256: 7cbd1769ae75745d6adfc058539804cdbfb29687fdf82bb088d016b081d16f1c
+Size: 54516
+MD5sum: 807e64fa2f55dc92dcf2678b1a9fddbd
+SHA1: 066091a4da9712a88ccf02460a853f3198ee5a25
+SHA256: 39df183e24193084ad5ba4a7697339816fadd588d891190bf23564d45d1a19e1
 Section: Tweaks
 Priority: optional
 Description: Features: Download Feed Media (HD), Download Reels & Stories, Ghost Mode (Anonymous Stories), Hide DM Read Receipts, Hide Typing Indicator, Block All Ads & Sponsored Posts, Copy Comments, Bios & Captions, Full HD Profile Picture Zoom | Telegram: @m0hmm3d
@@ -418,10 +418,10 @@ Maintainer: m0hammed <m0hammed@instapro.dev>
 Installed-Size: 216
 Depends: firmware (>= 14.0), mobilesubstrate
 Filename: ./debs/com.m0hammed.instapro_5.0.0_iphoneos-arm64e.deb
-Size: 71160
-MD5sum: 11b8e7909f54176f1385ec251e691e45
-SHA1: 41de33249a71bd5538925142bd3468afe0e577be
-SHA256: 0d2223d4ca940c62c0a700daa0390154a042b2ed0430661249c0f3323739f7d4
+Size: 71154
+MD5sum: 750764dd0cbd27eaab4ec4439553821b
+SHA1: fc94e038da915ed416799a4cdd06722d87dbd3b4
+SHA256: bedd3b9bd18c2da4c1fae7da2a96300c33597ff7d2c6b4580d42e9ba705126d7
 Section: Tweaks
 Priority: optional
 Description: Features: Download Feed Media (HD), Download Reels & Stories, Ghost Mode (Anonymous Stories), Hide DM Read Receipts, Hide Typing Indicator, Block All Ads & Sponsored Posts, Copy Comments, Bios & Captions, Full HD Profile Picture Zoom | Telegram: @m0hmm3d
@@ -431,16 +431,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.instapro.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.instapro.json
 
 Package: com.m0hammed.punishinggrayraven
-Version: 4.8.2
+Version: 4.8.3
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 532
+Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.m0hammed.punishinggrayraven_4.8.2_iphoneos-arm64.deb
-Size: 234328
-MD5sum: 80546207b67bdc6799cca1c332136ea3
-SHA1: 4016e315dc8f8ab16eaaeba21f96e57d36e768c9
-SHA256: 876b6957dce7d2e11a6dd32699a0fb340af4a4e0e2636160d811c80ece3ba235
+Filename: ./debs/com.m0hammed.punishinggrayraven_4.8.3_iphoneos-arm64.deb
+Size: 103480
+MD5sum: f9b5a85eefb3793e3690b4d1f045dd7d
+SHA1: 24e0ebe94504709c39f48391deeafc7cf188087c
+SHA256: 05a8ff1f2377c5476d9e9b5bf232f4f8173f119de5d7bcf1780577b38301205c
 Section: Tweaks
 Description: Features: Enable Pro God Preset, God Mode (Invincible), Defense Multiplier, 1-Hit Kill Enemies, Damage Multiplier, Attack Stat Multiplier, 100% Critical Hit, Infinite Dodge Energy (+6 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -449,16 +449,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.punishinggrayraven.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.punishinggrayraven.json
 
 Package: com.m0hammed.punishinggrayraven
-Version: 4.8.2
+Version: 4.8.3
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 532
+Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.m0hammed.punishinggrayraven_4.8.2_iphoneos-arm64e.deb
-Size: 234306
-MD5sum: 4f528ff5eda121512f1948d298871150
-SHA1: a891e2e6106529db8a02c9fc84071810fb0a813d
-SHA256: 265c93aa756a06c42772557544f974e61beb7713a0981e348547dff9616893c5
+Filename: ./debs/com.m0hammed.punishinggrayraven_4.8.3_iphoneos-arm64e.deb
+Size: 124344
+MD5sum: e82cb74b3edcfae03f98c3601c4c61bf
+SHA1: 26753f470b3d00c28d15bd729b12b65343363cd0
+SHA256: cf0deccd669e22d1dd14e484c6634a96c3f698476367f428b6421a2ed3f6f9e9
 Section: Tweaks
 Description: Features: Enable Pro God Preset, God Mode (Invincible), Defense Multiplier, 1-Hit Kill Enemies, Damage Multiplier, Attack Stat Multiplier, 100% Critical Hit, Infinite Dodge Energy (+6 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -467,18 +467,18 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.punishinggrayraven.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.punishinggrayraven.json
 
 Package: com.m0hammed.stardive
-Version: 1.04.12
+Version: 1.04.13
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 548
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.hunter.stardivemenu
 Replaces: com.hunter.stardivemenu, com.hunter.mhmenu, com.m0hammed.mhmenu
-Filename: ./debs/com.m0hammed.stardive_1.04.12_iphoneos-arm64.deb
-Size: 128730
-MD5sum: 55753d9e2b9dd883c3f93720a5b68a58
-SHA1: 2fc5c389461037abbbc5c0e0540dac644aaecbbb
-SHA256: 00380f3c23725c996d4e6ea63c520545ab8358b5c1f3ce9c490ade451233d00d
+Filename: ./debs/com.m0hammed.stardive_1.04.13_iphoneos-arm64.deb
+Size: 136806
+MD5sum: a3d5bc35cc4fe41b33e9f585aa2fabd5
+SHA1: c7a5ff337fe443de2ed3a7da954841db8de9e1c8
+SHA256: 7707965d68e1a262107952fa0af952cc53209b95c508ef7c75bcd9d2d7e0950a
 Section: Tweaks
 Description: Features: God Mode (Invincible), Immortal (Death Bypass), Restore Full Health (Max HP), One-Hit Kill (Monsters & Bosses), Damage Multiplier (Boss & Mob), Always Critical Hit (100% Crit), No Skill & Tag Cooldown, Infinite Stamina / Dodge / Dash (+13 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -487,18 +487,18 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.stardive.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.stardive.json
 
 Package: com.m0hammed.stardive
-Version: 1.04.12
+Version: 1.04.13
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 548
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.hunter.stardivemenu
 Replaces: com.hunter.stardivemenu, com.hunter.mhmenu, com.m0hammed.mhmenu
-Filename: ./debs/com.m0hammed.stardive_1.04.12_iphoneos-arm64e.deb
-Size: 235894
-MD5sum: af248a0502d5da6591bbf77ab3e2d3ca
-SHA1: d101158bf3a1eafffec01216a7fa5d17912e54b7
-SHA256: 3e7d488f787fd260fda7100ac8166ea9b481300d3d0d8dbe09dbffbe3aa997ac
+Filename: ./debs/com.m0hammed.stardive_1.04.13_iphoneos-arm64e.deb
+Size: 250186
+MD5sum: c9957d56c900bed840f09474a0d5a6d6
+SHA1: 39656eb57fc7e3a1b2e02b0b57666867f550888a
+SHA256: 165ed7a16152f3c68dda022456e8b4301b05cd9b64997035ee1ab251a8db235c
 Section: Tweaks
 Description: Features: God Mode (Invincible), Immortal (Death Bypass), Restore Full Health (Max HP), One-Hit Kill (Monsters & Bosses), Damage Multiplier (Boss & Mob), Always Critical Hit (100% Crit), No Skill & Tag Cooldown, Infinite Stamina / Dodge / Dash (+13 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -507,16 +507,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.stardive.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.stardive.json
 
 Package: com.madfingergames.legends.modmenu
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 528
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.madfingergames.legends.modmenu_1.0.0_iphoneos-arm64.deb
-Size: 129340
-MD5sum: fd56ae1de1201f58be5f6e1bfae56b7c
-SHA1: b4f1d76e9e0641239879e7d29830d04391c5c891
-SHA256: d3760cdb0eaf9a5426a88591f0a0cfc47aba99131921910c9feed7ef4bdba39f
+Filename: ./debs/com.madfingergames.legends.modmenu_1.0.1_iphoneos-arm64.deb
+Size: 137122
+MD5sum: c275d36cce11a3ead9d92a29facfd63d
+SHA1: bf393690d75e94014ce4bd6d37e98d57943b426c
+SHA256: 9cf3c2dfad47a49304ae79d06428c14b4797b40df2ffcb0efafdacc10e4a0953
 Section: Tweaks
 Description: Features: One-Hit Kill, Damage Multiplier, Always Critical Hit, Always Weak Spot, Freeze Enemy HP, God Mode (Invincible), Auto Max Health, Unlimited Ammo (+9 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -525,16 +525,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.madfingergames.legends.modmenu.p
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.madfingergames.legends.modmenu.json
 
 Package: com.madfingergames.legends.modmenu
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 528
+Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.madfingergames.legends.modmenu_1.0.0_iphoneos-arm64e.deb
-Size: 242304
-MD5sum: 4d056905134fcee516c7a92c55661641
-SHA1: fb913d41652450329a3d7ae9d7cb4a75f70760ed
-SHA256: bc6fd4677d45d6ac6994ca20706ff13dccfb4c1b34e119fb5258b6969c9329df
+Filename: ./debs/com.madfingergames.legends.modmenu_1.0.1_iphoneos-arm64e.deb
+Size: 258406
+MD5sum: 66fb1c1119e9b9695d125d92135a5ace
+SHA1: 1c320f02b5633a9c14434dcb340aa7465ea0948e
+SHA256: 1b28656ab6b00f821d9831e5767ed65fcf45224d4b25917f73168435c9c50ee7
 Section: Tweaks
 Description: Features: One-Hit Kill, Damage Multiplier, Always Critical Hit, Always Weak Spot, Freeze Enemy HP, God Mode (Invincible), Auto Max Health, Unlimited Ammo (+9 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -543,16 +543,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.madfingergames.legends.modmenu.p
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.madfingergames.legends.modmenu.json
 
 Package: crimsonheart2
-Version: 1.3.5
+Version: 1.3.6
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 464
+Installed-Size: 500
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/crimsonheart2_1.3.5_iphoneos-arm64.deb
-Size: 181988
-MD5sum: d58e62c73c923cefe05de7291e617f4e
-SHA1: a53fddf5b6b3ceabdb8172c291a1504c43a4bb54
-SHA256: 87fa185f4c76f3851efef81c4324bce0a4f42c7eaf3cf647956f78c55258069f
+Filename: ./debs/crimsonheart2_1.3.6_iphoneos-arm64.deb
+Size: 105734
+MD5sum: dd37579e89104900cad8b1ace1c56913
+SHA1: c64843870284942ae43dc7f79dda40eac00d5611
+SHA256: b23e4b7b14d59e967c33cb9b7ad4eca7afc5abfc2ef87065d06d138265bbd4c5
 Section: Tweaks
 Description: Features: Enable God Preset, God Mode (Invincible), Defense Multiplier, One-Hit Kill, 100% Critical & Never Miss, Final Damage Multiplier, P.Atk & M.Atk Stat Multiplier, Infinite MP (+14 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -561,16 +561,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/crimsonheart2.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/crimsonheart2.json
 
 Package: crimsonheart2
-Version: 1.3.5
+Version: 1.3.6
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 464
+Installed-Size: 500
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/crimsonheart2_1.3.5_iphoneos-arm64e.deb
-Size: 181962
-MD5sum: 934b62d68a58ddf3b7da0077870ad7bf
-SHA1: 9d372eeb33e71ca3c8cd67fe666a9210a1526ec9
-SHA256: 40b03510b1399e66dc437721ac80537821028e9603d50fdf8f2e6f682f301db0
+Filename: ./debs/crimsonheart2_1.3.6_iphoneos-arm64e.deb
+Size: 195872
+MD5sum: c00106d587ae2f0993b098665784f5f0
+SHA1: 4ffd4bb7a6e84998c3614ff01f2757f0f7f27683
+SHA256: c90418285128ab061f3b528d359172b2a87934958a6ffe2b2f8726a6310e2c39
 Section: Tweaks
 Description: Features: Enable God Preset, God Mode (Invincible), Defense Multiplier, One-Hit Kill, 100% Critical & Never Miss, Final Damage Multiplier, P.Atk & M.Atk Stat Multiplier, Infinite MP (+14 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -579,16 +579,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/crimsonheart2.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/crimsonheart2.json
 
 Package: onmyoji
-Version: 1.8.19
+Version: 1.8.20
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 464
+Installed-Size: 500
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/onmyoji_1.8.19_iphoneos-arm64.deb
-Size: 169486
-MD5sum: 04843bcc90d90132046dd3a908bf6b8c
-SHA1: 5cd2b2c14d0b8a873bd24e3563804bd773b76ec4
-SHA256: 7f47d2320189c49fe3477a0ca797b8004c5b99eb84725789682c7e748108cf02
+Filename: ./debs/onmyoji_1.8.20_iphoneos-arm64.deb
+Size: 99484
+MD5sum: 33ccecdee0a2c53f0256954da690040c
+SHA1: 76b74b10f8c6472210aed1c676f23ab1c64c2549
+SHA256: bd3ea53c46eec34c33a3dbfbe6df12e3bc3fc0f218c0ea2f1d7c55ba1c895a91
 Section: Tweaks
 Description: Features: God Mode (Invincible Allies), Auto-Max Ally HP, Ally MaxHP Multiplier, Ally Defense Multiplier, Instant Full Heal Allies, 1-Hit Kill Enemies, Outgoing Damage Multiplier, Ally Attack Stat Multiplier (+11 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -597,16 +597,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/onmyoji.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/onmyoji.json
 
 Package: onmyoji
-Version: 1.8.19
+Version: 1.8.20
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 464
+Installed-Size: 500
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/onmyoji_1.8.19_iphoneos-arm64e.deb
-Size: 169450
-MD5sum: e26f132da8c3bd39733599c9703f26c6
-SHA1: 3ec5e65b3490961b2282806b900f98f5c82a65e0
-SHA256: d08a5ccca5591b6757a3e9eed83ba0e22e2f3d9298254f102eb06351196f8e2d
+Filename: ./debs/onmyoji_1.8.20_iphoneos-arm64e.deb
+Size: 185448
+MD5sum: 4f1919b8f967fdd277fc11549226e52a
+SHA1: e36fd4db1acac0020347269bbeeffc5a5d40b181
+SHA256: 47db0d222ac6a3e3f7d48d622c3217210a69fed61b5e18f73a803fac39e45cbf
 Section: Tweaks
 Description: Features: God Mode (Invincible Allies), Auto-Max Ally HP, Ally MaxHP Multiplier, Ally Defense Multiplier, Instant Full Heal Allies, 1-Hit Kill Enemies, Outgoing Damage Multiplier, Ally Attack Stat Multiplier (+11 more) | Telegram: @m0hmm3d
 Author: m0hammed
