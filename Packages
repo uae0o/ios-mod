@@ -1,3 +1,39 @@
+Package: com.hunter.acecraft
+Version: 1.3.135
+Architecture: iphoneos-arm64
+Maintainer: Hunter
+Installed-Size: 564
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.acecraft_1.3.135_iphoneos-arm64.deb
+Size: 129360
+MD5sum: ec963d2c802e1e1e5df0442bfab88b11
+SHA1: c07d12c2146c845762f37ea1bd331568bc2d1e6f
+SHA256: 5fbf7393f6f978e235b1c8440fdf72d1ff4728676f7d7d55f664140c4b2c75a7
+Section: Tweaks
+Description: Features: God Mode (Invincible), Max Defense (999K DEF), Full Heal Player Now, Damage Multiplier, Flat Bonus ATK, 1-Hit Kill (1 HP Enemies), Enemy Spawn HP Scale, Zero Enemy Defense (0 DEF) (+more) | Telegram: @m0hmm3d
+Author: Hunter
+Name: ACECRAFT Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.acecraft.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.acecraft.json
+
+Package: com.hunter.acecraft
+Version: 1.3.135
+Architecture: iphoneos-arm64e
+Maintainer: Hunter
+Installed-Size: 564
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.acecraft_1.3.135_iphoneos-arm64e.deb
+Size: 241872
+MD5sum: cc481fcb061874af18bb61e2ab069281
+SHA1: 0d8fc346d48f732da1db6a7ebf26f4935dd3fba0
+SHA256: 6aa0d73cfeb9b84d5d09e053be5bce3389aba6e58f149c3e71d9d6b70d669235
+Section: Tweaks
+Description: Features: God Mode (Invincible), Max Defense (999K DEF), Full Heal Player Now, Damage Multiplier, Flat Bonus ATK, 1-Hit Kill (1 HP Enemies), Enemy Spawn HP Scale, Zero Enemy Defense (0 DEF) (+more) | Telegram: @m0hmm3d
+Author: Hunter
+Name: ACECRAFT Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.acecraft.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.acecraft.json
+
 Package: com.hunter.aethergazer
 Version: 1.0.3
 Architecture: iphoneos-arm64

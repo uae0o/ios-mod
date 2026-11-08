@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "10 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ ACECRAFT Mod Menu (v1.3.135)\nPro Glass UI Mod Menu for **ACECRAFT: Sky Hero** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (Invincible)** — Locks CurHP to MaxHP, sets GMNoDamage & DebugModel.Invincible\n- **Max Defense (999K DEF)** — Overrides PlayerLogic.DEF (AttributeType 103) to 999,999\n- **Full Heal Player Now** — Instantly restores PlayerLogic.CurHP to MaxHP\n- **Damage Multiplier** — Scales PlayerLogic.ATK in BattleLogicStageSystem.CalcDamage\n- **Flat Bonus ATK** — Adds flat fixed-point (FP 32.32) ATK to active pilot\n- **1-Hit Kill (1 HP Enemies)** — Forces MonsterLogic.CurHP to 1.0 FixD2 (raw 128) for all active enemies\n- **Enemy Spawn HP Scale** — Scales newly spawned MonsterLogic.CurHP relative to MaxHP\n- **Zero Enemy Defense (0 DEF)** — Sets MonsterLogic.DEF (AttributeType 103) to 0 so player hits deal full damage\n- **Zero Enemy Attack (0 ATK)** — Sets MonsterLogic.ATK (AttributeType 102) to 0\n- **Kill All Active Enemies** — Invokes MonsterLogic.StopScriptThenDead(true, false) on all active monsters\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.3.135"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}
