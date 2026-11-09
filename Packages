@@ -215,37 +215,37 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.gameofthrones.json
 
 Package: com.hunter.mhmenu
-Version: 1.0.4
+Version: 1.0.11
 Architecture: iphoneos-arm64
-Maintainer: hunter
-Installed-Size: 548
+Maintainer: m0hammed
+Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.mhmenu_1.0.4_iphoneos-arm64.deb
-Size: 129416
-MD5sum: a925de0a03b51c4d4c341cd17bc257b1
-SHA1: a995b904b7854897caea4a9aa0541d791b458cb6
-SHA256: 68b86893e346f0e16481da54e438b647d714cf6e66aa5ac1545bba6d3c0c9096
+Filename: ./debs/com.hunter.mhmenu_1.0.11_iphoneos-arm64.deb
+Size: 149034
+MD5sum: d57e8d2435907aafdd75d8ee4c9ee097
+SHA1: c8ba18233840a996f9a0b2c42555903a120f77dd
+SHA256: 8e17f546bb6a020793a45b3658ca2fb3666c594c24add496687f7208ecdb1206
 Section: Tweaks
-Description: Features: God Mode (No Damage), 1-Hit Kill Monsters, Damage Multiplier, Effective ATK Boost, Instant Part Break, Freeze Monster HP, Check Hook & Slide Status | Telegram: @m0hmm3d
-Author: hunter
+Description: Features: Hunter Attack Multiplier (1x-100x), Hunter HP & Defense Multiplier (1x-100x), Part Break & Stagger Multiplier (1x-100x), Always Weakpoint Hitzone (Soft Meat), Infinite Stamina & Weapon Energy, Multi-Collect / Infinite Gathering Nodes, Lusterwasp Pull to Hunter | Telegram: @m0hmm3d
+Author: m0hammed
 Name: MH Outlanders Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmenu.json
 
 Package: com.hunter.mhmenu
-Version: 1.0.4
+Version: 1.0.11
 Architecture: iphoneos-arm64e
-Maintainer: hunter
-Installed-Size: 548
+Maintainer: m0hammed
+Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.mhmenu_1.0.4_iphoneos-arm64e.deb
-Size: 239750
-MD5sum: 6f0eccb1209c1d29120c288174fdefac
-SHA1: 136b906483d07314cdaa66dbd64a43c8e9d89348
-SHA256: 8f46a19f03ebdc0853e5c4a53d5cde2bb941801cbb022bfdca273071b3f9ec8c
+Filename: ./debs/com.hunter.mhmenu_1.0.11_iphoneos-arm64e.deb
+Size: 279456
+MD5sum: f80534bde2016a31f11b16dc5518e699
+SHA1: b361bd3f9c961823739fcb577a486e077f648973
+SHA256: f982ccc9f1da3be543b2d229543291ac78cb6be70c95320a120ff36dc40df8e3
 Section: Tweaks
-Description: Features: God Mode (No Damage), 1-Hit Kill Monsters, Damage Multiplier, Effective ATK Boost, Instant Part Break, Freeze Monster HP, Check Hook & Slide Status | Telegram: @m0hmm3d
-Author: hunter
+Description: Features: Hunter Attack Multiplier (1x-100x), Hunter HP & Defense Multiplier (1x-100x), Part Break & Stagger Multiplier (1x-100x), Always Weakpoint Hitzone (Soft Meat), Infinite Stamina & Weapon Energy, Multi-Collect / Infinite Gathering Nodes, Lusterwasp Pull to Hunter | Telegram: @m0hmm3d
+Author: m0hammed
 Name: MH Outlanders Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmenu.json
