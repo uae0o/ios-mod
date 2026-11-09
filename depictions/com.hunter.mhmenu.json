@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ✨ MH Outlanders Mod Menu (v1.0.2)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (No Damage)** — Zeroes all monster direct & physical damage to player.\n- **1-Hit Kill Monsters** — Drops enemy HP to 0 on hit (respects phase locks).\n- **Damage Multiplier** — Scales health damage dealt to enemies.\n- **Effective ATK Boost** — Multiplies character EffectiveAttack stat.\n- **Instant Part Break** — Breaks/severs monster breakable parts in one hit.\n- **Freeze Monster HP** — Monsters take 0 HP damage (combo testing dummy).\n- **Check Hook & Slide Status** — Verify live ASLR slide & hooked monster addresses.\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "markdown": "### ✨ MH Outlanders Mod Menu (v1.0.11)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)** (`com.garena.game.mho` & `com.tencent.mhadv`).\n\n### 🔥 Mod Features\n- **Hunter Attack Multiplier (1x - 100x)** — Multiplies EffectiveAttack, Attack, Elemental Damage & Monster HP damage dealt.\n- **Hunter HP & Defense Multiplier (1x - 100x)** — Multiplies Hunter Defence, ShieldValue & HealthRegen and divides incoming Monster damage.\n- **Part Break & Stagger Multiplier (1x - 100x)** — Multiplies Monster Breakable Part damage, clears Part Locks & speeds up Posture/Toughness breaks.\n- **Always Weakpoint Hitzone (Soft Meat)** — Forces all Monster hitzones to soft weakpoint values so weapons never bounce.\n- **Infinite Stamina & Weapon Energy** — Locks Stamina, Fly Stamina, JetGlider, Ultimate, Phial, GreatSword, LongSword, Bow & Charge gauges to maximum.\n- **Multi-Collect / Infinite Gathering Nodes** — Resets PersonalInteractTimes & InteractedTimes to 0 on Herbs, Stones, Honey, Ore, Bonepiles & Chests.\n- **Lusterwasp Pull to Hunter** — Pulls nearby Lusterwasps directly in front of your Hunter.\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
           "useSpacing": true
         },
         {
@@ -37,7 +37,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0.2"
+          "text": "1.0.11"
         },
         {
           "class": "DepictionTableTextView",
