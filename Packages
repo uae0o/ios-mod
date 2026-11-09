@@ -542,6 +542,42 @@ Name: stardive
 Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.stardive.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.stardive.json
 
+Package: com.m0hammed.swordofchaos
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m0hammed.swordofchaos_1.0.0_iphoneos-arm64.deb
+Size: 139364
+MD5sum: e9e14f862ea88ba5358101cd4b8fd199
+SHA1: a9c27b8d6cf584f809c45ca7d1c6b71c55dccce8
+SHA256: e6603fd14d8c976679c38d39be77b98ead1bc44f4eff9bae4bfc20c19f8e32bb
+Section: Tweaks
+Description: Features: God Mode (Invincible), One-Hit Kill (Enemy 0 HP), Damage Multiplier (1x-100x), Attack Stat Multiplier (1x-50x), Defense / Shield Multiplier (1x-50x), No Skill Cooldowns, Infinite MP / Stamina, Instant Heal Player & Pet, Kill All Map Monsters | Telegram: @m0hmm3d
+Author: m0hammed
+Name: Sword of Chaos
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.swordofchaos.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.swordofchaos.json
+
+Package: com.m0hammed.swordofchaos
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m0hammed.swordofchaos_1.0.0_iphoneos-arm64e.deb
+Size: 262264
+MD5sum: f7d8a25ef0fbc6f7119b845efca7fe9f
+SHA1: f3468cb42339569fec866d9746a9c3558d00efef
+SHA256: 7755445780e2fa81dc324bb31bd97fc48d977f71f6a4077016bf823603b6377f
+Section: Tweaks
+Description: Features: God Mode (Invincible), One-Hit Kill (Enemy 0 HP), Damage Multiplier (1x-100x), Attack Stat Multiplier (1x-50x), Defense / Shield Multiplier (1x-50x), No Skill Cooldowns, Infinite MP / Stamina, Instant Heal Player & Pet, Kill All Map Monsters | Telegram: @m0hmm3d
+Author: m0hammed
+Name: Sword of Chaos
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.swordofchaos.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.swordofchaos.json
+
 Package: com.madfingergames.legends.modmenu
 Version: 1.0.1
 Architecture: iphoneos-arm64

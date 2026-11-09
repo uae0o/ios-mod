@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "10 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Sword of Chaos Mod Menu (v1.0.0)\nPro Glass UI Mod Menu + Lua 5.1 Combat Engine Hook for **Sword of Chaos** (`com.allstargames.wsjjen` v16.0.1) by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (Invincible)** — Player & pet take 0 damage and stay at 100% HP\n- **One-Hit Kill (Enemy 0 HP)** — Drops enemy HP to 0 and multiplies outgoing damage\n- **Damage Multiplier (1x – 100x)** — Scales all outgoing skill & attack damage\n- **Attack Stat Multiplier (1x – 50x)** — Multiplies player & pet base Attack stat\n- **Defense / Shield Multiplier (1x – 50x)** — Multiplies Defense stat and divides incoming damage\n- **No Skill Cooldowns** — All active & major skills have 0s cooldown\n- **Infinite MP / Stamina** — Zero mana/energy cost & auto-refill SP/MP\n- **Instant Heal Player & Pet** — Immediately restores player & pet HP/MP to 100%\n- **Kill All Map Monsters** — Immediately drops all active monsters' HP to 0\n- **Hot-Reload Custom Lua** — Reloads `Documents/earth_inject.lua` in battle without restarting\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Auto-Offset Engine**: Includes 3-Layer Auto-Offset & Function Resolver for game updates.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}
