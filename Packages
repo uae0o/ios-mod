@@ -143,16 +143,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.earth.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.earth.json
 
 Package: com.hunter.fishdom
-Version: 10.1.9
+Version: 10.2.0
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
-Installed-Size: 496
+Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.fishdom_10.1.9_iphoneos-arm64.deb
-Size: 113856
-MD5sum: 01b4daf189183d81ca04e5a1a8223439
-SHA1: 1e51373d4e4b16995678d3f3c48e9c4cd49f2705
-SHA256: f94c8e162f17dcf2b34ef92e2596648b741b949910f1649ae3222c4715784271
+Filename: ./debs/com.hunter.fishdom_10.2.0_iphoneos-arm64.deb
+Size: 119250
+MD5sum: 8132c51caa87b0946b8064bc3f8abe59
+SHA1: 674baf7fc52e74dc2d1b3a171637dce11153cc01
+SHA256: 7912d69abf54330762372e7e57267a9ce8470a8e059c71b7c22a5a219825df9a
 Section: Tweaks
 Description: Features: Freeze Moves (Never Decrease), Moves Increase When Used (+1 Per Move), Override Level Starting Moves, Custom Starting Moves, Add +10 Moves Now, Set Moves to 99 Now, Free Store & Boosters (0 Cost), Bypass CanBuy Checks (Always Afford) (+12 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -161,16 +161,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.fishdom.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.fishdom.json
 
 Package: com.hunter.fishdom
-Version: 10.1.9
+Version: 10.2.0
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
-Installed-Size: 496
+Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.fishdom_10.1.9_iphoneos-arm64e.deb
-Size: 211532
-MD5sum: f9dcd6c262d636bdc9206c3a7a028a91
-SHA1: ab33b42faaa72764d4acdc2d52bd5c8d4e3359be
-SHA256: babae4c4fd48830ce27ea5d3265c398c66b1c9d18b74258ce9a8e14532cdb0f7
+Filename: ./debs/com.hunter.fishdom_10.2.0_iphoneos-arm64e.deb
+Size: 221824
+MD5sum: 78099a97061d2a6d2c852bb102c30424
+SHA1: 81c16c86b6eb2ba83e4429794a9faf75cb4be311
+SHA256: afa023ba80bf705e9c08d7c37fab194eccbf023cc43390bdbcd24d83a9454f46
 Section: Tweaks
 Description: Features: Freeze Moves (Never Decrease), Moves Increase When Used (+1 Per Move), Override Level Starting Moves, Custom Starting Moves, Add +10 Moves Now, Set Moves to 99 Now, Free Store & Boosters (0 Cost), Bypass CanBuy Checks (Always Afford) (+12 more) | Telegram: @m0hmm3d
 Author: m0hammed
