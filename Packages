@@ -221,10 +221,10 @@ Maintainer: m0hammed
 Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.mhmenu_1.0.11_iphoneos-arm64.deb
-Size: 149034
-MD5sum: d57e8d2435907aafdd75d8ee4c9ee097
-SHA1: c8ba18233840a996f9a0b2c42555903a120f77dd
-SHA256: 8e17f546bb6a020793a45b3658ca2fb3666c594c24add496687f7208ecdb1206
+Size: 150064
+MD5sum: 9547920437aaece6ec4774443e2f468d
+SHA1: 3b342ce51beacaf5b9cbf06c321cb839a6d67bba
+SHA256: 466b523d77e6809193937f5e24e25a57bb582740c0735b1e23f6e448355ec8ba
 Section: Tweaks
 Description: Features: Hunter Attack Multiplier (1x-100x), Hunter HP & Defense Multiplier (1x-100x), Part Break & Stagger Multiplier (1x-100x), Always Weakpoint Hitzone (Soft Meat), Infinite Stamina & Weapon Energy, Multi-Collect / Infinite Gathering Nodes, Lusterwasp Pull to Hunter | Telegram: @m0hmm3d
 Author: m0hammed
@@ -239,10 +239,10 @@ Maintainer: m0hammed
 Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.mhmenu_1.0.11_iphoneos-arm64e.deb
-Size: 279456
-MD5sum: f80534bde2016a31f11b16dc5518e699
-SHA1: b361bd3f9c961823739fcb577a486e077f648973
-SHA256: f982ccc9f1da3be543b2d229543291ac78cb6be70c95320a120ff36dc40df8e3
+Size: 280648
+MD5sum: b94a4a820296a842d57786c2b6db1068
+SHA1: 63b528323a67643df56aff9d11a1e7c93fc8541b
+SHA256: 4e02cec396425404e24ef5e843fd1d2d0afa96165ebb1a213787a92f9976ccf7
 Section: Tweaks
 Description: Features: Hunter Attack Multiplier (1x-100x), Hunter HP & Defense Multiplier (1x-100x), Part Break & Stagger Multiplier (1x-100x), Always Weakpoint Hitzone (Soft Meat), Infinite Stamina & Weapon Energy, Multi-Collect / Infinite Gathering Nodes, Lusterwasp Pull to Hunter | Telegram: @m0hmm3d
 Author: m0hammed
