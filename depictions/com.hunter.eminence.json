@@ -1,0 +1,30 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#8b5cf6",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### The Eminence in Shadow: Master of Garden (`com.crunchyroll.eminenceinshadowrpg`)\n\n- **Player Defense**: God Mode (Invincible Allies), Always Full HP, Defense Multiplier (x1 - x50)\n- **Attack & OHK**: One-Hit Kill (Instant Enemy Kill), Damage Multiplier (x1 - x50)\n- **Enemy Debuffs**: Enemy 0 Defense, Enemy Weak Attack (1 DMG), Freeze Enemy SP, Instant Wipe All Enemies\n- **Speed & SP**: Infinite SP / Instant Ultimate, Battle Speed Multiplier (x1 - x5), Unlock 60/120 FPS\n- **Auto-Update & Device Token**: Built-in Cloud Offset Sync & 1-User Device Lock"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "5.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        }
+      ]
+    }
+  ]
+}

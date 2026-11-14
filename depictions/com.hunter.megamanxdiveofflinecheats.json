@@ -1,0 +1,30 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#3b82f6",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### MEGA MAN X DiVE Offline (`jp.co.capcom.rxdoff`)\n\n- **Player**: Infinite Health / HP & Vitality, Unlimited Energy & Stamina (999 + 0 Cost)\n- **Combat**: Damage & Final ATK Multiplier (`GetFinalATK` x1 - x100)\n- **Unlocks**: Unlimited Coins & Gold, Unlimited Gems / Elemental Metal, No Cooldowns, Unlimited Stars & XP Rewards\n- **Auto-Update & Device Token**: Built-in Cloud Offset Sync & 1-User Device Lock"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        }
+      ]
+    }
+  ]
+}

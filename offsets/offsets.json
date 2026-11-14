@@ -513,5 +513,50 @@
     "BattleUnitData.ChangeHp": "il2cpp:WeGame.Battle.Logic.dll::WE.Battle.Logic::BattleUnitData::ChangeHp::2",
     "BattleUnitData.SetFullHp": "il2cpp:WeGame.Battle.Logic.dll::WE.Battle.Logic::BattleUnitData::SetFullHp::0",
     "BattleManager.GetPlayerList": "il2cpp:WeGame.Battle.Logic.dll::WE.Battle.Logic::BattleManager::GetPlayerList::0"
+  },
+  "com.crunchyroll.eminenceinshadowrpg": {
+    "_comment": "The Eminence in Shadow: Master of Garden (com.hunter.eminence v5.0.0)",
+    "0x30a6a30": "il2cpp:*:BattleLogic:BattleLogic:Update:0",
+    "0x30acf70": "il2cpp:*:BattleLogic:BattleMatch:Update:0",
+    "0x30afebc": "il2cpp:*:BattleLogic:BattleMatch:WipeEnemies:0",
+    "0x30aa854": "0x30aa854",
+    "0x30ab4d4": "il2cpp:*:BattleLogic:BattleLogicTimer:SetTimeScale:1",
+    "0x30aae44": "il2cpp:*:BattleLogic:BattleLogicSimulateTimer:SetTimeScale:1",
+    "0x30f0ac0": "il2cpp:*:BattleLogic:DamageCalculator:.ctor:10",
+    "0x30f0f48": "il2cpp:*:BattleLogic:DamageCalculator:CalculateUnlimitedDamage:1",
+    "0x97d5ff0": "il2cpp:*:Network:CharacterParameter:Clone:0",
+    "0x97d5854": "il2cpp:*:Network:CharacterParameter:get_PhysicalAttack:0",
+    "0x97d5864": "il2cpp:*:Network:CharacterParameter:get_MagicAttack:0",
+    "0x97d5874": "il2cpp:*:Network:CharacterParameter:get_BreakAttack:0",
+    "0x97d5884": "il2cpp:*:Network:CharacterParameter:get_PhysicalDefense:0",
+    "0x97d5894": "il2cpp:*:Network:CharacterParameter:get_MagicDefense:0",
+    "0x97d5974": "il2cpp:*:Network:CharacterParameter:get_DamageLimit:0",
+    "0xa4506f8": "il2cpp:*:UnityEngine:Time:set_timeScale:1",
+    "0xa4506b8": "il2cpp:*:UnityEngine:Time:get_timeScale:0",
+    "0xa3a86c0": "il2cpp:*:UnityEngine:Application:set_targetFrameRate:1"
+  },
+  "com.mytona.seekersnotes.mysteriesofdarkwood": {
+    "_comment": "Seekers Notes: Hidden Mystery (com.hunter.seekersnotescheats v1.0.0)",
+    "0x1c3480c": "0x1c3480c",
+    "0x1c346bc": "0x1c346bc",
+    "0x1c3478c": "0x1c3478c",
+    "0x1c347b0": "0x1c347b0",
+    "0x1c3244c": "0x1c3244c",
+    "0x1c31e8c": "0x1c31e8c"
+  },
+  "jp.co.capcom.rxdoff": {
+    "_comment": "MEGA MAN X DiVE Offline (com.hunter.megamanxdiveofflinecheats v1.0.0)",
+    "0x1bf5390": "0x1bf5390",
+    "0x1c89e7c": "0x1c89e7c",
+    "0x1c89d2c": "0x1c89d2c",
+    "0x1c89a38": "0x1c89a38",
+    "0x1c89a8c": "0x1c89a8c",
+    "0x1c89b34": "0x1c89b34",
+    "0x1c89ae0": "0x1c89ae0",
+    "0x1c89ff8": "0x1c89ff8",
+    "0x1be213c": "0x1be213c",
+    "0x1be2198": "0x1be2198",
+    "0x1c89b64": "0x1c89b64",
+    "0x16bad68": "0x16bad68"
   }
 }

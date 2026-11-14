@@ -142,6 +142,42 @@ Name: Etheria: Restart Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.earth.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.earth.json
 
+Package: com.hunter.eminence
+Version: 5.0.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 260
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.eminence_5.0.0_iphoneos-arm64.deb
+Size: 90036
+MD5sum: 38e4b3d55db2567d6eaea7957bc443c9
+SHA1: 59585d178fa99b2229458e152be90ba901dbe845
+SHA256: 732697c8186cf7e60df56b5376e81943eaa38d73236108d1fd4c214b5f1160e8
+Section: Tweaks
+Description: Glass UI Mod Menu for The Eminence in Shadow: Master of Garden (com.crunchyroll.eminenceinshadowrpg)
+Author: m0hammed (@m0hmm3d)
+Name: Eminence in Shadow Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.eminence.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.eminence.json
+
+Package: com.hunter.eminence
+Version: 5.0.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 260
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.eminence_5.0.0_iphoneos-arm64e.deb
+Size: 111244
+MD5sum: f0c5ed28927eff02e0f5c43479c3fd8f
+SHA1: 1d785bff0008844c73091a9256dea966630b195d
+SHA256: 64a365cc170cba49c3b92af36cf3b7ee609ef310dcc68b4dd5577454bbedf949
+Section: Tweaks
+Description: Glass UI Mod Menu for The Eminence in Shadow: Master of Garden (com.crunchyroll.eminenceinshadowrpg)
+Author: m0hammed (@m0hmm3d)
+Name: Eminence in Shadow Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.eminence.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.eminence.json
+
 Package: com.hunter.fishdom
 Version: 10.2.0
 Architecture: iphoneos-arm64
@@ -213,6 +249,42 @@ Author: hunter
 Name: Game of Thrones
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.gameofthrones.json
+
+Package: com.hunter.megamanxdiveofflinecheats
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 260
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.megamanxdiveofflinecheats_1.0.0_iphoneos-arm64.deb
+Size: 92814
+MD5sum: 88614a353fd7d0185b42c4a4b137e268
+SHA1: 8c94d0d28523f213c07eb30c9a2ba6c828e5eb72
+SHA256: e64d98f02f41a50b09436d4cae5926aae949ba95e52e6a4e77218f5fa829a049
+Section: Tweaks
+Description: Glass UI Mod Menu for MEGA MAN X DiVE Offline (jp.co.capcom.rxdoff)
+Author: m0hammed (@m0hmm3d)
+Name: MEGA MAN X DiVE Offline Cheats
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.megamanxdiveofflinecheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.megamanxdiveofflinecheats.json
+
+Package: com.hunter.megamanxdiveofflinecheats
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 260
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.megamanxdiveofflinecheats_1.0.0_iphoneos-arm64e.deb
+Size: 113866
+MD5sum: 3441a91c3248137e42a7571f5dca4341
+SHA1: 03d79edcb5a575191f2f98b5a8915b6556f69657
+SHA256: 54db18dec27b1d1e98abc1287ac42b2e68aa4fc2c7e5801d6e780253fa21655f
+Section: Tweaks
+Description: Glass UI Mod Menu for MEGA MAN X DiVE Offline (jp.co.capcom.rxdoff)
+Author: m0hammed (@m0hmm3d)
+Name: MEGA MAN X DiVE Offline Cheats
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.megamanxdiveofflinecheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.megamanxdiveofflinecheats.json
 
 Package: com.hunter.mhmenu
 Version: 1.0.11
@@ -391,6 +463,42 @@ Author: m0hammed
 Name: Sniper Elite 4 Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.se4modmenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.se4modmenu.json
+
+Package: com.hunter.seekersnotescheats
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 276
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.seekersnotescheats_1.0.0_iphoneos-arm64.deb
+Size: 100284
+MD5sum: eca4598fc9f6b238f841fc9ae4eebe39
+SHA1: ad0933e7163a0034758b78a429bf38baea89cd1a
+SHA256: ad930dcee1be354a8220bd60593ccec2efb34e68fb6dab683dcac385ab57dfd7
+Section: Tweaks
+Description: Glass UI Mod Menu for Seekers Notes: Hidden Mystery (com.mytona.seekersnotes.mysteriesofdarkwood)
+Author: m0hammed (@m0hmm3d)
+Name: Seekers Notes: Hidden Mystery Cheats
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.seekersnotescheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.seekersnotescheats.json
+
+Package: com.hunter.seekersnotescheats
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 276
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.seekersnotescheats_1.0.0_iphoneos-arm64e.deb
+Size: 121812
+MD5sum: 5a102367134a4852ae5c01de261a722e
+SHA1: b26d2bea031c8fa0603ffc514d7639b83eec59f8
+SHA256: ec7ada65afaaf07d29d5e5c0b39a7bd4896858a57fc5940091628238c01dde55
+Section: Tweaks
+Description: Glass UI Mod Menu for Seekers Notes: Hidden Mystery (com.mytona.seekersnotes.mysteriesofdarkwood)
+Author: m0hammed (@m0hmm3d)
+Name: Seekers Notes: Hidden Mystery Cheats
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.seekersnotescheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.seekersnotescheats.json
 
 Package: com.hunter.sor4
 Version: 1.4.6

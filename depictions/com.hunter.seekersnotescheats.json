@@ -1,0 +1,30 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#f59e0b",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Seekers Notes: Hidden Mystery (`com.mytona.seekersnotes.mysteriesofdarkwood`)\n\n- **Player**: Unlimited Energy & Stamina (999 + 0 Cost)\n- **Multipliers**: XP & Coins Reward Multiplier (x1 - x100)\n- **Unlocks**: Unlimited Coins & Gold (9999), Unlimited Gems / Rubies & Event Tokens (9999)\n- **Auto-Update & Device Token**: Built-in Cloud Offset Sync & 1-User Device Lock"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        }
+      ]
+    }
+  ]
+}
