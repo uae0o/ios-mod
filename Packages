@@ -867,16 +867,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.madfingergames.legends.modmenu.p
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.madfingergames.legends.modmenu.json
 
 Package: crimsonheart2
-Version: 1.3.8
+Version: 1.3.9
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
 Installed-Size: 500
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/crimsonheart2_1.3.8_iphoneos-arm64.deb
-Size: 109484
-MD5sum: dca4e96ffef1f419db07d811a430f569
-SHA1: ba8d954541a49334f18744de1ff26dd54d6cf118
-SHA256: ad4b84c034f0aefcdaf5f0f56ed30cd0021883cb485c5086f39aa42780af9836
+Filename: ./debs/crimsonheart2_1.3.9_iphoneos-arm64.deb
+Size: 109646
+MD5sum: 011bfd600ae177b8f1d4ac5531b8e13e
+SHA1: 5f1971bafd26f3e902b3b058c6a545f9ebc00809
+SHA256: 70b56e376a97de6b674a62dc30072a064659ed7e26f1fa6b610b575ef257117e
 Section: Tweaks
 Description: Features: Enable God Preset, God Mode (Invincible), Defense Multiplier, One-Hit Kill, 100% Critical & Never Miss, Final Damage Multiplier, P.Atk & M.Atk Stat Multiplier, Infinite MP (+14 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -885,16 +885,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/crimsonheart2.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/crimsonheart2.json
 
 Package: crimsonheart2
-Version: 1.3.8
+Version: 1.3.9
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
 Installed-Size: 500
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/crimsonheart2_1.3.8_iphoneos-arm64e.deb
-Size: 201646
-MD5sum: 67393482f28e496319f49667efc85c9f
-SHA1: d325fc35ff27cf185f17a1c2f4f6793e7aafc8e6
-SHA256: 66c9416c6fac4d91410f02cb96e359dc6036d9a55259bbe4bb9d11c7e0f85840
+Filename: ./debs/crimsonheart2_1.3.9_iphoneos-arm64e.deb
+Size: 202200
+MD5sum: d90846322a6950f2eb1f13bfb9247a7f
+SHA1: 9e74679685bc43b71419e4c9f80b7087a640c2fb
+SHA256: ac9ed4952a04bb4648e5e3ba436b165226d954c124c1890aebf2ab4fa775eb69
 Section: Tweaks
 Description: Features: Enable God Preset, God Mode (Invincible), Defense Multiplier, One-Hit Kill, 100% Critical & Never Miss, Final Damage Multiplier, P.Atk & M.Atk Stat Multiplier, Infinite MP (+14 more) | Telegram: @m0hmm3d
 Author: m0hammed
