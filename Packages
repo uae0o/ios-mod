@@ -77,10 +77,10 @@ Maintainer: m0hammed
 Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.basebss_35.4.8_iphoneos-arm64.deb
-Size: 134688
-MD5sum: aecdf0b550fa8dd24c06cd7a73cba2d3
-SHA1: bfadf67e116823f70b7a93faea9b7def4dec5646
-SHA256: 843d8c0e30be2f9f6b3035b2c2718e48f5029b6d1e5541cc52decaef3d3a4d2a
+Size: 134620
+MD5sum: 4bac0e84f74d6cf75045257f25cf0272
+SHA1: 1ec7c1096c87266a77601932c8dcb972f4f1ddd6
+SHA256: 6f00e55253a5ef99a8bb211b6e1911f22fffbbcae7d44ce89467a51adc56af2a
 Section: Tweaks
 Description: Features: Boost Ally Primary Stats, Primary Stat Multiplier, Boost Ally Secondary Stats, Secondary Stat Multiplier, Max Ally Condition (Best Condition), Infinite MyLeague Skill Points (9,999 SP), 100% Training Success (Never Fail), 0 Stamina Cost Training (+15 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -95,10 +95,10 @@ Maintainer: m0hammed
 Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.basebss_35.4.8_iphoneos-arm64e.deb
-Size: 252226
-MD5sum: 62bffee6d9a657e771c2df1d2c6de8d6
-SHA1: dc35e6b08f3b069cceea7a21ef92199bc35928d0
-SHA256: 31ccab1c0a0aff72205476a1b8ea8255d59c8a167821242f590db8a12072b362
+Size: 252318
+MD5sum: a855764414cd112e0bd69bfa83b65341
+SHA1: a5aa3e7918927f5efa5e3fd2a4c2dab583511185
+SHA256: 0e71fa0ff4fcd1d73b40f376e4ef263f5b5ff3183c74f614baeca138a843b794
 Section: Tweaks
 Description: Features: Boost Ally Primary Stats, Primary Stat Multiplier, Boost Ally Secondary Stats, Secondary Stat Multiplier, Max Ally Condition (Best Condition), Infinite MyLeague Skill Points (9,999 SP), 100% Training Success (Never Fail), 0 Stamina Cost Training (+15 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -293,10 +293,10 @@ Maintainer: m0hammed (@m0hmm3d)
 Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.kritikacheats_1.0.0_iphoneos-arm64.deb
-Size: 101306
-MD5sum: b812cb5ce7d7bfe32a7a5d7ec59f78d7
-SHA1: 880d4312dd28064af90b24104b5c2fae7575f052
-SHA256: e3a305fc461d1c8b5061d574e4e990a801456d7fb8d0780dad1459c1b93f2458
+Size: 101334
+MD5sum: ee4aaa82f16593c4f5b3a9fbc96ef07f
+SHA1: b8247e7af6edcfafd3c8912212f51639468afaa9
+SHA256: e5f838e5156dd5593856923205dd8f78a66b8211b4a1102d5f5b1bf11aec35e7
 Section: Tweaks
 Description: Glass UI Mod Menu for Kritika: The White Knights (com.gamevil.kritikam.ios.apple.global.normal)
 Author: m0hammed (@m0hmm3d)
@@ -311,10 +311,10 @@ Maintainer: m0hammed (@m0hmm3d)
 Installed-Size: 276
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.hunter.kritikacheats_1.0.0_iphoneos-arm64e.deb
-Size: 122802
-MD5sum: 27879eb20a329f3a0d3ef37217f682ef
-SHA1: 82c23ce706d8eee6cd57ef0343a172b5a6f1aa81
-SHA256: d47247a08efd775b3a066d49e7255196e5d36bc67fe3d6c7f8fa32adc87a259c
+Size: 122772
+MD5sum: 55c47314e803ef91a87e7ded18f629a0
+SHA1: a6b31ab8f25b9f9ccb075048c00417db467a16a2
+SHA256: 1e5c2b38ab4734489afc009f10507a64f0b3de0d94a9798f422590ff5a3bbe37
 Section: Tweaks
 Description: Glass UI Mod Menu for Kritika: The White Knights (com.gamevil.kritikam.ios.apple.global.normal)
 Author: m0hammed (@m0hmm3d)
@@ -867,16 +867,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.madfingergames.legends.modmenu.p
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.madfingergames.legends.modmenu.json
 
 Package: crimsonheart2
-Version: 1.3.6
+Version: 1.3.7
 Architecture: iphoneos-arm64
 Maintainer: m0hammed
 Installed-Size: 500
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/crimsonheart2_1.3.6_iphoneos-arm64.deb
-Size: 107096
-MD5sum: 30a617f81c6a355e2f2ba25081328442
-SHA1: 39bb9d13a7ff7a924294243186e966ace5a02741
-SHA256: 8556da29c3ec27db1b7dc889f26e32a61b108bcb9d5de85309e9b2beff3c8c3a
+Filename: ./debs/crimsonheart2_1.3.7_iphoneos-arm64.deb
+Size: 108434
+MD5sum: ab3f52d7bb76b71327a774a75add89be
+SHA1: 62ad31ca564b1d86465c1f7c25308ced0a882a81
+SHA256: 833e040242470d79eefa48ae62a50a27c26de81297a6f2be7ef7c15550adea1f
 Section: Tweaks
 Description: Features: Enable God Preset, God Mode (Invincible), Defense Multiplier, One-Hit Kill, 100% Critical & Never Miss, Final Damage Multiplier, P.Atk & M.Atk Stat Multiplier, Infinite MP (+14 more) | Telegram: @m0hmm3d
 Author: m0hammed
@@ -885,16 +885,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/crimsonheart2.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/crimsonheart2.json
 
 Package: crimsonheart2
-Version: 1.3.6
+Version: 1.3.7
 Architecture: iphoneos-arm64e
 Maintainer: m0hammed
 Installed-Size: 500
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/crimsonheart2_1.3.6_iphoneos-arm64e.deb
-Size: 197954
-MD5sum: f22b8837106abe15ee0f398af9549604
-SHA1: 6410e2eeaafaff75d3fac5c7b099d6833d16e4f4
-SHA256: ccb2f45ec9ed92ce56d239174b07119b7b3c637fdef99bc43facfe5cc2e15318
+Filename: ./debs/crimsonheart2_1.3.7_iphoneos-arm64e.deb
+Size: 200520
+MD5sum: 36c60eedcdc5d7d333b67fecad7ed745
+SHA1: 3aa999ea5663b08c614a4f921b897332b08f7ec4
+SHA256: fe6cea049223112c86aa4c295b1885c7da3a08e7817aa5936bd3f5ed2608ec8c
 Section: Tweaks
 Description: Features: Enable God Preset, God Mode (Invincible), Defense Multiplier, One-Hit Kill, 100% Critical & Never Miss, Final Damage Multiplier, P.Atk & M.Atk Stat Multiplier, Infinite MP (+14 more) | Telegram: @m0hmm3d
 Author: m0hammed
