@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ✨ InstaPro for Instagram (v5.0.0)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Download Feed Media (HD)** — Save photos, videos, and carousels in highest quality\n- **Download Reels & Stories** — One-tap download for any Reel or Story\n- **Ghost Mode (Anonymous Stories)** — View stories without appearing in the seen list\n- **Hide DM Read Receipts** — Read Direct Messages without marking them as Seen\n- **Hide Typing Indicator** — Type in Direct Messages without showing Typing...\n- **Block All Ads & Sponsored Posts** — Clean feed & stories with zero advertisements\n- **Copy Comments, Bios & Captions** — Long-press any text to copy to clipboard\n- **Full HD Profile Picture Zoom** — Long-press any avatar to view in full resolution\n\n### ✨ Free Release\n- **No Token Required**: Unlocked out of the box.\n- **Telegram Developer**: **@m0hmm3d**",
+          "markdown": "### ✨ InstaPro for Instagram (v5.0.1)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Download Feed Media (HD)** — Save photos, videos, and carousels in highest quality\n- **Download Reels & Stories** — One-tap download for any Reel or Story\n- **Ghost Mode (Anonymous Stories)** — View stories without appearing in the seen list\n- **Hide DM Read Receipts** — Read Direct Messages without marking them as Seen\n- **Hide Typing Indicator** — Type in Direct Messages without showing Typing...\n- **Block All Ads & Sponsored Posts** — Clean feed & stories with zero advertisements\n- **Copy Comments, Bios & Captions** — Long-press any text to copy to clipboard\n- **Full HD Profile Picture Zoom** — Long-press any avatar to view in full resolution\n\n### ✨ Free Release\n- **No Token Required**: Unlocked out of the box.\n- **Telegram Developer**: **@m0hmm3d**",
           "useSpacing": true
         },
         {
@@ -37,7 +37,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "5.0.0"
+          "text": "5.0.1"
         },
         {
           "class": "DepictionTableTextView",
