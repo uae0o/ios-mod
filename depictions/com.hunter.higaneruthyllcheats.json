@@ -1,0 +1,30 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#6366f1",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Higan: Eruthyll (`com.bilibiligame.hegl`)\n\n- **Combat**: Damage Multiplier (x1 - x100), Defense Multiplier (x1 - x100)\n- **Diagnostics**: Active Hook & Player Link Inspector\n- **Auto-Update & Device Token**: Built-in Cloud Offset Sync & 1-User Device Lock"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#8b5cf6",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### Solo Leveling:ARISE (`com.netmarble.sololv`)\n\n- **Combat**: Hunter/Shadow Damage Multiplier (x1 - x200), Player/Ally Defense Multiplier (x1 - x200)\n- **Diagnostics**: Active Hook & Actor Link Inspector\n- **Auto-Update & Device Token**: Built-in Cloud Offset Sync & 1-User Device Lock"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.5.16"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        }
+      ]
+    }
+  ]
+}

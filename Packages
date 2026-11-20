@@ -250,6 +250,78 @@ Name: Game of Thrones
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.gameofthrones.json
 
+Package: com.hunter.higaneruthyllcheats
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 276
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.higaneruthyllcheats_1.0.0_iphoneos-arm64.deb
+Size: 100462
+MD5sum: 690e0b8f886a86104b69e9496afd84d5
+SHA1: 43190ba1b0a9a0698b0a1dc646f8ebf8833471ae
+SHA256: 1446d4f5e02cb2b5ec76dc107ba1a633c5e67a129becdb0d3e01e2f2b3cb512a
+Section: Tweaks
+Description: Glass UI Mod Menu for Higan: Eruthyll (com.bilibiligame.hegl)
+Author: m0hammed (@m0hmm3d)
+Name: Higan: Eruthyll Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.higaneruthyllcheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.higaneruthyllcheats.json
+
+Package: com.hunter.higaneruthyllcheats
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 276
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.higaneruthyllcheats_1.0.0_iphoneos-arm64e.deb
+Size: 121932
+MD5sum: 874bd360458ec33c14c831d4ca1045a9
+SHA1: 847ad1c4d3c72341d2aaa36d854326d78de6a15e
+SHA256: 46ec8656d3c0e36c601ff98641ad77532b89d61c25de06b369b8df8c77aa1a02
+Section: Tweaks
+Description: Glass UI Mod Menu for Higan: Eruthyll (com.bilibiligame.hegl)
+Author: m0hammed (@m0hmm3d)
+Name: Higan: Eruthyll Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.higaneruthyllcheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.higaneruthyllcheats.json
+
+Package: com.hunter.kritikacheats
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 292
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.kritikacheats_1.0.0_iphoneos-arm64.deb
+Size: 108514
+MD5sum: 7f028dbc96033f76cad2ef35ae44a529
+SHA1: 86e06d9fb475235dd2bcb968168925946a397c0d
+SHA256: e7d0e605550626fa2a556f866a910765654a0a7596a1ffe39a289378c12c6b65
+Section: Tweaks
+Description: Glass UI Mod Menu for Kritika: The White Knights (com.gamevil.kritikam.ios.apple.global.normal)
+Author: m0hammed (@m0hmm3d)
+Name: Kritika: The White Knights Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.kritikacheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.kritikacheats.json
+
+Package: com.hunter.kritikacheats
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 292
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.kritikacheats_1.0.0_iphoneos-arm64e.deb
+Size: 132000
+MD5sum: 8410c9d5874f5cc816556e57ff50fcd9
+SHA1: 76dabb08d9c3ab4ec5275f3d1d394a78d64aa35d
+SHA256: 47dcb7d089f3b53a21ecce8c767bb54fe6042d24cd7d4b6d912eec06d6fd75e3
+Section: Tweaks
+Description: Glass UI Mod Menu for Kritika: The White Knights (com.gamevil.kritikam.ios.apple.global.normal)
+Author: m0hammed (@m0hmm3d)
+Name: Kritika: The White Knights Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.kritikacheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.kritikacheats.json
+
 Package: com.hunter.megamanxdiveofflinecheats
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -391,6 +463,42 @@ Author: m0hammed
 Name: MW2
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mw2.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mw2.json
+
+Package: com.hunter.outerplanecheats
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 292
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.outerplanecheats_1.0.0_iphoneos-arm64.deb
+Size: 109948
+MD5sum: 066e7834fce086b4f6fbe2ba76623850
+SHA1: 99be34fbf2a5b8aedaadc77a1dc18d5d0fe34ff7
+SHA256: fde1d91fae99c1ddcb581cbdff83a0061f77fa92769f3aa36f3b0a921d6a556e
+Section: Tweaks
+Description: Glass UI Mod Menu for OUTERPLANE (com.smilegate.outerplane.stove.ios)
+Author: m0hammed (@m0hmm3d)
+Name: OUTERPLANE Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.outerplanecheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.outerplanecheats.json
+
+Package: com.hunter.outerplanecheats
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 292
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.outerplanecheats_1.0.0_iphoneos-arm64e.deb
+Size: 133646
+MD5sum: 06c21b67e647503fb2a515d6fbd87123
+SHA1: 2e97bf7db350a87b26b2fce611b794eeff6130ff
+SHA256: edd0c46dab5afe82835ed8cac19ced427508b4f2b797b1d736c525a09ca4a4a2
+Section: Tweaks
+Description: Glass UI Mod Menu for OUTERPLANE (com.smilegate.outerplane.stove.ios)
+Author: m0hammed (@m0hmm3d)
+Name: OUTERPLANE Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.outerplanecheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.outerplanecheats.json
 
 Package: com.hunter.pascalswagermenu
 Version: 1.11.11
@@ -609,6 +717,42 @@ Author: m0hammed
 Name: Punishing: Gray Raven
 Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.punishinggrayraven.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.punishinggrayraven.json
+
+Package: com.m0hammed.sololevelingarise
+Version: 1.5.16
+Architecture: iphoneos-arm64
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 276
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m0hammed.sololevelingarise_1.5.16_iphoneos-arm64.deb
+Size: 102520
+MD5sum: 46facb7e017cc81745668f97f6d914bd
+SHA1: b13c112395e03137b564f55c597a43a49a2ae19b
+SHA256: dd7a959a21c6444132998543360625e72066149f1b71abfc4a7e7c6a6c88398a
+Section: Tweaks
+Description: Damage & Defense Multiplier Mod Menu for Solo Leveling:ARISE (com.netmarble.sololv)
+Author: m0hammed (@m0hmm3d)
+Name: Solo Leveling:ARISE Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.sololevelingarise.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.sololevelingarise.json
+
+Package: com.m0hammed.sololevelingarise
+Version: 1.5.16
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed (@m0hmm3d)
+Installed-Size: 276
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.m0hammed.sololevelingarise_1.5.16_iphoneos-arm64e.deb
+Size: 123590
+MD5sum: b00634106ccba7bb52bbe7d1b0da7f98
+SHA1: 33c3d0b6921e0c7c998c0deff1b3d374b2d3252d
+SHA256: 94cf12d916e089cfa0f1bb88db6094cb4dc2aeb347eb7d27d411cade29b1d32b
+Section: Tweaks
+Description: Damage & Defense Multiplier Mod Menu for Solo Leveling:ARISE (com.netmarble.sololv)
+Author: m0hammed (@m0hmm3d)
+Name: Solo Leveling:ARISE Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.m0hammed.sololevelingarise.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.m0hammed.sololevelingarise.json
 
 Package: com.m0hammed.stardive
 Version: 1.04.13
