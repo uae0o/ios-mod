@@ -1,18 +1,38 @@
 {
   "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
   "class": "DepictionTabView",
-  "tintColor": "#8b5cf6",
   "tabs": [
     {
+      "tabname": "Details & Features",
       "class": "DepictionStackView",
-      "tabname": "Details",
       "views": [
         {
+          "class": "DepictionSubheaderView",
+          "title": "14 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
           "class": "DepictionMarkdownView",
-          "markdown": "### The Eminence in Shadow: Master of Garden (`com.crunchyroll.eminenceinshadowrpg`)\n\n- **Player Defense**: God Mode (Invincible Allies), Always Full HP, Defense Multiplier (x1 - x50)\n- **Attack & OHK**: One-Hit Kill (Instant Enemy Kill), Damage Multiplier (x1 - x50)\n- **Enemy Debuffs**: Enemy 0 Defense, Enemy Weak Attack (1 DMG), Freeze Enemy SP, Instant Wipe All Enemies\n- **Speed & SP**: Infinite SP / Instant Ultimate, Battle Speed Multiplier (x1 - x5), Unlock 60/120 FPS\n- **Auto-Update & Device Token**: Built-in Cloud Offset Sync & 1-User Device Lock"
+          "markdown": "### ✨ Eminence in Shadow Mod Menu (v5.1.0)\nPro Glass UI Mod Menu for **The Eminence in Shadow RPG** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (Invincible)** — Sets IsImmortal, maxes Physical/Magic DEF & keeps HP full\n- **Always Full HP** — Continuously restores ally CurrentHealthPoint to MaxHP\n- **Enable Defense Multiplier** — Scales player PhysicalDefense (+0x30) & MagicDefense (+0x38)\n- **Defense Multiplier (1x - 100x)** — Multiplier factor for player Physical & Magic Defense\n- **One-Hit Kill (OHK)** — Instantly defeats enemies (Bravo Team) in a single hit\n- **Enable Damage Multiplier** — Scales player PhysicalAttack (+0x18), MagicAttack (+0x20) & BreakAttack\n- **Damage Multiplier (1x - 100x)** — Multiplier factor applied to player Attack & DamageLimit\n- **Zero Enemy Defense (0 DEF)** — Sets enemy PhysicalDefense (+0x30) & MagicDefense (+0x38) to 0\n- **Weaken Enemy Attack (0 ATK)** — Sets enemy PhysicalAttack (+0x18) & MagicAttack (+0x20) to 0\n- **Drain Enemy SP (0 SP/Ult)** — Keeps enemy SpecialPoint (+0x70/+0x74) at 0\n- **Wipe Current Wave Enemies** — Calls BattleMatch.WipeEnemies() on the active wave\n- **Infinite SP & Ultimate Anytime** — Maxes SpecialPoint (+0x70) & unlocks Special/Ultimate anytime\n- **Game Speed Multiplier (1.0x - 5.0x)** — Accelerates Unity Time.timeScale & BattleLogicTimer\n- **Unlock 120 FPS** — Forces Application.targetFrameRate to 120 FPS\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
         },
         {
           "class": "DepictionTableTextView",
@@ -21,8 +41,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "m0hammed (@m0hmm3d)"
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
         }
       ]
     }

@@ -1,18 +1,38 @@
 {
   "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
   "class": "DepictionTabView",
-  "tintColor": "#8b5cf6",
   "tabs": [
     {
+      "tabname": "Details & Features",
       "class": "DepictionStackView",
-      "tabname": "Details",
       "views": [
         {
+          "class": "DepictionSubheaderView",
+          "title": "6 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
           "class": "DepictionMarkdownView",
-          "markdown": "### Solo Leveling:ARISE (`com.netmarble.sololv`)\n\n- **Combat**: Hunter/Shadow Damage Multiplier (x1 - x200), Player/Ally Defense Multiplier (x1 - x200)\n- **Diagnostics**: Active Hook & Actor Link Inspector\n- **Auto-Update & Device Token**: Built-in Cloud Offset Sync & 1-User Device Lock"
+          "markdown": "### ✨ Solo Leveling: ARISE Mod Menu (v1.5.26)\nPro Glass UI Mod Menu for **Solo Leveling: ARISE** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Enable Damage Multiplier** — Scales Hunter & Shadow Attack and outgoing hit damage against enemies\n- **Damage Multiplier (1x - 200x)** — Multiplier factor applied to outgoing player & ally attacks\n- **Enable Defense Multiplier** — Boosts Player/Ally Defense & divides incoming HP damage\n- **Defense Multiplier (1x - 200x)** — Defense & incoming damage reduction factor\n- **Auto Hunter & Shadow Ally Detection** — Protects Sung Jinwoo, Hunters & Shadow allies while scaling enemy hits\n- **Check Active Hooks & Player Link** — Displays UnityFramework hook mode & live combat calls\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
         },
         {
           "class": "DepictionTableTextView",
@@ -21,8 +41,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "m0hammed (@m0hmm3d)"
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
         }
       ]
     }

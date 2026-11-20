@@ -1,18 +1,38 @@
 {
   "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
   "class": "DepictionTabView",
-  "tintColor": "#3b82f6",
   "tabs": [
     {
+      "tabname": "Details & Features",
       "class": "DepictionStackView",
-      "tabname": "Details",
       "views": [
         {
+          "class": "DepictionSubheaderView",
+          "title": "8 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
           "class": "DepictionMarkdownView",
-          "markdown": "### MEGA MAN X DiVE Offline (`jp.co.capcom.rxdoff`)\n\n- **Player**: Infinite Health / HP & Vitality, Unlimited Energy & Stamina (999 + 0 Cost)\n- **Combat**: Damage & Final ATK Multiplier (`GetFinalATK` x1 - x100)\n- **Unlocks**: Unlimited Coins & Gold, Unlimited Gems / Elemental Metal, No Cooldowns, Unlimited Stars & XP Rewards\n- **Auto-Update & Device Token**: Built-in Cloud Offset Sync & 1-User Device Lock"
+          "markdown": "### ✨ MEGA MAN X DiVE Offline Mod Menu (v1.00.01)\nPro Glass UI Mod Menu for **MEGA MAN X DiVE Offline** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Infinite Health / HP & Vitality** — Locks player HP & prevents incoming health loss\n- **Unlimited Energy & Stamina (999 + 0 Cost)** — Locks weapon energy/stamina at 999 with zero consumption\n- **Damage & Reward Multiplier (1x - 100x)** — Scales player outgoing attack via GetFinalATK (1x - 100x)\n- **Unlimited Coins & Gold** — Sets Coins/Zenny balance to 9,999+ and never decreases\n- **Unlimited Gems / Elemental Metal** — Sets Elemental Metal & Cash to 9,999+ with free shop purchases\n- **Instant Unlimited Hints & No Cooldown** — Removes skill & stage action cooldown timers\n- **Unlimited Stars, Score & XP Rewards** — Maximizes mission stars, score & experience rewards\n- **Check Hook & Patch Status** — Verifies base address, active hooks & live memory patches\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
         },
         {
           "class": "DepictionTableTextView",
@@ -21,8 +41,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "m0hammed (@m0hmm3d)"
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
         }
       ]
     }
