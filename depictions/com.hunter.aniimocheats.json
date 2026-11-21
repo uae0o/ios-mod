@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "20 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Aniimo Mod Menu (v1.1.1)\nPro Glass UI Mod Menu for **Aniimo** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (Invincible)** — Zero incoming damage to both player and active Aniimo pet\n- **Attack Multiplier (1x - 20x)** — Multiplies hits per attack for instant enemy/boss takedowns\n- **No Cooldowns** — Zero skill and ultimate cooldown timers for instant recasting\n- **Hit Range Multiplier (1x - 10x)** — Expands melee boxSweep hit radius\n- **No Knockback / Stagger** — Grants permanent Super Armor against enemy knockbacks\n- **Freeze Wild Aniimo** — Freezes wild Aniimo AI for easy catching and combat\n- **No Fall Damage** — Prevents fall damage for player and carried eggs\n- **Infinite Stamina & Breath** — Never tire while sprinting/gliding or drown underwater\n- **Move Speed (1x - 10x) & Game Speed (1x - 5x)** — Accelerates walking, running, swimming, gliding and global time scale\n- **Free Fly Mode & Fly Speed (1 - 20 m/s)** — Fly freely across the map (Jump = Up, Dash = Down)\n- **Ghost Mode** — Pass through obstacles and remain hidden\n- **Drone View (FOV) & Camera Distance (1x - 4x)** — Customize field of view and zoom out multiplier\n- **Aniimo Vacuum (5m - 60m)** — Pulls nearby wild Aniimo directly toward you\n- **Auto Loot (3m - 50m)** — Automatically opens chests and collects nearby pickups\n- **Auto Perfect QTE & Always Sneak Bonus** — Auto-wins QTE prompts and guarantees back-catch sneak bonus\n- **Ball Hit Radius (1x - 10x)** — Expands catch sphere radius so throws never miss\n- **Instant Interact & Photo Survey Auto-Solve** — Skips interaction hold timers and completes photo clues instantly\n- **Auto Bot Master (Combat & Auto Catch)** — Autonomous bot that fights and catches targets within 10m - 100m\n- **Teleport to Nearest (Chest/Egg/Target) & Teleport Back** — Instantly jump to selected target types and return to previous position\n- **Panic Mode (Disable All)** — One-tap snapshot & restore of all default values\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.1.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

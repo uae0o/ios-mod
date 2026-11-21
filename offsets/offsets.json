@@ -623,5 +623,14 @@
     "0x1dd45f4": "0x1dd45f4",
     "0x1d88c14": "0x1d88c14",
     "0x1d7a8e4": "0x1d7a8e4"
+  },
+  "com.x.aniimos.ios": {
+    "_game": "Aniimo (com.hunter.aniimocheats)",
+    "_engine": "Zero-Offset Dynamic xLua dlsym Resolver (lua_pcall / xluaL_loadbuffer / luaL_loadbufferx)"
+  },
+  "com.netease.yysls": {
+    "_game": "Where Winds Meet (com.hunter.wwmcheats)",
+    "0x10043a670": "0x10043a670 // lua_load",
+    "0x10043a324": "0x10043a324 // lua_pcallk"
   }
 }

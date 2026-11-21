@@ -70,6 +70,42 @@ Name: Aether Gazer Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aethergazer.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aethergazer.json
 
+Package: com.hunter.aniimocheats
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 612
+Depends: mobilesubstrate
+Filename: ./debs/com.hunter.aniimocheats_1.1.1_iphoneos-arm64.deb
+Size: 126690
+MD5sum: 8d44bffd9ad87221247b6d9515c31277
+SHA1: d2ec8a237d1a5736aa89e2e552bcb393d1a0d022
+SHA256: 51d5eea418ab5cf89941f143127ac80450dc62c1e0316e22f00b4b95285ba22e
+Section: Tweaks
+Description: Features: God Mode (Invincible), Attack Multiplier (1x - 20x), No Cooldowns, Hit Range Multiplier (1x - 10x), No Knockback / Stagger, Freeze Wild Aniimo, No Fall Damage, Infinite Stamina & Breath (+12 more) | Telegram: @m0hmm3d
+Author: m0hammed
+Name: Aniimo Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aniimocheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aniimocheats.json
+
+Package: com.hunter.aniimocheats
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 612
+Depends: mobilesubstrate
+Filename: ./debs/com.hunter.aniimocheats_1.1.1_iphoneos-arm64e.deb
+Size: 234084
+MD5sum: c72299141424ced5360c9e1304fe3d7a
+SHA1: d2828254d9b75e494f19cb9772070e979ee1b86c
+SHA256: 8bfc9f6b761aee6d9e4ef4d799bc745793c7549c17a533b554ec1197ba0cd6b9
+Section: Tweaks
+Description: Features: God Mode (Invincible), Attack Multiplier (1x - 20x), No Cooldowns, Hit Range Multiplier (1x - 10x), No Knockback / Stagger, Freeze Wild Aniimo, No Fall Damage, Infinite Stamina & Breath (+12 more) | Telegram: @m0hmm3d
+Author: m0hammed
+Name: Aniimo Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aniimocheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aniimocheats.json
+
 Package: com.hunter.basebss
 Version: 35.4.9
 Architecture: iphoneos-arm64
@@ -643,6 +679,42 @@ Author: m0hammed
 Name: Streets of Rage 4 Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.sor4.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.sor4.json
+
+Package: com.hunter.wwmcheats
+Version: 1.0.28
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 500
+Depends: mobilesubstrate
+Filename: ./debs/com.hunter.wwmcheats_1.0.28_iphoneos-arm64.deb
+Size: 106122
+MD5sum: c41a44baf3f531e5f8019f77410046ee
+SHA1: e71debc8672fb5b2932dfaff7037a03cb8409436
+SHA256: e84ed4e1a27100eacf933b99ecb66859dcbdb0a43c6df340ba73fee29a12b94c
+Section: Tweaks
+Description: Features: God Mode (Invincible), Damage Multiplier (1x - 50x), Auto Heal, Invisible (Stealth Mode), Untargetable (No Aggro), No Fall Damage, Move Speed Multiplier (1x - 5x) | Telegram: @m0hmm3d
+Author: m0hammed
+Name: Where Winds Meet Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.wwmcheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.wwmcheats.json
+
+Package: com.hunter.wwmcheats
+Version: 1.0.28
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 500
+Depends: mobilesubstrate
+Filename: ./debs/com.hunter.wwmcheats_1.0.28_iphoneos-arm64e.deb
+Size: 197430
+MD5sum: 06ec462b684e791d4f2bc51e3018178b
+SHA1: c6f97040527b46029c50ea3c466e7364a4647d85
+SHA256: 27069316549cdcd7b78f6e768f477a8ff55f31b937d6c269d4c51e2b61bfa91b
+Section: Tweaks
+Description: Features: God Mode (Invincible), Damage Multiplier (1x - 50x), Auto Heal, Invisible (Stealth Mode), Untargetable (No Aggro), No Fall Damage, Move Speed Multiplier (1x - 5x) | Telegram: @m0hmm3d
+Author: m0hammed
+Name: Where Winds Meet Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.wwmcheats.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.wwmcheats.json
 
 Package: com.m0hammed.instapro
 Version: 5.0.1
