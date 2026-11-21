@@ -1,0 +1,61 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#7C5CFF",
+  "headerImage": "",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Monster Hunter Outlanders (com.tencent.mhadv) — v1.0.9",
+          "useBoldText": true,
+          "useBottomMargin": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Monster Hunter Outlanders (Tencent) Cheats — iOS Mod Menu\n\n**Target Bundle ID:** `com.tencent.mhadv`  \n**Architecture:** `arm64` (Rootless) & `arm64e` (RootHide)\n\n---\n\n### ⚔️ Tab 1 — Combat\n- **God Mode (No Damage)** — Multi-offset hex patch + damage result zeroing hook (`0x4631298`, `0x4631508`, `0x4632EC0`)\n- **1-Hit Kill Monsters** — Instant monster elimination hex patch (`0x465EC14`)\n- **Damage Multiplier (`1x – 50x`)** — Scales physical & elemental hit damage (`0x465E9A0`)\n- **Effective ATK Boost (`1x – 20x`)** — Multiplies hunter effective attack rating (`0x4637690`)\n\n### 🐉 Tab 2 — Enemy\n- **Instant Part Break** — Forces `999,999` part break damage on hit (`0x465BA60`)\n- **Freeze Monster HP** — Locks monster HP change during combat (`0x465E9A0`)\n\n---\n\n### 🛡️ Protection & Cloud Auto-Update\n- **Cloud + On-Device Auto-Offset Engine** — Automatically resolves updated offsets across game updates without waiting for a new `.deb`\n- **1-User License System** — Hardware UDID / Keychain device token binding via Hunter's license server\n- **Glass UI Floating Mod Menu** — Draggable floating button, multi-tab layout, live sliders & persistent settings",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**v1.0.9**\n- Initial release for Monster Hunter Outlanders Tencent (`com.tencent.mhadv`)\n- Added 1-User Device Token Lock, Cloud Auto-Update & Rootless/RootHide support",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.9"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Updated",
+          "text": "2026-11-21"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "Hunter"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram @k_770 (Support & Token)",
+          "action": "https://t.me/k_770",
+          "openExternal": true
+        }
+      ]
+    }
+  ]
+}

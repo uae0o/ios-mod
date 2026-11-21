@@ -71,39 +71,41 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aethergazer.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aethergazer.json
 
 Package: com.hunter.aniimocheats
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm64
-Maintainer: m0hammed
-Installed-Size: 612
-Depends: mobilesubstrate
-Filename: ./debs/com.hunter.aniimocheats_1.1.1_iphoneos-arm64.deb
-Size: 126690
-MD5sum: 8d44bffd9ad87221247b6d9515c31277
-SHA1: d2ec8a237d1a5736aa89e2e552bcb393d1a0d022
-SHA256: 51d5eea418ab5cf89941f143127ac80450dc62c1e0316e22f00b4b95285ba22e
+Maintainer: Hunter <https://t.me/k_770>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.aniimocheats_1.1.2_iphoneos-arm64.deb
+Size: 157042
+MD5sum: 5287b3e317f57882d93587b6018b46d6
+SHA1: d44b1c11f011ee34e0a4c28549a963c542aea659
+SHA256: 60f005a48c0a92d118a77d9a90f3c0145fdebc7949f583248a0bfa380214f78b
 Section: Tweaks
-Description: Features: God Mode (Invincible), Attack Multiplier (1x - 20x), No Cooldowns, Hit Range Multiplier (1x - 10x), No Knockback / Stagger, Freeze Wild Aniimo, No Fall Damage, Infinite Stamina & Breath (+12 more) | Telegram: @m0hmm3d
-Author: m0hammed
-Name: Aniimo Mod Menu
+Description: {'name': 'Aniimo Cheats', 'version': '1.1.2', 'bundle_id': 'com.x.aniimos.ios', 'features': ['God Mode & Attack Multiplier (1x-20x)', 'Infinite Stamina & Move Speed (1x-10x)', 'Aniimo Vacuum & Vacuum Range (5m-60m)']}
+Author: Hunter <https://t.me/k_770>
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aniimocheats.png
+Name: Aniimo Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aniimocheats.json
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aniimocheats.json
 
 Package: com.hunter.aniimocheats
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm64e
-Maintainer: m0hammed
-Installed-Size: 612
-Depends: mobilesubstrate
-Filename: ./debs/com.hunter.aniimocheats_1.1.1_iphoneos-arm64e.deb
-Size: 234084
-MD5sum: c72299141424ced5360c9e1304fe3d7a
-SHA1: d2828254d9b75e494f19cb9772070e979ee1b86c
-SHA256: 8bfc9f6b761aee6d9e4ef4d799bc745793c7549c17a533b554ec1197ba0cd6b9
+Maintainer: Hunter <https://t.me/k_770>
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.aniimocheats_1.1.2_iphoneos-arm64e.deb
+Size: 297116
+MD5sum: 4e83c74e09bb304f12945b26a1a7190e
+SHA1: 0e7e85715b29f99f5db49ee2e0f5a6c0f74e4374
+SHA256: 59d56586dfa2e6eb2407d5d4826be7a85d5093a301bdf342979c0c0dc0313934
 Section: Tweaks
-Description: Features: God Mode (Invincible), Attack Multiplier (1x - 20x), No Cooldowns, Hit Range Multiplier (1x - 10x), No Knockback / Stagger, Freeze Wild Aniimo, No Fall Damage, Infinite Stamina & Breath (+12 more) | Telegram: @m0hmm3d
-Author: m0hammed
-Name: Aniimo Mod Menu
+Description: {'name': 'Aniimo Cheats', 'version': '1.1.2', 'bundle_id': 'com.x.aniimos.ios', 'features': ['God Mode & Attack Multiplier (1x-20x)', 'Infinite Stamina & Move Speed (1x-10x)', 'Aniimo Vacuum & Vacuum Range (5m-60m)']}
+Author: Hunter <https://t.me/k_770>
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.aniimocheats.png
+Name: Aniimo Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aniimocheats.json
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.aniimocheats.json
 
 Package: com.hunter.basebss
@@ -286,6 +288,44 @@ Name: Game of Thrones
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.gameofthrones.json
 
+Package: com.hunter.grandchase
+Version: 2.9.4
+Architecture: iphoneos-arm64
+Maintainer: Hunter <https://t.me/k_770>
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.grandchase_2.9.4_iphoneos-arm64.deb
+Size: 105808
+MD5sum: c19810075e35d3daddb8182fb4fd1445
+SHA1: 3d170e379de43a9488ce97d5d91248386037dd11
+SHA256: 6568f455250e07fef3dc0dff5cc5a0ff8cf56ac27cda73f1ddbe8ba790346cf8
+Section: Tweaks
+Description: {'name': 'GrandChase Cheats', 'version': '2.9.4', 'bundle_id': 'com.kog.grandchaseglobal', 'features': ['God Mode & One-Hit Kill (999M Damage)', 'Damage Multiplier (1x-100x) & Enemy Damage Scale (0x-2x)', 'Live Player Max HP / ATK / DEF Multipliers (1x-50x)', 'Enemy Max HP & Enemy DEF Weakening (0x-1x)']}
+Author: Hunter <https://t.me/k_770>
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.grandchase.png
+Name: GrandChase Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.grandchase.json
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.grandchase.json
+
+Package: com.hunter.grandchase
+Version: 2.9.4
+Architecture: iphoneos-arm64e
+Maintainer: Hunter <https://t.me/k_770>
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.grandchase_2.9.4_iphoneos-arm64e.deb
+Size: 195776
+MD5sum: a5fdadf9f564c2900daa06543419e38b
+SHA1: 2cd9eb1fb6bce9ddeb0d09be448155ff338e8374
+SHA256: 74518a9e511d7c83a35e27b4e18239359a522bd62a19d40051a147dee216e866
+Section: Tweaks
+Description: {'name': 'GrandChase Cheats', 'version': '2.9.4', 'bundle_id': 'com.kog.grandchaseglobal', 'features': ['God Mode & One-Hit Kill (999M Damage)', 'Damage Multiplier (1x-100x) & Enemy Damage Scale (0x-2x)', 'Live Player Max HP / ATK / DEF Multipliers (1x-50x)', 'Enemy Max HP & Enemy DEF Weakening (0x-1x)']}
+Author: Hunter <https://t.me/k_770>
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.grandchase.png
+Name: GrandChase Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.grandchase.json
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.grandchase.json
+
 Package: com.hunter.higaneruthyllcheats
 Version: 1.4.0
 Architecture: iphoneos-arm64
@@ -429,6 +469,44 @@ Author: m0hammed
 Name: MH Outlanders Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmenu.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmenu.json
+
+Package: com.hunter.mhmobileiosshippingcheats
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: Hunter <https://t.me/k_770>
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.mhmobileiosshippingcheats_1.0.9_iphoneos-arm64.deb
+Size: 104066
+MD5sum: ace1bbe441efa0a05f82d8de10223c81
+SHA1: 181a544d1b3ef58618eb686f9b5042093b6aef16
+SHA256: b2b92f3463204bd97feaf74067a9a7654fc78316fb423d76349b7bffb557abb9
+Section: Tweaks
+Description: {'name': 'Monster Hunter Outlanders (Tencent) Cheats', 'version': '1.0.9', 'bundle_id': 'com.tencent.mhadv', 'features': ['God Mode (No Damage) & 1-Hit Kill Monsters', 'Damage Multiplier (1x-50x) & Effective ATK Boost (1x-20x)', 'Instant Part Break & Freeze Monster HP']}
+Author: Hunter <https://t.me/k_770>
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmobileiosshippingcheats.png
+Name: Monster Hunter Outlanders (Tencent) Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmobileiosshippingcheats.json
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmobileiosshippingcheats.json
+
+Package: com.hunter.mhmobileiosshippingcheats
+Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: Hunter <https://t.me/k_770>
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.mhmobileiosshippingcheats_1.0.9_iphoneos-arm64e.deb
+Size: 192362
+MD5sum: cfc76d49fd130ed46e31f74796a0ce4e
+SHA1: 70b101af5156d2f86907f658611d2388a50477ba
+SHA256: d30e1a1a655eaf673034ee335645ef03747a9762a9827f4d5990ababf3d689bc
+Section: Tweaks
+Description: {'name': 'Monster Hunter Outlanders (Tencent) Cheats', 'version': '1.0.9', 'bundle_id': 'com.tencent.mhadv', 'features': ['God Mode (No Damage) & 1-Hit Kill Monsters', 'Damage Multiplier (1x-50x) & Effective ATK Boost (1x-20x)', 'Instant Part Break & Freeze Monster HP']}
+Author: Hunter <https://t.me/k_770>
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mhmobileiosshippingcheats.png
+Name: Monster Hunter Outlanders (Tencent) Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmobileiosshippingcheats.json
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mhmobileiosshippingcheats.json
 
 Package: com.hunter.mirrorsofalbion
 Version: 9.12
@@ -681,39 +759,41 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.sor4.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.sor4.json
 
 Package: com.hunter.wwmcheats
-Version: 1.0.28
+Version: 1.0.29
 Architecture: iphoneos-arm64
-Maintainer: m0hammed
+Maintainer: Hunter <https://t.me/k_770>
 Installed-Size: 500
-Depends: mobilesubstrate
-Filename: ./debs/com.hunter.wwmcheats_1.0.28_iphoneos-arm64.deb
-Size: 106122
-MD5sum: c41a44baf3f531e5f8019f77410046ee
-SHA1: e71debc8672fb5b2932dfaff7037a03cb8409436
-SHA256: e84ed4e1a27100eacf933b99ecb66859dcbdb0a43c6df340ba73fee29a12b94c
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.wwmcheats_1.0.29_iphoneos-arm64.deb
+Size: 112278
+MD5sum: 1db6491ea0bd125a72cd63cd5629ce1a
+SHA1: 31547373fd449e784bb409a6fa7c47c3124b3bf8
+SHA256: 7385f7d9b7f8b50e65d51bc6f489dd848203a700ed1509a43652443c0ee3949b
 Section: Tweaks
-Description: Features: God Mode (Invincible), Damage Multiplier (1x - 50x), Auto Heal, Invisible (Stealth Mode), Untargetable (No Aggro), No Fall Damage, Move Speed Multiplier (1x - 5x) | Telegram: @m0hmm3d
-Author: m0hammed
-Name: Where Winds Meet Mod Menu
+Description: {'name': 'Where Winds Meet Cheats', 'version': '1.0.29', 'bundle_id': 'com.netease.yysls', 'features': ['God Mode (No HP Loss & 0 Enemy Damage)', 'Damage Multiplier (1x-50x Single Mode)', 'Move Speed Multiplier (1x-5x Single Mode)']}
+Author: Hunter <https://t.me/k_770>
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.wwmcheats.png
+Name: Where Winds Meet Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.wwmcheats.json
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.wwmcheats.json
 
 Package: com.hunter.wwmcheats
-Version: 1.0.28
+Version: 1.0.29
 Architecture: iphoneos-arm64e
-Maintainer: m0hammed
+Maintainer: Hunter <https://t.me/k_770>
 Installed-Size: 500
-Depends: mobilesubstrate
-Filename: ./debs/com.hunter.wwmcheats_1.0.28_iphoneos-arm64e.deb
-Size: 197430
-MD5sum: 06ec462b684e791d4f2bc51e3018178b
-SHA1: c6f97040527b46029c50ea3c466e7364a4647d85
-SHA256: 27069316549cdcd7b78f6e768f477a8ff55f31b937d6c269d4c51e2b61bfa91b
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.wwmcheats_1.0.29_iphoneos-arm64e.deb
+Size: 210310
+MD5sum: 6a5db224a56f251dde204b404bf7fe82
+SHA1: 819a670ccd28c7bffb61286adc22cde57c8c2bcf
+SHA256: c4e98c31e19c8ca86703bb38c1d36edcb3e403b89b793c47953de25f5ba1d037
 Section: Tweaks
-Description: Features: God Mode (Invincible), Damage Multiplier (1x - 50x), Auto Heal, Invisible (Stealth Mode), Untargetable (No Aggro), No Fall Damage, Move Speed Multiplier (1x - 5x) | Telegram: @m0hmm3d
-Author: m0hammed
-Name: Where Winds Meet Mod Menu
+Description: {'name': 'Where Winds Meet Cheats', 'version': '1.0.29', 'bundle_id': 'com.netease.yysls', 'features': ['God Mode (No HP Loss & 0 Enemy Damage)', 'Damage Multiplier (1x-50x Single Mode)', 'Move Speed Multiplier (1x-5x Single Mode)']}
+Author: Hunter <https://t.me/k_770>
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.wwmcheats.png
+Name: Where Winds Meet Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.wwmcheats.json
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.wwmcheats.json
 
 Package: com.m0hammed.instapro

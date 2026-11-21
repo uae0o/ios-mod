@@ -376,7 +376,16 @@
     "0x2cd5fc0": "0x2cd5fc0 // AActor::K2_SetActorLocation"
   },
   "com.tencent.mhadv": {
-    "_game": "Monster Hunter Outlanders Tencent (com.hunter.mhmenu)",
+    "_game": "Monster Hunter Outlanders Tencent (com.hunter.mhmobileiosshippingcheats v1.0.9)",
+    "0x4631298": "0x4631298 // God Mode Hex Patch 1",
+    "0x463129c": "0x463129c // God Mode Hex Patch 2",
+    "0x4631508": "0x4631508 // God Mode Hex Patch 3",
+    "0x463150c": "0x463150c // God Mode Hex Patch 4",
+    "0x465ec14": "0x465ec14 // 1-Hit Kill Monsters Hex Patch",
+    "0x465e9a0": "0x465e9a0 // Damage Multiplier & Freeze Monster HP Hook",
+    "0x4637690": "0x4637690 // Effective ATK Boost Hook",
+    "0x4632ec0": "0x4632ec0 // God Mode Damage Result Hook",
+    "0x465ba60": "0x465ba60 // Instant Part Break Hook",
     "0xc699b10": "0xc699b10 // AMHMonsterBase::StaticClassPtr",
     "0x3797c68": "0x3797c68 // UMHAttributeComponent::SetAttributeWithAntiCheat",
     "0x40ac37c": "0x40ac37c // UArashiDamageComputationParameter::ComputeCharacterEffectiveAttack",
@@ -629,8 +638,17 @@
     "_engine": "Zero-Offset Dynamic xLua dlsym Resolver (lua_pcall / xluaL_loadbuffer / luaL_loadbufferx)"
   },
   "com.netease.yysls": {
-    "_game": "Where Winds Meet (com.hunter.wwmcheats)",
-    "0x10043a670": "0x10043a670 // lua_load",
-    "0x10043a324": "0x10043a324 // lua_pcallk"
+    "_game": "Where Winds Meet (com.hunter.wwmcheats v1.0.29)",
+    "0x43a670": "sig:E3 23 00 91 E4 03 03 AA ? ? ? ? ? ? ? ? ? ? ? ? E0 03 1F 2A",
+    "0x43a324": "sig:E8 03 04 AA E6 03 1F AA 09 40 40 F9"
+  },
+  "com.kog.grandchaseglobal": {
+    "_game": "GrandChase (com.hunter.grandchase v2.9.4)",
+    "0x2e24294": "il2cpp:Assembly-CSharp.dll::MDDNFBMKAGG.IIMLOCKDOHD/1",
+    "0x2e30d10": "il2cpp:Assembly-CSharp.dll::MDDNFBMKAGG.CPBIMCGMADB/0",
+    "0x2e3afdc": "il2cpp:Assembly-CSharp.dll::MDDNFBMKAGG.POLNNCGCGJH/6",
+    "0x2f68694": "il2cpp:Assembly-CSharp.dll::EMEGFKIEADN.MKKDOOIHIKF/6",
+    "0x280fea4": "il2cpp:Assembly-CSharp.dll::NJKMPAKKHNH.HDJJIKMPABG/1",
+    "0x2810fa0": "il2cpp:Assembly-CSharp.dll::NJKMPAKKHNH.KNJBAHBEBCP/1"
   }
 }

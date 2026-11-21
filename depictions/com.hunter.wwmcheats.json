@@ -1,48 +1,59 @@
 {
   "minVersion": "0.4",
-  "tintColor": "#7C5CFF",
   "class": "DepictionTabView",
+  "tintColor": "#7C5CFF",
+  "headerImage": "",
   "tabs": [
     {
-      "tabname": "Details & Features",
       "class": "DepictionStackView",
+      "tabname": "Details",
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "7 Built-in Mod Features • by @m0hmm3d",
-          "useBoldText": true
+          "title": "Where Winds Meet (com.netease.yysls) — v1.0.29 Protected Lua Engine",
+          "useBoldText": true,
+          "useBottomMargin": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "### ✨ Where Winds Meet Mod Menu (v1.0.28)\nPro Glass UI Mod Menu for **Where Winds Meet** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode (Invincible)** — Prevents player HP loss and sets incoming enemy damage to 0\n- **Damage Multiplier (1x - 50x)** — Multiplies outgoing player attack damage (Single mode)\n- **Auto Heal** — Automatically restores player HP to maximum during combat\n- **Invisible (Stealth Mode)** — Enemies cannot detect or spot your character\n- **Untargetable (No Aggro)** — Skips NPC aggro table so enemies ignore you\n- **No Fall Damage** — Complete immunity to fall damage from any height\n- **Move Speed Multiplier (1x - 5x)** — Scales player action and movement speed (Single mode)\n\n### 🔒 License & Activation\n- **1-User Device Lock**: Each token locks automatically to the first device that activates it.\n- **Trial & Full Keys**: Supports `2h` trial keys, `30d` plans, and Lifetime keys.\n- **Telegram Support & Keys**: Contact **@m0hmm3d** on Telegram.",
+          "markdown": "## Where Winds Meet Cheats — iOS Mod Menu\n\n**Target Bundle ID:** `com.netease.yysls`  \n**Architecture:** `arm64` (Rootless) & `arm64e` (RootHide)\n\n---\n\n### ⚔️ Combat Features (Protected `__hxc` Lua Engine)\n- **God Mode** — No HP loss & `0` enemy damage received\n- **Damage Multiplier (`1x – 50x`)** — Multiply outgoing combat damage in Single mode\n- **Move Speed (`1.0x – 5.0x`)** — Smooth character movement speed multiplier in Single mode\n- **Branch-Stub & Auto-Offset Resolver** — Automatically follows ARM64 branch stubs + AOB signature fallback (`lua_load` / `lua_pcallk`) with stream-cipher payload protection\n\n---\n\n### 🛡️ Protection & Cloud Auto-Update\n- **Cloud + On-Device Auto-Offset Engine** — Automatically resolves updated offsets across game updates without waiting for a new `.deb`\n- **1-User License System** — Hardware UDID / Keychain device token binding via Hunter's license server\n- **Glass UI Floating Mod Menu** — Draggable floating button, multi-tab layout, live sliders & persistent settings",
           "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionTableButtonView",
-          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
-          "action": "https://t.me/m0hmm3d",
-          "openExternal": true
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**v1.0.29**\n- Updated to Protected Encrypted `__hxc` Lua Engine with ARM64 branch-stub resolution & Anti-Debug\n- Synced 1-User Device Token Lock & Cloud Auto-Offset Engine",
+          "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "m0hammed (@m0hmm3d)"
-        },
-        {
-          "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0.28"
+          "text": "1.0.29"
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Jailbreak Support",
-          "text": "Rootless (arm64) & RootHide (arm64e)"
+          "title": "Updated",
+          "text": "2026-11-21"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "Hunter"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram @k_770 (Support & Token)",
+          "action": "https://t.me/k_770",
+          "openExternal": true
         }
       ]
     }
