@@ -65,5 +65,37 @@
       "Damage Multiplier (1x-50x) & Effective ATK Boost (1x-20x)",
       "Instant Part Break & Freeze Monster HP"
     ]
+  },
+  "com.hunter.nte": {
+    "name": "Neverness to Everness (NTE) Cheats",
+    "version": "1.5.0",
+    "bundle_id": "com.hottagames.nte",
+    "features": [
+      "God Mode (Damage & Death Immunity) & One-Hit Kill",
+      "Oracle Stone Auto-Open & Gift/Treasure Auto-Unlock",
+      "Auto Collapse Magic Boxes & 5x Multi Magic Spin",
+      "Auto Claim Bank Heist Score, Quest & Manual Awards"
+    ]
+  },
+  "com.networkcentury.xzy.modmenu": {
+    "name": "Starward (星之翼) Cheats",
+    "version": "3.3.0",
+    "bundle_id": "com.networkcentury.xzy",
+    "features": [
+      "One-Hit Kill, Damage Multiplier (1x-50x) & Max Outgoing Damage",
+      "God Mode, Auto Lock Full HP & Infinite Shield Absorb",
+      "Dumb Enemies (Freeze AI), Bypass Enemy Shields & Freeze Enemy HP",
+      "Unlimited Ammo & Ex Skills, Infinite Boost, Game Speed & 120 FPS"
+    ]
+  },
+  "com.hunter.stellasora": {
+    "name": "Stella Sora Cheats",
+    "version": "2.0.0",
+    "bundle_id": "com.YoStarEN.StellaSora",
+    "features": [
+      "1-Tap Pro God Preset, God Mode & 1-Hit Kill Enemies",
+      "Damage Multiplier (1x-100x) & HP/ATK/DEF Multipliers (1x-50x)",
+      "Instant Full Party Heal & ARM64 Auto-Updating XLua Engine"
+    ]
   }
 }

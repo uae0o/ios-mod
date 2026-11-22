@@ -1,0 +1,61 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#7C5CFF",
+  "headerImage": "",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Starward-Mecha Girls / 星之翼 (com.networkcentury.xzy) — v3.3.0",
+          "useBoldText": true,
+          "useBottomMargin": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Starward (星之翼) Cheats — iOS Mod Menu\n\n**Target Bundle ID:** `com.networkcentury.xzy`  \n**Architecture:** `arm64` (Rootless) & `arm64e` (RootHide)\n\n---\n\n### 🔥 Tab 1 — Damage (`Outgoing Damage Control`)\n- **One-Hit Kill** — Instantly eliminates any hit enemy (`HitComponent.HpPhase` / `HpComponent.ChangeHp`)\n- **Damage Multiplier (`1x – 50x`)** — Multiplies all outgoing damage dealt to enemies\n- **Max Outgoing Damage Ratio** — Boosts `HpComponent.GetHpOutDamageUp` curve ratio\n\n### ❤️ Tab 2 — HP & Shield (`Player Invincibility`)\n- **God Mode (Invincible)** — Blocks all incoming damage, `MinusPoint`, `MinusRatio` & `Dead` triggers\n- **Auto Lock Full HP** — Locks player `mHp` (`+0x58`) to `MaxHp` (`+0x48`)\n- **Infinite Shield Absorb** — Player `ShieldComponent` never loses absorb capacity\n\n### 🤖 Tab 3 — Enemy & AI (`AiComponent Control`)\n- **Dumb Enemies (Freeze AI)** — Disables `AiComponent.OnUpdate`, `RunAi` & `ExecuteNewAi`\n- **Bypass Enemy Shields** — Disables enemy `ShieldComponent.CheckHitAbsorb`\n- **Freeze Enemy HP (Combo Practice)** — Enemies take `0` damage so you can practice combos freely\n\n### ⚡ Tab 4 — Ammo & Boost (`AmmoComponent & BoostComponent`)\n- **Unlimited Ammo & Ex Skills** — Prevents ammo deduction & refills `FullAmmos` / `FullExAmmos`\n- **Infinite Boost / Flight Gauge** — Locks `BoostComponent` flight/dash gauge to `MaxBoost`\n\n### 🚀 Tab 5 — Speed & FPS (`Engine Control`)\n- **Game Speed Multiplier (`1.0x – 5.0x`)** — Accelerates gameplay time scale\n- **Target Frame Rate (`30 / 60 / 90 / 120 FPS`)** — Unlocks maximum rendering FPS\n\n---\n\n### 🛡️ Protection & Cloud Auto-Update\n- **Cloud + On-Device Auto-Offset Engine** — Automatically resolves updated offsets across game updates without waiting for a new `.deb`\n- **1-User License System** — Hardware UDID / Keychain device token binding via Hunter's license server\n- **Glass UI Floating Mod Menu** — Draggable floating button, multi-tab layout, live sliders & persistent settings",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**v3.3.0**\n- Initial release for Starward-Mecha Girls / 星之翼 (`com.networkcentury.xzy` v3.3.0)\n- Added 31 IL2CPP Auto-Offset resolvers + 1-User Device Token Lock & custom floating icon",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "3.3.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Updated",
+          "text": "2026-11-22"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "Hunter"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram @k_770 (Support & Token)",
+          "action": "https://t.me/k_770",
+          "openExternal": true
+        }
+      ]
+    }
+  ]
+}
