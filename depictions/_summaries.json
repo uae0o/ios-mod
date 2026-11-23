@@ -97,5 +97,16 @@
       "Damage Multiplier (1x-100x) & HP/ATK/DEF Multipliers (1x-50x)",
       "Instant Full Party Heal & ARM64 Auto-Updating XLua Engine"
     ]
+  },
+  "com.hunter.p5x": {
+    "name": "Persona 5: The Phantom X (P5X) Cheats",
+    "version": "4.13.1",
+    "bundle_id": "com.sega.persona5.the.phantomx.en",
+    "features": [
+      "Reveal & Auto-Open All Palace/City Treasure Chests (1x-20x Range)",
+      "Always-On Third Eye Gold Glow, Full Map Reveal & Clear Fog",
+      "Hide Patrol NPC Cones, Radar Detect Distance & Icon Scale",
+      "Local Palace/Minigame Boost, 1-Hit & Damage/DEF/HP Multipliers"
+    ]
   }
 }

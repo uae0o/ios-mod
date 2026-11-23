@@ -1,0 +1,61 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#7C5CFF",
+  "headerImage": "",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Persona 5: The Phantom X (P5X) — v4.13.1",
+          "useBoldText": true,
+          "useBottomMargin": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "## Persona 5: The Phantom X (P5X) Cheats — iOS Mod Menu\n\n**Target Bundle IDs:** `com.sega.persona5.the.phantomx.en`, `com.sega.persona5.the.phantomx.jp`, `com.sega.persona5.the.phantomx.SEA`, `com.iwplay.p5x`, `com.perfectworld.p5x`  \n**Architecture:** `arm64` (Rootless) & `arm64e` (RootHide)\n\n---\n\n### 🗺️ Tab 1 — Map & Chests\n- **Activate All Chests, Third Eye & Full Radar (1-Tap Preset)**\n- **Reveal All Palace & City Treasure Chests on Map**\n- **Open / Interact Loaded Treasure Chests Now**\n- **Show All Treasure Chests & Unvisited Rooms**\n- **Auto-Open Nearby Treasure Chests**\n- **Always-On Third Eye (Gold Glow on Chests)**\n- **Treasure Chest Open / Interact Distance (`1x – 20x`)**\n- **Reveal All Distance-Hidden MiniMap Icons**\n- **Unlock All Map Blocks & Clear Fog**\n- **Hide Patrol NPC Cones on MiniMap**\n- **Map Detect Distance (`1x – 20x`)**\n- **Icon Around Distance (`1x – 20x`)**\n- **Map Icon Scale (`0.5x – 5.0x`)**\n\n### ⚔️ Tab 2 — Local Combat\n- **Palace Nutrient & Puzzle Boost**\n- **Local Minigame / Shooting 1-Hit**\n- **Local Sandbox HP / Shield Preview**\n- **Local Damage Multiplier (`1x – 50x`)**\n- **Local Defense / Shield Multiplier (`1x – 50x`)**\n- **Local HP Multiplier (`1x – 50x`)**\n\n### 🛠️ Tab 3 — ToLua Tools\n- **Dump Loaded LuaJIT Chunks**\n- **Log Loaded LuaJIT Chunks**\n- **Scan Loaded 3D Scene Objectives & Chests**\n- **Hot-Reload `Documents/earth/inject.lua`**\n- **Reset All Toggles & Sliders**\n- **Check ToLua & Hook Status**\n\n---\n\n### 🛡️ Protection & Cloud Auto-Update\n- **Cloud + On-Device Auto-Offset Engine** — Automatically resolves ToLua / LuaJIT 2.1 VM & IL2CPP MiniMap/Radar offsets across game updates\n- **1-User License System** — Hardware UDID / Keychain device token binding via Hunter's license server\n- **Glass UI Floating Mod Menu** — Clean option layout with draggable floating button, multi-tab layout, live sliders & persistent settings",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**v4.13.1**\n- Initial release for Persona 5: The Phantom X (`com.sega.persona5.the.phantomx.en` v4.13.1)\n- Clean menu options without subtitle clutter, AOB + IL2CPP Auto-Offset Engine & 1-User Device Token Lock",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "4.13.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Updated",
+          "text": "2026-11-23"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "Hunter"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Telegram @k_770 (Support & Token)",
+          "action": "https://t.me/k_770",
+          "openExternal": true
+        }
+      ]
+    }
+  ]
+}

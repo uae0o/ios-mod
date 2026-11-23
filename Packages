@@ -652,6 +652,44 @@ Name: OUTERPLANE Mod Menu
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.outerplanecheats.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.outerplanecheats.json
 
+Package: com.hunter.p5x
+Version: 4.13.1
+Architecture: iphoneos-arm64
+Maintainer: Hunter <https://t.me/k_770>
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.p5x_4.13.1_iphoneos-arm64.deb
+Size: 119392
+MD5sum: 13be9e37553e8fd5d8112b266a2bc408
+SHA1: eaba8ce2cea83ea10b8c53492a55a1582f120d2e
+SHA256: 8cd3a120e2da6a3871d1e39d8a7ad0c8ca420ae71a0e4afec20dab7664d774bf
+Section: Tweaks
+Description: {'name': 'Persona 5: The Phantom X (P5X) Cheats', 'version': '4.13.1', 'bundle_id': 'com.sega.persona5.the.phantomx.en', 'features': ['Reveal & Auto-Open All Palace/City Treasure Chests (1x-20x Range)', 'Always-On Third Eye Gold Glow, Full Map Reveal & Clear Fog', 'Hide Patrol NPC Cones, Radar Detect Distance & Icon Scale', 'Local Palace/Minigame Boost, 1-Hit & Damage/DEF/HP Multipliers']}
+Author: Hunter <https://t.me/k_770>
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.p5x.png
+Name: Persona 5: The Phantom X (P5X) Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.p5x.json
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.p5x.json
+
+Package: com.hunter.p5x
+Version: 4.13.1
+Architecture: iphoneos-arm64e
+Maintainer: Hunter <https://t.me/k_770>
+Installed-Size: 580
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.p5x_4.13.1_iphoneos-arm64e.deb
+Size: 215394
+MD5sum: aaf7263ac2e452cf7dc8f14d8f6ecfc3
+SHA1: 019f3b75d6e108d579c527ef6d2d9c0eb9b505e3
+SHA256: 8e2c0265117ca86ffa3db25a3c9dcacc256a6ac52e8715ecba5399e09eb564db
+Section: Tweaks
+Description: {'name': 'Persona 5: The Phantom X (P5X) Cheats', 'version': '4.13.1', 'bundle_id': 'com.sega.persona5.the.phantomx.en', 'features': ['Reveal & Auto-Open All Palace/City Treasure Chests (1x-20x Range)', 'Always-On Third Eye Gold Glow, Full Map Reveal & Clear Fog', 'Hide Patrol NPC Cones, Radar Detect Distance & Icon Scale', 'Local Palace/Minigame Boost, 1-Hit & Damage/DEF/HP Multipliers']}
+Author: Hunter <https://t.me/k_770>
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.p5x.png
+Name: Persona 5: The Phantom X (P5X) Cheats
+Sileodepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.p5x.json
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.p5x.json
+
 Package: com.hunter.pascalswagermenu
 Version: 1.11.12
 Architecture: iphoneos-arm64

@@ -714,5 +714,20 @@
     "0x22fb948": "sig:08 08 40 F9 09 10 40 F9 29 01 40 F9 29 41 00 91 08 01 09 CB 00 FD 44 D3 C0 03 5F D6",
     "0x22fb964": "sig:C1 04 F8 37 08 10 40 F9 0A 01 40 F9 09 08 40 F9 48 D1 21 8B 08 41 00 91 3F 01 08 EB",
     "0x2301268": "sig:FF 43 01 D1 F8 5F 01 A9 F6 57 02 A9 F4 4F 03 A9 FD 7B 04 A9 FD 03 01 91 F3 03 02 AA F5 03 01 AA F4 03 00 AA"
+  },
+  "com.sega.persona5.the.phantomx.en": {
+    "_game": "Persona 5: The Phantom X (com.hunter.p5x v4.13.1)",
+    "0x70bd98": "sig:E9 23 BD 6D F4 4F 01 A9 FD 7B 02 A9 FD 83 00 91 28 40 20 1E 09 40 20 1E F3 03 00 AA E1 E1 84 12 82 03 80 52",
+    "0x70abc8": "sig:F6 57 BD A9 F4 4F 01 A9 FD 7B 02 A9 FD 83 00 91 F3 03 01 AA F4 03 00 AA E1 E1 84 12",
+    "0x730c8c": "sig:FF 83 03 D1 F4 4F 0C A9 FD 7B 0D A9 FD 43 03 91 F3 03 00 AA E1 0B 00 A9",
+    "0x72590c": "sig:F4 4F BE A9 FD 7B 01 A9 FD 43 00 91 13 08 40 F9 23 01 00 34 69 04 00 71",
+    "0x720f30": "sig:09 20 42 A9 08 01 09 CB 00 FD 43 D3 C0 03 5F D6 F4 4F BE A9 FD 7B 01 A9 FD 43 00 91 F3 03 00 AA",
+    "0x720f40": "sig:F4 4F BE A9 FD 7B 01 A9 FD 43 00 91 F3 03 00 AA",
+    "0x722e40": "sig:FF 03 01 D1 F6 57 01 A9 F4 4F 02 A9 FD 7B 03 A9 FD C3 00 91 F3 03 02 AA 28 04 00 71",
+    "0x5d21084": "il2cpp:*::MapIconAround.Update/0",
+    "0x3c50184": "il2cpp:*::MUGame.GameMiniMapControl.SetPatrolNpcDic/1",
+    "0x3c5043c": "il2cpp:*::MUGame.GameMiniMapControl.ClearPatrolNpc/0",
+    "0x3c504b4": "il2cpp:*::MUGame.GameMiniMapControl.SetDisControlVisDic/1",
+    "0x3c5078c": "il2cpp:*::MUGame.GameMiniMapControl.ClearDisControlObj/0"
   }
 }
