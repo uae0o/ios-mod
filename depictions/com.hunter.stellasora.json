@@ -1,38 +1,38 @@
 {
   "minVersion": "0.4",
-  "class": "DepictionTabView",
   "tintColor": "#7C5CFF",
-  "headerImage": "",
+  "class": "DepictionTabView",
   "tabs": [
     {
+      "tabname": "Details & Features",
       "class": "DepictionStackView",
-      "tabname": "Details",
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "Stella Sora (com.YoStarEN.StellaSora) — v2.0.0",
-          "useBoldText": true,
-          "useBottomMargin": true
+          "title": "8 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## Stella Sora Cheats — iOS Mod Menu\n\n**Target Bundle ID:** `com.YoStarEN.StellaSora`  \n**Architecture:** `arm64` (Rootless) & `arm64e` (RootHide)\n\n---\n\n### ⚔️ Tab 1 — Combat (`HP, Defense, Attack & Damage`)\n- **Activate Pro God Preset (1-Tap)** — Enables God Mode & 1-Hit Kill in one tap\n- **God Mode (Invincible)** — Maxes HP/DEF (`99,999,999`) & `100%` all-type damage reduction (`GENDMGRCD`)\n- **HP Multiplier (`1x – 50x`)** — Scales character Max HP & floor `initHp`\n- **Defense Multiplier (`1x – 50x`)** — Multiplies character DEF stat\n- **1-Hit Kill Enemies** — Maxes ATK, `FINALDMG`, `CritRate` & `100%` `DefIgnore`\n- **Damage Multiplier (`1x – 100x`)** — Adds Final DMG% multiplier (`FINALDMG`)\n- **Attack Stat Multiplier (`1x – 50x`)** — Multiplies character base ATK stat\n\n### ⚡ Tab 2 — Actions (`Battle Actions`)\n- **Instant Full Heal Party** — Restores active party HP to `100%` max via `AdventureModuleHelper.ResetActorAttributes`\n\n### 🛠️ Tab 3 — Lua Tools (`Auto-Scanner & Diagnostics`)\n- **Relocation-Independent ARM64 XLua Scanner** — Automatically locates `luaL_loadbufferx`, `lua_pcallk`, `lua_gettop`, `lua_settop` & `luaL_tolstring` across game updates\n- **Scan / Reload / Dump Tools** — Live Lua battle module scanner & hot-reload support\n\n---\n\n### 🛡️ Protection & Cloud Auto-Update\n- **Cloud + On-Device Auto-Offset Engine** — Automatically resolves updated offsets across game updates without waiting for a new `.deb`\n- **1-User License System** — Hardware UDID / Keychain device token binding via Hunter's license server\n- **Glass UI Floating Mod Menu** — Draggable floating button, multi-tab layout, live sliders & persistent settings",
+          "markdown": "### ✨ Stella Sora Mod Menu (v2.0.0)\nPro Glass UI Mod Menu for **Stella Sora** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Activate Pro God Preset** — Enables God Mode & 1-Hit Kill in 1 tap\n- **God Mode (Invincible)** — Maxes HP/DEF & 100% all-type damage reduction\n- **HP Multiplier (`1x – 50x`)** — Scales character Max HP & floor HP\n- **Defense Multiplier (`1x – 50x`)** — Multiplies character DEF stat\n- **1-Hit Kill Enemies** — Maxes ATK, Final DMG, Crit Rate & 100% DEF Ignore\n- **Damage Multiplier (`1x – 100x`)** — Adds Final DMG% multiplier\n- **Attack Stat Multiplier (`1x – 50x`)** — Multiplies character base ATK stat\n- **Instant Full Heal Party** — Restores active party HP to 100% max\n\n### 🛡️ Protection\n- **1-User License**: Each token locks automatically to the first device that activates it.",
           "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionHeaderView",
-          "title": "Changelog"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**v2.0.0**\n- Initial release for Stella Sora (`com.YoStarEN.StellaSora` v2.0.0)\n- Includes invariant ARM64 XLua auto-scanner + 1-User Device Token Lock",
-          "useSpacing": true
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
         },
         {
           "class": "DepictionTableTextView",
@@ -41,19 +41,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Updated",
-          "text": "2026-11-22"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "Hunter"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Telegram @k_770 (Support & Token)",
-          "action": "https://t.me/k_770",
-          "openExternal": true
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
         }
       ]
     }

@@ -1,38 +1,38 @@
 {
   "minVersion": "0.4",
-  "class": "DepictionTabView",
   "tintColor": "#7C5CFF",
-  "headerImage": "",
+  "class": "DepictionTabView",
   "tabs": [
     {
+      "tabname": "Details & Features",
       "class": "DepictionStackView",
-      "tabname": "Details",
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "GrandChase (com.kog.grandchaseglobal) — v2.9.4",
-          "useBoldText": true,
-          "useBottomMargin": true
+          "title": "9 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## GrandChase Cheats — iOS Mod Menu\n\n**Target Bundle ID:** `com.kog.grandchaseglobal`  \n**Architecture:** `arm64` (Rootless) & `arm64e` (RootHide)\n\n---\n\n### ⚔️ Tab 1 — Damage (`Player Offense & Survival`)\n- **God Mode** — Block all incoming damage to player & allies\n- **One-Hit Kill** — Deal 999M damage to all enemies\n- **Damage Multiplier (`1x – 100x`)** — Scale player & ally damage dealt across all attack types\n- **Enemy Damage Multiplier (`0.0x – 2.0x`)** — Scale enemy damage (`0.0x` = harmless)\n- *Upstream `EMEGFKIEADN` stack-verifier safe hooks so heals stay intact and encrypted `NJKMPAKKHNH` double checksums match*\n\n### ❤️ Tab 2 — Def & HP (`Player Stats & Enemy Weakening`)\n- **Player Max HP (`1x – 50x`)** — Multiply player & ally Max HP (syncs spawn HP automatically)\n- **Player ATK (`1x – 50x`)** — Multiply player & ally Physical & Magical ATK live\n- **Player DEF (`1x – 50x`)** — Multiply player & ally DEF + damage reduction\n- **Enemy Max HP (`0.1x – 1.0x`)** — Scale enemy Max HP & clamp current HP down\n- **Enemy DEF (`0.0x – 1.0x`)** — Scale enemy DEF (`0.0x` = ignore enemy DEF completely)\n\n---\n\n### 🛡️ Protection & Cloud Auto-Update\n- **Cloud + On-Device Auto-Offset Engine** — Automatically resolves updated offsets across game updates without waiting for a new `.deb`\n- **1-User License System** — Hardware UDID / Keychain device token binding via Hunter's license server\n- **Glass UI Floating Mod Menu** — Draggable floating button, multi-tab layout, live sliders & persistent settings",
+          "markdown": "### ✨ GrandChase Mod Menu (v2.9.4)\nPro Glass UI Mod Menu for **GrandChase** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode** — Block all incoming damage to player & allies\n- **One-Hit Kill** — Deal 999M damage to all enemies\n- **Damage Multiplier (`1x – 100x`)** — Scale player & ally damage dealt across all attack types\n- **Enemy Damage Multiplier (`0.0x – 2.0x`)** — Scale enemy damage (`0.0x` = harmless)\n- **Player Max HP (`1x – 50x`)** — Multiply player & ally Max HP (syncs spawn HP automatically)\n- **Player ATK (`1x – 50x`)** — Multiply player & ally Physical & Magical ATK live\n- **Player DEF (`1x – 50x`)** — Multiply player & ally DEF + damage reduction\n- **Enemy Max HP (`0.1x – 1.0x`)** — Scale enemy Max HP & clamp current HP down\n- **Enemy DEF (`0.0x – 1.0x`)** — Scale enemy DEF (`0.0x` = ignore enemy DEF completely)\n\n### 🛡️ Protection\n- **1-User License**: Each token locks automatically to the first device that activates it.",
           "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionHeaderView",
-          "title": "Changelog"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**v2.9.4**\n- Added GrandChase Global (`com.kog.grandchaseglobal`) support for v2.9.4\n- Added 6 IL2CPP Auto-Offset resolvers + 1-User Device Token Lock & custom floating icon",
-          "useSpacing": true
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
         },
         {
           "class": "DepictionTableTextView",
@@ -41,19 +41,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Updated",
-          "text": "2026-11-21"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "Hunter"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Telegram @k_770 (Support & Token)",
-          "action": "https://t.me/k_770",
-          "openExternal": true
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
         }
       ]
     }

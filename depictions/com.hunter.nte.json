@@ -1,38 +1,38 @@
 {
   "minVersion": "0.4",
-  "class": "DepictionTabView",
   "tintColor": "#7C5CFF",
-  "headerImage": "",
+  "class": "DepictionTabView",
   "tabs": [
     {
+      "tabname": "Details & Features",
       "class": "DepictionStackView",
-      "tabname": "Details",
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "NTE: Neverness to Everness (com.hottagames.nte) — v1.5.0",
-          "useBoldText": true,
-          "useBottomMargin": true
+          "title": "8 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## Neverness to Everness (NTE) Cheats — iOS Mod Menu\n\n**Target Bundle ID:** `com.hottagames.nte`  \n**Architecture:** `arm64` (Rootless) & `arm64e` (RootHide)\n\n---\n\n### ⚔️ Tab 1 — Combat (`Core Mods`)\n- **God Mode** — Block all incoming damage, prevent HP loss & set `bImmuneTotalDeath` on player ASC\n- **One-Hit Kill** — Deal instant lethal damage to enemies\n\n### 🏛️ Tab 2 — World & Bank (`Oracle, Gift, Magician & Bank Heist`)\n- **Oracle Stone Auto-Open** — Maximizes `AHTOracleStoneActor` pickup/open radius (`99,999`) & auto-triggers refresh\n- **Gift & Treasure Auto-Unlock** — Bypasses chest locks & auto-opens `AHTTreasureBoxActor` gift/treasure boxes\n- **Auto Collapse Magic Boxes** — Instantly solves & collapses `AHTMagicBoxAnomaly` puzzles\n- **5x Multi Magic Spin** — Triggers `5x` rapid spins per Magic Spin start request\n- **Auto Claim Bank Awards** — Automatically requests Score, Quest & Manual Bank Heist (`ERobBankMsgCToS`) awards\n- **Claim All Bank Awards & Quests (1-Tap)** — Sends `GetAllScoreAward`, `SubmitAllQuest` & `ManualAward` immediately\n\n---\n\n### 🛡️ Protection & Cloud Auto-Update\n- **Cloud + On-Device Auto-Offset Engine** — Automatically resolves updated offsets across game updates without waiting for a new `.deb`\n- **1-User License System** — Hardware UDID / Keychain device token binding via Hunter's license server\n- **Glass UI Floating Mod Menu** — Draggable floating button, multi-tab layout, live sliders & persistent settings",
+          "markdown": "### ✨ Neverness to Everness Mod Menu (v1.5.0)\nPro Glass UI Mod Menu for **Neverness to Everness** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode** — Block all incoming damage & prevent character death\n- **One-Hit Kill** — Deal instant lethal damage to enemies\n- **Oracle Stone Auto-Open** — Maximizes Oracle Stone open/pickup radius & auto-triggers\n- **Gift & Treasure Auto-Unlock** — Bypasses chest locks & auto-opens Gift/Treasure boxes\n- **Auto Collapse Magic Boxes** — Instantly solves & collapses Magic Box puzzles\n- **5x Multi Magic Spin** — Triggers `5x` rapid spins per Magic Spin start request\n- **Auto Claim Bank Awards** — Automatically requests Score, Quest & Manual Bank awards\n- **Claim All Bank Awards & Quests** — 1-Tap claim for all Bank Heist rewards\n\n### 🛡️ Protection\n- **1-User License**: Each token locks automatically to the first device that activates it.",
           "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionHeaderView",
-          "title": "Changelog"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**v1.5.0**\n- Initial release for NTE: Neverness to Everness (`com.hottagames.nte` v1.5.0)\n- Includes 15 relocation-safe UE5 ARM64 AOB auto-offset signatures + 1-User Device Token Lock",
-          "useSpacing": true
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
         },
         {
           "class": "DepictionTableTextView",
@@ -41,19 +41,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Updated",
-          "text": "2026-11-22"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "Hunter"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Telegram @k_770 (Support & Token)",
-          "action": "https://t.me/k_770",
-          "openExternal": true
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
         }
       ]
     }

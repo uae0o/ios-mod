@@ -25,88 +25,12 @@
   "com.hunter.outerplanecheats": "Features: God Mode & 0 Cooldown (Player Only), One-Hit Kill Enemies, Damage & Reward Multiplier (1x - 100x), Bypass Battle Damage Cap, Auto-Unlinked Team Detection | Telegram: @m0hmm3d",
   "com.hunter.seekersnotescheats": "Features: Unlimited Energy & Stamina (999 + 0 Cost), XP & Coins Reward Multiplier (1x - 100x), Unlimited Coins & Gold, Unlimited Rubies, Gems & Event Tokens, Check Hook & Patch Status | Telegram: @m0hmm3d",
   "com.m0hammed.sololevelingarise": "Features: Enable Damage Multiplier, Damage Multiplier (1x - 200x), Enable Defense Multiplier, Defense Multiplier (1x - 200x), Auto Hunter & Shadow Ally Detection, Check Active Hooks & Player Link | Telegram: @m0hmm3d",
-  "com.hunter.aniimocheats": {
-    "name": "Aniimo Cheats",
-    "version": "1.1.2",
-    "bundle_id": "com.x.aniimos.ios",
-    "features": [
-      "God Mode & Attack Multiplier (1x-20x)",
-      "Infinite Stamina & Move Speed (1x-10x)",
-      "Aniimo Vacuum & Vacuum Range (5m-60m)"
-    ]
-  },
-  "com.hunter.wwmcheats": {
-    "name": "Where Winds Meet Cheats",
-    "version": "1.0.29",
-    "bundle_id": "com.netease.yysls",
-    "features": [
-      "God Mode (No HP Loss & 0 Enemy Damage)",
-      "Damage Multiplier (1x-50x Single Mode)",
-      "Move Speed Multiplier (1x-5x Single Mode)"
-    ]
-  },
-  "com.hunter.grandchase": {
-    "name": "GrandChase Cheats",
-    "version": "2.9.4",
-    "bundle_id": "com.kog.grandchaseglobal",
-    "features": [
-      "God Mode & One-Hit Kill (999M Damage)",
-      "Damage Multiplier (1x-100x) & Enemy Damage Scale (0x-2x)",
-      "Live Player Max HP / ATK / DEF Multipliers (1x-50x)",
-      "Enemy Max HP & Enemy DEF Weakening (0x-1x)"
-    ]
-  },
-  "com.hunter.mhmobileiosshippingcheats": {
-    "name": "Monster Hunter Outlanders (Tencent) Cheats",
-    "version": "1.0.9",
-    "bundle_id": "com.tencent.mhadv",
-    "features": [
-      "God Mode (No Damage) & 1-Hit Kill Monsters",
-      "Damage Multiplier (1x-50x) & Effective ATK Boost (1x-20x)",
-      "Instant Part Break & Freeze Monster HP"
-    ]
-  },
-  "com.hunter.nte": {
-    "name": "Neverness to Everness (NTE) Cheats",
-    "version": "1.5.0",
-    "bundle_id": "com.hottagames.nte",
-    "features": [
-      "God Mode (Damage & Death Immunity) & One-Hit Kill",
-      "Oracle Stone Auto-Open & Gift/Treasure Auto-Unlock",
-      "Auto Collapse Magic Boxes & 5x Multi Magic Spin",
-      "Auto Claim Bank Heist Score, Quest & Manual Awards"
-    ]
-  },
-  "com.networkcentury.xzy.modmenu": {
-    "name": "Starward (星之翼) Cheats",
-    "version": "3.3.0",
-    "bundle_id": "com.networkcentury.xzy",
-    "features": [
-      "One-Hit Kill, Damage Multiplier (1x-50x) & Max Outgoing Damage",
-      "God Mode, Auto Lock Full HP & Infinite Shield Absorb",
-      "Dumb Enemies (Freeze AI), Bypass Enemy Shields & Freeze Enemy HP",
-      "Unlimited Ammo & Ex Skills, Infinite Boost, Game Speed & 120 FPS"
-    ]
-  },
-  "com.hunter.stellasora": {
-    "name": "Stella Sora Cheats",
-    "version": "2.0.0",
-    "bundle_id": "com.YoStarEN.StellaSora",
-    "features": [
-      "1-Tap Pro God Preset, God Mode & 1-Hit Kill Enemies",
-      "Damage Multiplier (1x-100x) & HP/ATK/DEF Multipliers (1x-50x)",
-      "Instant Full Party Heal & ARM64 Auto-Updating XLua Engine"
-    ]
-  },
-  "com.hunter.p5x": {
-    "name": "Persona 5: The Phantom X (P5X) Cheats",
-    "version": "4.13.1",
-    "bundle_id": "com.sega.persona5.the.phantomx.en",
-    "features": [
-      "Reveal & Auto-Open All Palace/City Treasure Chests (1x-20x Range)",
-      "Always-On Third Eye Gold Glow, Full Map Reveal & Clear Fog",
-      "Hide Patrol NPC Cones, Radar Detect Distance & Icon Scale",
-      "Local Palace/Minigame Boost, 1-Hit & Damage/DEF/HP Multipliers"
-    ]
-  }
+  "com.hunter.aniimocheats": "Features: God Mode (No Player/Pet Damage), Attack Multiplier (1x-20x), Infinite Stamina, Move Speed Multiplier (1x-10x), Aniimo Vacuum, Vacuum Range (5m-60m) | Telegram: @m0hmm3d",
+  "com.hunter.wwmcheats": "Features: God Mode (No HP Loss & 0 Enemy Damage), Damage Multiplier (1x-50x), Move Speed Multiplier (1x-5x) | Telegram: @m0hmm3d",
+  "com.hunter.grandchase": "Features: God Mode, One-Hit Kill (999M Damage), Damage Multiplier (1x-100x), Enemy Damage Multiplier (0x-2x), Player Max HP Multiplier (1x-50x), Player ATK Multiplier (1x-50x), Player DEF Multiplier (1x-50x), Enemy Max HP & DEF Weakening | Telegram: @m0hmm3d",
+  "com.hunter.mhmobileiosshippingcheats": "Features: God Mode (No Damage), 1-Hit Kill Monsters, Damage Multiplier (1x-50x), Effective ATK Boost (1x-20x), Instant Part Break, Freeze Monster HP | Telegram: @m0hmm3d",
+  "com.hunter.nte": "Features: God Mode, One-Hit Kill, Oracle Stone Auto-Open, Gift & Treasure Auto-Unlock, Auto Collapse Magic Boxes, 5x Multi Magic Spin, Auto Claim Bank Awards, Claim All Bank Awards & Quests | Telegram: @m0hmm3d",
+  "com.networkcentury.xzy.modmenu": "Features: One-Hit Kill, Damage Multiplier (1x-50x), Max Outgoing Damage Ratio, God Mode (Invincible), Auto Lock Full HP, Infinite Shield Absorb, Dumb Enemies (Freeze AI), Bypass Enemy Shields, Freeze Enemy HP, Unlimited Ammo & Ex Skills, Infinite Boost, Game Speed & 120 FPS | Telegram: @m0hmm3d",
+  "com.hunter.stellasora": "Features: Activate Pro God Preset, God Mode (Invincible), HP Multiplier (1x-50x), Defense Multiplier (1x-50x), 1-Hit Kill Enemies, Damage Multiplier (1x-100x), Attack Stat Multiplier (1x-50x), Instant Full Heal Party | Telegram: @m0hmm3d",
+  "com.hunter.p5x": "Features: Activate All Chests, Third Eye & Full Radar, Reveal All Palace & City Treasure Chests, Auto-Open Nearby Treasure Chests, Always-On Third Eye, Treasure Chest Open Distance (1x-20x), Unlock All Map Blocks & Clear Fog, Hide Patrol NPC Cones, Map Detect Distance & Icon Scale, Local Palace/Minigame Multipliers | Telegram: @m0hmm3d"
 }

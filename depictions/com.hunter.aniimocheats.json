@@ -1,38 +1,38 @@
 {
   "minVersion": "0.4",
-  "class": "DepictionTabView",
   "tintColor": "#7C5CFF",
-  "headerImage": "",
+  "class": "DepictionTabView",
   "tabs": [
     {
+      "tabname": "Details & Features",
       "class": "DepictionStackView",
-      "tabname": "Details",
       "views": [
         {
           "class": "DepictionSubheaderView",
-          "title": "Aniimo (com.x.aniimos.ios) — v1.1.2 Protected Encrypted xLua Engine",
-          "useBoldText": true,
-          "useBottomMargin": true
+          "title": "6 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "## Aniimo Cheats — iOS Mod Menu\n\n**Target Bundle ID:** `com.x.aniimos.ios`  \n**Architecture:** `arm64` (Rootless) & `arm64e` (RootHide)\n\n---\n\n### ⚡ Main Features (Zero-Offset Encrypted xLua Engine)\n- **God Mode** — No player or pet damage\n- **Attack Multiplier (`1x – 20x`)** — Multi-hit per attack\n- **Infinite Stamina** — Never drown or tire while sprinting, swimming, or gliding\n- **Move Speed (`1.0x – 10.0x`)** — Boost walk, run, swim, and glide speed\n- **Aniimo Vacuum** — Pull nearby wild Aniimo directly to your position\n- **Vacuum Range (`5m – 60m`)** — Adjustable pull radius in meters\n- **Anti-Debug & Stream-Cipher Memory Wipe** — Encrypted Lua payload with instant post-injection memory scrub\n\n---\n\n### 🛡️ Protection & Cloud Auto-Update\n- **Cloud + On-Device Auto-Offset Engine** — Automatically resolves updated offsets across game updates without waiting for a new `.deb`\n- **1-User License System** — Hardware UDID / Keychain device token binding via Hunter's license server\n- **Glass UI Floating Mod Menu** — Draggable floating button, multi-tab layout, live sliders & persistent settings",
+          "markdown": "### ✨ Aniimo Mod Menu (v1.1.2)\nPro Glass UI Mod Menu for **Aniimo** by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **God Mode** — No player or pet damage\n- **Attack Multiplier (`1x – 20x`)** — Multi-hit per attack\n- **Infinite Stamina** — Never drown or tire while sprinting, swimming, or gliding\n- **Move Speed (`1.0x – 10.0x`)** — Boost walk, run, swim, and glide speed\n- **Aniimo Vacuum** — Pull nearby wild Aniimo directly to your position\n- **Vacuum Range (`5m – 60m`)** — Adjustable pull radius in meters\n\n### 🛡️ Protection\n- **1-User License**: Each token locks automatically to the first device that activates it.",
           "useSpacing": true
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "class": "DepictionHeaderView",
-          "title": "Changelog"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "**v1.1.2**\n- Updated to streamlined Protected Encrypted xLua Engine with Anti-Debug & Memory Wipe\n- Synced 1-User Device Token Lock & custom floating menu icon",
-          "useSpacing": true
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
         },
         {
           "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
         },
         {
           "class": "DepictionTableTextView",
@@ -41,19 +41,8 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Updated",
-          "text": "2026-11-21"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "Hunter"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Telegram @k_770 (Support & Token)",
-          "action": "https://t.me/k_770",
-          "openExternal": true
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
         }
       ]
     }
