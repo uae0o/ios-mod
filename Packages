@@ -578,6 +578,42 @@ Name: MW2
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.mw2.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.mw2.json
 
+Package: com.hunter.nfsnolimits
+Version: 9.6.01
+Architecture: iphoneos-arm64
+Maintainer: Hunter
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.nfsnolimits_9.6.01_iphoneos-arm64.deb
+Size: 111554
+MD5sum: 8b52065f3140d450b65689a7364d59a7
+SHA1: de63eaec963c23fae5e44820e500ac1a448be57e
+SHA256: 99e374983b10f39617eb33c3f9faa9d8c3d883cd6a4508cdaa04cd2bb74c7a2c
+Section: Tweaks
+Description: Features: 0 Cost / Free Shopping, Unlimited Currencies, +5M Cash & +50K Gold, Unlock All Cars & Blueprints, VIP 10, Infinite Nitro, Speed/PR Boost, Skip Race & Auto-Win (+14 more) | Telegram: @m0hmm3d
+Author: Hunter
+Name: NFS No Limits Mod Menu (C++ & Lua)
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.nfsnolimits.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.nfsnolimits.json
+
+Package: com.hunter.nfsnolimits
+Version: 9.6.01
+Architecture: iphoneos-arm64e
+Maintainer: Hunter
+Installed-Size: 532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.nfsnolimits_9.6.01_iphoneos-arm64e.deb
+Size: 205432
+MD5sum: 4823b99b4f6123bfd92f84022cb49b54
+SHA1: 584c0223f05c6ad4b71a0826ce336b18bfe5873c
+SHA256: 164f12730fc5b1fda67ab70e5c8b67f11925cf4b78e71b689ca16e3d0683c476
+Section: Tweaks
+Description: Features: 0 Cost / Free Shopping, Unlimited Currencies, +5M Cash & +50K Gold, Unlock All Cars & Blueprints, VIP 10, Infinite Nitro, Speed/PR Boost, Skip Race & Auto-Win (+14 more) | Telegram: @m0hmm3d
+Author: Hunter
+Name: NFS No Limits Mod Menu (C++ & Lua)
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.nfsnolimits.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.nfsnolimits.json
+
 Package: com.hunter.nte
 Version: 1.5.0
 Architecture: iphoneos-arm64
@@ -797,6 +833,78 @@ Author: m0hammed (@m0hmm3d)
 Name: Seekers Notes: Hidden Mystery Cheats
 Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.seekersnotescheats.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.seekersnotescheats.json
+
+Package: com.hunter.simcity
+Version: 1.84.1
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.simcity_1.84.1_iphoneos-arm64.deb
+Size: 109496
+MD5sum: 1a00b2db1667dd9ad852852db4636f97
+SHA1: 1db65e8bdec2fa5a10591dd28bccd11689bbe09a
+SHA256: 5918a1c95554228531ec72a34c5078c909c08a8926761eceb4c453f0fa489258
+Section: Tweaks
+Description: Features: Instant Production & Crafting, Free Speed-Up (0 SimCash), Free Purchases & Upgrades (0 Cost), Add Simoleons/SimCash/Golden Keys, XP Multiplier & Instant Level Up (+9 more) | Telegram: @m0hmm3d
+Author: m0hammed
+Name: SimCity BuildIt Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.simcity.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.simcity.json
+
+Package: com.hunter.simcity
+Version: 1.84.1
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.simcity_1.84.1_iphoneos-arm64e.deb
+Size: 198578
+MD5sum: efadf0433142601ec2ebc91478e9d916
+SHA1: 144211d0db1e7d1d9fa711a96909dd841805faff
+SHA256: 7b6d6e0ec1f2cf169e98118470f281830be2339d3776cb9a3299ffebfb01c0c9
+Section: Tweaks
+Description: Features: Instant Production & Crafting, Free Speed-Up (0 SimCash), Free Purchases & Upgrades (0 Cost), Add Simoleons/SimCash/Golden Keys, XP Multiplier & Instant Level Up (+9 more) | Telegram: @m0hmm3d
+Author: m0hammed
+Name: SimCity BuildIt Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.simcity.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.simcity.json
+
+Package: com.hunter.simsfreeplay
+Version: 119.0.1
+Architecture: iphoneos-arm64
+Maintainer: m0hammed
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.simsfreeplay_119.0.1_iphoneos-arm64.deb
+Size: 106646
+MD5sum: 1990cba460ca34c1c4e2e566ec96468c
+SHA1: e27ae50d592efe12b6f05a7716fc7ebb431c7237
+SHA256: 5023618f3f17e312c51ba706d2560f9c5aa7008c56a7813542830f4bc88439fd
+Section: Tweaks
+Description: Features: 0 Cost / Free Shopping, Unlimited Currencies, Gain on Spend, Add +5M Simoleons/+50K LP/+50K SP, XP & Reward Multiplier, Instant Level Up (+8 more) | Telegram: @m0hmm3d
+Author: m0hammed
+Name: Sims FreePlay Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.simsfreeplay.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.simsfreeplay.json
+
+Package: com.hunter.simsfreeplay
+Version: 119.0.1
+Architecture: iphoneos-arm64e
+Maintainer: m0hammed
+Installed-Size: 500
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.hunter.simsfreeplay_119.0.1_iphoneos-arm64e.deb
+Size: 196366
+MD5sum: ada29fb2144da6f272f125d060f77455
+SHA1: dd352cf25869b0e65b2f68e59e6716143c25c6aa
+SHA256: 783341de9735b1ed7647d1a6d4380dc7482dc44f44d2a1ee3d36c913258b334e
+Section: Tweaks
+Description: Features: 0 Cost / Free Shopping, Unlimited Currencies, Gain on Spend, Add +5M Simoleons/+50K LP/+50K SP, XP & Reward Multiplier, Instant Level Up (+8 more) | Telegram: @m0hmm3d
+Author: m0hammed
+Name: Sims FreePlay Mod Menu
+Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.simsfreeplay.png
+SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.simsfreeplay.json
 
 Package: com.hunter.sor4
 Version: 1.4.7

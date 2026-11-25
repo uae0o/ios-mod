@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "14 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ SimCity BuildIt (v1.84.1)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **Instant Production & Crafting**\n- **Production Speed Multiplier (1x - 50x)**\n- **Free Speed-Up (0 SimCash)**\n- **Finish Active Productions Now**\n- **Free Purchases & Upgrades (0 Cost)**\n- **Bypass Afford & Item Requirements**\n- **Price Scale (0% - 100%)**\n- **Add +50,000 Simoleons**\n- **Add +1,000 SimCash**\n- **Add +100 Golden Keys**\n- **XP Gain Multiplier (1x - 50x)**\n- **Bonus XP on Crafting Collect**\n- **Add +1,000 / +10,000 XP Now**\n- **Instant +1 Level Up Now**\n\n### 🛡️ Protection\n- **1-User License**: Each token locks automatically to the first device that activates it.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.84.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

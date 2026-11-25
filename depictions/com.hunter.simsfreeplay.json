@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "14 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ The Sims FreePlay (v119.0.1)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **0 Cost / Free Shopping & Free Tokens**\n- **Unlimited Currencies (Never Decrease)**\n- **Gain Currency When Spending**\n- **Add +5,000,000 Simoleons**\n- **Add +50,000 Lifestyle Points (LP)**\n- **Add +50,000 Social Points (SP)**\n- **XP Gain Multiplier (1x - 100x)**\n- **1 XP Required For Next Level**\n- **Add +100,000 XP (No Telemetry)**\n- **Instant Level Up (+1 Level)**\n- **Rewards & Revenue Multiplier (1x - 100x)**\n- **Add +10,000,000 Town Value**\n- **Force Deliver Daily Mailbox Reward**\n- **Anti-Cheat & Telemetry Enforcement Bypass**\n\n### 🛡️ Protection\n- **1-User License**: Each token locks automatically to the first device that activates it.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "119.0.1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}

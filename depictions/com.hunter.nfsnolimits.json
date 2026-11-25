@@ -1,0 +1,50 @@
+{
+  "minVersion": "0.4",
+  "tintColor": "#7C5CFF",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "Details & Features",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "22 Built-in Mod Features • by @m0hmm3d",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "### ✨ Need for Speed: No Limits (v9.6.01)\nPro Glass UI Mod Menu by **m0hammed** (`@m0hmm3d`) — supports both **Rootless (`arm64`)** and **RootHide (`arm64e`)**.\n\n### 🔥 Mod Features\n- **0 Cost / Free Shopping**\n- **Unlimited Currencies**\n- **Gain Currency When Spending**\n- **Add +5,000,000 Cash & +50,000 Gold**\n- **Max All Currencies**\n- **Add +100,000 Rep (XP) & Level Up**\n- **Unlock All Cars & Add All Blueprints**\n- **Unlock All Features & +200,000 VIP Points**\n- **Force Max Rep Level Gate Bypass**\n- **Auto-Unlock Vault Restrictions**\n- **Enable Crate Reroll**\n- **Infinite Player Nitro**\n- **Top Speed Multiplier (1x - 3x)**\n- **Acceleration Multiplier (1x - 4x)**\n- **Car PR Boost (+0 to +1000 PR)**\n- **Skip Race & Auto-Win**\n- **In-Race Cash & Action Reward Multiplier (1x - 50x)**\n- **Weaken AI + No AI RubberBanding**\n- **Freeze AI Cars in Place**\n- **Remove All Opponent Cars**\n- **Disable Traffic Cars**\n- **Disable Police Pursuits**\n\n### 🛡️ Protection\n- **1-User License**: Each token locks automatically to the first device that activates it.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "✈️ Telegram: @m0hmm3d (Get Key / Support)",
+          "action": "https://t.me/m0hmm3d",
+          "openExternal": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "m0hammed (@m0hmm3d)"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "9.6.01"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Jailbreak Support",
+          "text": "Rootless (arm64) & RootHide (arm64e)"
+        }
+      ]
+    }
+  ]
+}
