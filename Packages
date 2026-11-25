@@ -253,16 +253,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.fishdom.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.fishdom.json
 
 Package: com.hunter.gameofthrones
-Version: 1.4.24
+Version: 1.5.10
 Architecture: iphoneos-arm64
 Maintainer: hunter
 Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.gameofthrones_1.4.24_iphoneos-arm64.deb
-Size: 131004
-MD5sum: 3203e5c2c1a97450fbf9c63c736305f8
-SHA1: 335ed795f55dacc3bc7343fcbe2156f33d6aab44
-SHA256: c812be5940c67ca99a20b716da2dd95b9172a59ed1680e33902f9044fedd1b4f
+Filename: ./debs/com.hunter.gameofthrones_1.5.10_iphoneos-arm64.deb
+Size: 134310
+MD5sum: ad76f80d518f943628eb726fc3bfa43b
+SHA1: bf591ea002863b5fa572f970f605a068ce1534af
+SHA256: 8a700dbaca384d795edfa0d86d1a5fbec90b93aadd71e390747ef66f00f13d5f
 Section: Tweaks
 Description: Features: Player Speed Boost, Move Speed Multiplier, Infinite Sprint / Stamina, Attack Speed Boost, Attack Speed Multiplier, Fast / Instant Skill Cast, Global Game Speed (Time Dilation), God Mode (Invincible) (+19 more) | Telegram: @m0hmm3d
 Author: hunter
@@ -271,16 +271,16 @@ Icon: https://uae0o.github.io/ios-mod/icons/com.hunter.gameofthrones.png
 SileoDepiction: https://uae0o.github.io/ios-mod/depictions/com.hunter.gameofthrones.json
 
 Package: com.hunter.gameofthrones
-Version: 1.4.24
+Version: 1.5.10
 Architecture: iphoneos-arm64e
 Maintainer: hunter
 Installed-Size: 564
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hunter.gameofthrones_1.4.24_iphoneos-arm64e.deb
-Size: 245652
-MD5sum: 2cf29de0a2881d6a2a8cca025b30761a
-SHA1: 51c8a3599012d359206f95fee069b9e559003400
-SHA256: c38268b3073dc566b8203af4755ae34ac4df9aaf2870ec7f2074554c43bca25e
+Filename: ./debs/com.hunter.gameofthrones_1.5.10_iphoneos-arm64e.deb
+Size: 252804
+MD5sum: 9cb5f0424e0dda0fb37f9c5888c5f775
+SHA1: abe5e1d6bd033b84d876fff9171cd8c825d37f76
+SHA256: ed91b1f94a048931d774492588cd8d9817800190b11f63fe8dad886aaeb24aa5
 Section: Tweaks
 Description: Features: Player Speed Boost, Move Speed Multiplier, Infinite Sprint / Stamina, Attack Speed Boost, Attack Speed Multiplier, Fast / Instant Skill Cast, Global Game Speed (Time Dilation), God Mode (Invincible) (+19 more) | Telegram: @m0hmm3d
 Author: hunter
